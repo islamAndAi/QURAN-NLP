@@ -8,6 +8,8 @@ Using NLP knowledge on the Quran and looking forward to making something amazing
 2. Used NLP to get top 100 words used in Quran
 3. Used sentiment analysis for each surah
 
+![Top 100 most common words](topmost.png)
+
 ### Important Note
 
 If you find any type of error or mistake in the translation please correct me. If you find the work interesting feel free to build more on it!
