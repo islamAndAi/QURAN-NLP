@@ -2,6 +2,19 @@
 
 Using NLP knowledge on the Quran and looking forward to making something amazing out of it!
 
+## Motivation
+
+I thought about using my knowledge of ML & NLP on the Quran to make something out of it. I have tried to
+get summary of the Verses and Tafasir, getting the sentiment analysis, I have made a Search Engine so that 
+any query can be searched as easily as a person does on Google
+
+This is a open source project and I am trying to host it somewhere so people can use it and make the most out of it.
+
+Collaborations are HIGHLY welcome! If anyone can help with the code or help fact check the search results or summaries 
+that would be a HUGE help!
+
+Looking forward to do something great with Quran & NLP
+
 ## Work till now
 
 1. Notebook to scrape data from an authentic website: https://www.altafsir.com/
