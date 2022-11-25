@@ -1,6 +1,6 @@
 # QURAN NLP
 
-Using NLP knowledge on the Quran and looking forward to making something amazing out of it!
+NLP & ML on the Quran!
 
 ## Motivation
 
@@ -15,6 +15,7 @@ that would be a HUGE help!
 
 Looking forward to do something great with Quran & NLP
 
+![Search Engine](searchengine.png)
 ## Work till now
 
 1. Notebook to scrape data from an authentic website: https://www.altafsir.com/
@@ -23,12 +24,21 @@ Looking forward to do something great with Quran & NLP
 4. Used sentiment analysis for Quran each surah
 5. Text Summarization for Quran & each Surah
 6. Search Engine for Quran using Google USE (Universal Sentence Encoder)
+7. Similarity Index of Translation & Tafseer
+   
 
 ![Top 100 most common words](topmost.png)
 
-7. Similarity Index of Translation & Tafseer
+
 
 ![Similarity Index](textrelation.png)
+
+## Future Goals
+
+1. Add more Tafaseer and translation to better train the NLP model for Search Engine & Analysis
+2. Make a end-to-end application so that everyone can benefit from the newly trained models
+3. Find insightful things from the Quran
+
 
 ### Important Note
 
