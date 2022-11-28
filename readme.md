@@ -15,7 +15,7 @@ that would be a HUGE help!
 
 Looking forward to do something great with Quran & NLP
 
-![Search Engine](searchengine.png)
+![Search Engine](images/searchengine.png)
 ## Work till now
 
 1. Notebook to scrape data from an authentic website: https://www.altafsir.com/
@@ -27,11 +27,11 @@ Looking forward to do something great with Quran & NLP
 7. Similarity Index of Translation & Tafseer
    
 
-![Top 100 most common words](topmost.png)
+![Top 100 most common words](images/topmost.png)
 
 
 
-![Similarity Index](textrelation.png)
+![Similarity Index](images/textrelation.png)
 
 ## Future Goals
 
