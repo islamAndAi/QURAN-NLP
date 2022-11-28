@@ -40,7 +40,7 @@ Looking forward to do something great with Quran & NLP
 3. Find insightful things from the Quran
 
 
-### Important Note
+## Important Note
 
 If you find any type of error or mistake in the translation please correct me. If you find the work interesting feel free to build more on it!
 
@@ -50,3 +50,6 @@ If you find any type of error or mistake in the translation please correct me. I
 The csv data at "./data/main_df.csv" is the latest version of the data being used for NLP. I have tried to add as many 
 translations and Tafaseer I can, Anyone can add more columns to the Translations or Tafaseer, If anyone wants to use the 
 df for their own projects please do
+
+Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-english-translation-tafaseer 
+You can use Kaggle to work on it online too!
