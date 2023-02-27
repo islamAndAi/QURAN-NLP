@@ -45,7 +45,7 @@ search = AyatSearch("data/main_df.csv")
 st.subheader("Enter your query:")
 query = st.text_input("", "Importance of Prayer")#st.session_state.query)
 # st.session_state.query = query
-st.subheader("Select an number of queries:")
+st.subheader("Select the number of queries:")
 x = st.slider("", 2, 25, 3)
 # from translate import Translator
 
