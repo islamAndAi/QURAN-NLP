@@ -12,7 +12,7 @@ def inject_ga():
     GA_JS = """
     <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-N39RFTGS8Q"></script>
-        
+
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -50,6 +50,8 @@ class AyatSearch():
             arabic.append(row['Arabic'])
             t = ""
             t += row['Name'] + "|" + str(row['Arabic'])+"|"+ str(row['Surah'])+"|"+str(row['Ayat'])+"|"
+            t += row['EnglishTitle'] + "|" + str(row['ArabicTitle'])+"|"+ str(row['RomanTitle'])+"|"
+            t += row['PlaceOfRevelation'] + "|"
             for j in range(1, 4):
                 t += row['Translation' + str(j)] + ";"
             t += "|"
@@ -97,20 +99,24 @@ for r in results:
     # Questions
     text = r.split("|")
     st.subheader(f"{text[1]}")
-    st.subheader(f"**Surah Name: '{text[0]}', Surah No. {text[2]}, Ayat No. {text[3]}**")
+    st.write(f"**- Surah Name: '{text[0]}' | {text[4]} | {text[5]} | {text[6]}**")
+    st.write(f"**- Surah No. {text[2]} | Ayat No. {text[3]}**")
+    st.write(f"**- Surah Revealed in {text[7]}**")
+
     # Answers
     st.subheader("Translations:")
-    translations = text[4].split(";")
+    translations = text[-2].split(";")
     for i in range(len(translations)):
         if len(translations[i])>2:
             st.write(f"{i+1}: {translations[i]}")
 
     st.subheader("Tafaseers:")
-    tafaseer = text[5].split(";")
+    tafaseer = text[-1].split(";")
     for i in range(len(tafaseer)):
-        st.write(f"{i+1}: {tafaseer[i]}")
+        if len(tafaseer[i])>2:
+            st.write(f"{i+1}: {tafaseer[i]}")
         
-    st.write("-"*80)
+    st.subheader("-"*70)
 # st.write(f"{results}")
 
 
