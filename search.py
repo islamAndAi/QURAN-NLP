@@ -110,7 +110,7 @@ for r in results:
         if len(translations[i])>2:
             st.write(f"{i+1}: {translations[i]}")
 
-    st.subheader("Tafaseers:")
+    st.subheader("Tafaseer:")
     tafaseer = text[-1].split(";")
     for i in range(len(tafaseer)):
         if len(tafaseer[i])>2:
