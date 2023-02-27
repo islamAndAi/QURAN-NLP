@@ -4,3 +4,4 @@ numpy
 pandas
 wordcloud
 tensorflow_hub
+scikit-learn
