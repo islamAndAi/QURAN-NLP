@@ -2,6 +2,10 @@
 
 NLP & ML on the Quran!
 
+## Demo!
+[Demo!](https://islam-ai.streamlit.app/)
+
+
 ## Motivation
 
 I thought about using my knowledge of ML & NLP on the Quran to make something out of it. I have tried to

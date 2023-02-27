@@ -40,7 +40,7 @@ class AyatSearch():
 
 with streamlit_analytics.track():
     st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
-    st.image("images/islam_ai.png", use_column_width="auto", width=250)
+    
     st.title("Welcome to Islam & AI")
     st.write("Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query.")
     st.write("This is the initial model for a very big project, please give feedback, share & let us know about any questions you might have")
