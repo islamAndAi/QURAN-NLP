@@ -2,10 +2,6 @@ import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
-import pathlib
-from bs4 import BeautifulSoup
-import logging
-import shutil
 import streamlit.components.v1 as components
 
 components.html(
