@@ -64,12 +64,13 @@ for r in results:
     st.subheader(f"{text[1]}")
     st.subheader(f"**Surah Name: '{text[0]}', Surah No. {text[2]}, Ayat No. {text[3]}**")
     # Answers
-    st.write("Translations:")
+    st.subheader("Translations:")
     translations = text[4].split(";")
     for i in range(len(translations)):
-        st.write(f"{i+1}: {translations[i]}")
+        if len(translations[i])>2:
+            st.write(f"{i+1}: {translations[i]}")
 
-    st.write("Tafaseers:")
+    st.subheader("Tafaseers:")
     tafaseer = text[5].split(";")
     for i in range(len(tafaseer)):
         st.write(f"{i+1}: {tafaseer[i]}")
