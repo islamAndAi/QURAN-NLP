@@ -36,8 +36,8 @@ class AyatSearch():
 
 
 
-st.title("Welcome to Islam & AI, your personal AI assistant that uses Quranic Ayats to search for your queries!")
-st.subheader("Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query.")
+st.title("Welcome to Islam & AI")
+st.write("Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query.")
 st.write("This is the initial model for a very big project, please give feedback, share & let us know about any questions you might have")
 
 search = AyatSearch("data/main_df.csv")
