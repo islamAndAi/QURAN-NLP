@@ -5,3 +5,4 @@ pandas
 wordcloud
 tensorflow_hub
 scikit-learn
+bs4
