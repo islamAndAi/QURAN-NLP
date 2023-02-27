@@ -99,7 +99,7 @@ for r in results:
     # Questions
     text = r.split("|")
     st.subheader(f"{text[1]}")
-    st.write(f"**- Surah Name: '{text[0]}' | {text[4]} | {text[5]} | {text[6]}**")
+    st.write(f"**- Surah Name: '{text[5]}' | {text[4]} | {text[6]} | {text[0]}**")
     st.write(f"**- Surah No. {text[2]} | Ayat No. {text[3]}**")
     st.write(f"**- Surah Revealed in {text[7]}**")
 
