@@ -12,18 +12,24 @@ class AyatSearch():
         df = pd.read_csv('data/main_df.csv')
         arabic = []
         self.text=[]
+        translation_col = list(df.columns)
+        self.translation_col = [x for x in translation_col if "Translation" in x]
+
+        tafaseer_col = list(df.columns)
+        self.tafaseer_col = [x for x in tafaseer_col if "Tafaseer" in x]
+
         for index, row in df.iterrows():
             arabic.append(row['Arabic'])
             t = ""
-            t += row['Name'] + "|" + str(row['Arabic'])+"|"+ str(row['Surah'])+"|"+str(row['Ayat'])+"|"
-            t += row['EnglishTitle'] + "|" + str(row['ArabicTitle'])+"|"+ str(row['RomanTitle'])+"|"
-            t += row['PlaceOfRevelation'] + "|"
-            for j in range(1, 4):
-                t += row['Translation' + str(j)] + ";"
-            t += "|"
-            for j in range(1, 3):
-                t+= row['Tafaseer' + str(j)] + ";"
-            t = t[:-1]
+            t += row['Name'] + " | " + str(row['Arabic'])+" | "+ str(row['Surah'])+" | "+str(row['Ayat'])+" | "
+            t += row['EnglishTitle'] + " | " + str(row['ArabicTitle'])+" | "+ str(row['RomanTitle'])+" | "
+            t += row['PlaceOfRevelation'] + " | "
+            for j in self.translation_col:
+                t += row[j] + " + "
+            t += " | "
+            for j in self.tafaseer_col:
+                t+= row[j] + " + "
+            t = t[:-3]
             self.text.append(t)
         
         self.vectorizer = TfidfVectorizer()
@@ -47,16 +53,32 @@ languages = {'Arabic': 'ar',
 with streamlit_analytics.track(unsafe_password="!@#$"):
     st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
     
-    st.title("Welcome to Islam & AI")
-    st.write("Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query.")
-    st.write("This is the initial model for a very big project, please give feedback, share & let us know about any questions you might have")
-
     option = st.selectbox('Select Language', ('English', 'Urdu', 'Arabic', 'Pashto', 'Hindi', 'French'))
 
-    st.subheader("Enter your query:")
-    query = st.text_input("", "Importance of Prayer")
+    title = "Welcome to Islam & AI"
+    subtitle = "Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query."
+    subtitle2 = "This is the initial model for a very big project, please give feedback, share & let us know about any questions you might have"
     
-    st.subheader("Select the number of queries:")
+    lang = GoogleTranslator(target=languages[option]).translate(title)
+    st.title(lang)
+
+    lang = GoogleTranslator(target=languages[option]).translate(subtitle)
+    st.write(lang)
+
+    lang = GoogleTranslator(target=languages[option]).translate(subtitle2)
+    st.write(lang)
+
+    choice = "Enter your query:"
+    lang = GoogleTranslator(target=languages[option]).translate(choice)
+    st.subheader(lang)
+
+    placeholder = "Importance of Prayer"
+    lang = GoogleTranslator(target=languages[option]).translate(placeholder)
+    query = st.text_input("", lang)
+    
+    choice = "Select the number of queries:"
+    lang = GoogleTranslator(target=languages[option]).translate(choice)
+    st.subheader(lang)
     x = st.slider("", 2, 25, 3)
     
     search = AyatSearch("data/main_df.csv")
@@ -66,26 +88,36 @@ with streamlit_analytics.track(unsafe_password="!@#$"):
     st.title("**Results:**")
 
     for r in results:
-        text = r.split("|")
+        text = r.split(" | ")
         st.subheader(f"{text[1]}")
-        st.write(f"**- Surah Name: {text[5]} | {text[4]} | {text[6]} | {text[0]}**")
-        st.write(f"**- Surah No. {text[2]} | Ayat No. {text[3]}**")
-        st.write(f"**- Surah Revealed in {text[7]}**")
+        
+        lang = GoogleTranslator(target=languages[option]).translate("Surah Name")
+        st.write(f"**- {lang}**")
+        st.write(f"**-- {text[5]} | {text[4]} | {text[6]} | {text[0]}**")
+
+        lang = GoogleTranslator(target=languages[option]).translate(f"Surah No. {text[2]} | Ayat No. {text[3]}")
+        st.write(f"**- {lang}**")
+
+        lang = GoogleTranslator(target=languages[option]).translate(f"Surah Revealed in {text[7]}")
+        st.write(f"**- {lang}**")
 
 
         st.subheader("Translations:")
-        translations = text[-2].split(";")
+        translations = text[-2].split(" + ")
         for i in range(len(translations)):
             if len(translations[i])>2:
                 lang = GoogleTranslator(target=languages[option]).translate(translations[i])
-                st.write(f"{i+1}: {lang}")
+                st.write(f"{i+1}: {search.translation_col[i]}")
+                st.write(f"{lang}")
+                
 
         st.subheader("Tafaseer:")
-        tafaseer = text[-1].split(";")
+        tafaseer = text[-1].split(" + ")
         for i in range(len(tafaseer)):
             if len(tafaseer[i])>2:
                 lang = GoogleTranslator(target=languages[option]).translate(tafaseer[i])
-                st.write(f"{i+1}: {lang}")
+                st.write(f"{i+1}: {search.tafaseer_col[i]}")
+                st.write(f"{lang}")
             
         st.subheader("-"*70)
 
