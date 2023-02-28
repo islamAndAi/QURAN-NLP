@@ -1,5 +1,3 @@
-
-
 import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -13,15 +11,26 @@ import shutil
 from google.cloud import firestore
 import datetime
 import time
+import re
 
-keypath = ""#st.secrets["db"]
+key = {
+  "type": st.secrets["type"],
+  "project_id": st.secrets["project_id"],
+  "private_key_id": st.secrets["private_key_id"],
+  "private_key": st.secrets["private_key"],
+  "client_email": st.secrets["client_email"],
+  "client_id": st.secrets["client_id"],
+  "auth_uri": st.secrets["auth_uri"],
+  "token_uri": st.secrets["token_uri"],
+  "auth_provider_x509_cert_url": st.secrets["auth_provider_x509_cert_url"],
+  "client_x509_cert_url": st.secrets["client_x509_cert_url"],
+}
 
-#db = firestore.Client.from_service_account_info(keypath)
+
+db = firestore.Client.from_service_account_info(key)
 
 def inject_ga():
     GA_ID = "google_analytics"
-
-
     GA_JS = """
     <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-N39RFTGS8Q"></script>
@@ -90,7 +99,7 @@ class AyatSearch():
         return top_paragraphs
 
 def translate(language, query):
-    #return query
+    # return query
     return GoogleTranslator(target=language).translate(query)
 
 
@@ -113,81 +122,77 @@ languages = {'English': 'en',
  'Azerbaijani': 'az',
  }
 
-#streamlit_analytics.start_tracking(firestore_key_file=keypath, firestore_collection_name="counts")
-streamlit_analytics.start_tracking()
+#with streamlit_analytics.track(load_from_json=key, firestore_collection_name="counts", verbose=True):
+with streamlit_analytics.track(unsafe_password="!@#$"):
 
-st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
+    st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
 
-option = st.selectbox('Select Language', languages.keys())
+    option = st.selectbox('Select Language', languages.keys())
 
-title = "Welcome to Islam & AI"
-subtitle = "Your Personal AI Assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily."
-subtitle2 = "This is the initial model for a very big project; please give feedback, share & let us know about any questions you might have"
-subtitle3 = "If you have any queries or would like to collaborate, please do contact at this email address"
+    title = "Welcome to Islam & AI"
+    subtitle = "Your Personal AI Assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily."
+    subtitle2 = "This is the initial model for a very big project; please give feedback, share & let us know about any questions you might have"
+    subtitle3 = "If you have any queries or would like to collaborate, please do contact at this email address"
 
-st.title(translate(languages[option], title))
-st.write(translate(languages[option], subtitle))
-st.write(translate(languages[option], subtitle2))
-st.write(translate(languages[option], subtitle3))
-st.write("alizahidrajaa@gmail.com")
+    st.title(translate(languages[option], title))
+    st.write(translate(languages[option], subtitle))
+    st.write(translate(languages[option], subtitle2))
+    st.write(translate(languages[option], subtitle3))
+    st.write("alizahidrajaa@gmail.com")
 
-#st.write(translate(languages[option], "Enter your email address to get updates!"))
-#email = st.text_input("email", translate(languages[option], "user@domain.com"))
-#timestamp = datetime.datetime.now()
+    st.write(translate(languages[option], "Enter your email address to get updates!"))
+    email = st.text_input("email", translate(languages[option], "user@domain.com"))
+    timestamp = datetime.datetime.now()
 
-#if not email == "user@domain.com" :
-    # create a dictionary to store the data
-    #data = {"email": email, "timestamp": timestamp}
-    #doc_ref = db.collection("emails").add(data)
-    #alert = st.warning(translate(languages[option], "Email saved successfully!!")) # Display the success
-    #time.sleep(2) # Wait for 2 seconds
-    #alert.empty()
-    
-st.subheader(translate(languages[option], "Enter your query:"))
+    if not email == "user@domain.com" :
+        if re.match(r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$', email):
+            # create a dictionary to store the data
+            data = {"email": email, "timestamp": timestamp}
+            doc_ref = db.collection("emails").add(data)
+            alert = st.warning(translate(languages[option], "Email saved successfully!")) # Display the success
+            time.sleep(2) # Wait for 2 seconds
+            alert.empty()
+        else:
+            alert = st.warning(translate(languages[option], "Invalid email!")) # Display the success
+            time.sleep(2) # Wait for 2 seconds
+            alert.empty()
+    st.subheader(translate(languages[option], "Enter your query:"))
 
-query = st.text_input("query", translate(languages[option], "Importance of Prayer"))
+    query = st.text_input("query", translate(languages[option], "Importance of Prayer"))
 
-st.subheader(translate(languages[option], "Select the number of queries:"))
-x = st.slider("num", 2, 20, 2)
+    st.subheader(translate(languages[option], "Select the number of queries:"))
+    x = st.slider("num", 2, 25, 3)
 
-search = AyatSearch("data/main_df.csv")
-query = GoogleTranslator(target='en').translate(query)
-results = search.query(query, int(x))
+    search = AyatSearch("data/main_df.csv")
+    query = GoogleTranslator(target='en').translate(query)
+    results = search.query(query, int(x))
 
-st.title(f"**{translate(languages[option], 'Results:')}**")
+    st.title(f"**{translate(languages[option], 'Results:')}**")
 
-for r in results:
-    text = r.split(" | ")
-    st.subheader(f"{text[1]}")
-    
-    st.write(f"**{translate(languages[option], 'Surah Name')}**")
-    st.write(f"**-- {text[5]} | {text[4]} | {text[6]} | {text[0]}**")
-
-    st.write(f"**- {translate(languages[option], f'Surah No. {text[2]} | Ayat No. {text[3]}')}**")
-
-    st.write(f"**- {translate(languages[option], f'Surah Revealed in {text[7]}')}**")
-
-    st.subheader(f"{translate(languages[option], 'Translations:')}")
-    translations = text[-2].split(" + ")
-    for i in range(len(translations)):
-        if len(translations[i])>2:
-            st.write(f"{i+1}: {translate(languages[option], search.translation_col[i])}")
-            st.write(f"{translate(languages[option], translations[i])}")
-            
-
-    st.subheader(f"{translate(languages[option], 'Tafaseer:')}")
-    tafaseer = text[-1].split(" + ")
-    for i in range(len(tafaseer)):
-        if len(tafaseer[i])>2:
-            st.write(f"{i+1}: {translate(languages[option], search.tafaseer_col[i])}")
-            st.write(f"{translate(languages[option], tafaseer[i])}")
+    for r in results:
+        text = r.split(" | ")
+        st.subheader(f"{text[1]}")
         
-    st.subheader("-"*70)
+        st.write(f"**{translate(languages[option], 'Surah Name')}**")
+        st.write(f"**-- {text[5]} | {text[4]} | {text[6]} | {text[0]}**")
 
+        st.write(f"**- {translate(languages[option], f'Surah No. {text[2]} | Ayat No. {text[3]}')}**")
 
+        st.write(f"**- {translate(languages[option], f'Surah Revealed in {text[7]}')}**")
 
-#streamlit_analytics.stop_tracking(firestore_key_file=keypath, firestore_collection_name="counts")
-streamlit_analytics.stop_tracking()
+        st.subheader(f"{translate(languages[option], 'Translations:')}")
+        translations = text[-2].split(" + ")
+        for i in range(len(translations)):
+            if len(translations[i])>2:
+                st.write(f"{i+1}: {translate(languages[option], search.translation_col[i])}")
+                st.write(f"{translate(languages[option], translations[i])}")
+                
 
-
-
+        st.subheader(f"{translate(languages[option], 'Tafaseer:')}")
+        tafaseer = text[-1].split(" + ")
+        for i in range(len(tafaseer)):
+            if len(tafaseer[i])>2:
+                st.write(f"{i+1}: {translate(languages[option], search.tafaseer_col[i])}")
+                st.write(f"{translate(languages[option], tafaseer[i])}")
+            
+        st.subheader("-"*70)
