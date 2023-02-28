@@ -44,9 +44,7 @@ languages = {'Arabic': 'ar',
  'Pashto': 'ps',
  'Urdu': 'ur'}
 
-streamlit_analytics.track(unsafe_password="!@#$")
-
-with streamlit_analytics.track():
+with streamlit_analytics.track(unsafe_password="!@#$"):
     st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
     
     st.title("Welcome to Islam & AI")
