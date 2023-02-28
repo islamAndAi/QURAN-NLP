@@ -43,81 +43,81 @@ class AyatSearch():
         top_paragraphs = [self.text[i] for i in top_indices]
         return top_paragraphs
 
-languages = {'Arabic': 'ar',
- 'English': 'en',
- 'French': 'fr',
+def translate(language, query):
+    return GoogleTranslator(target=language).translate(query)
+
+
+languages = {'English': 'en',
+ 'Urdu': 'ur',
  'Hindi': 'hi',
+ 'Arabic': 'ar', 
  'Pashto': 'ps',
- 'Urdu': 'ur'}
+ 'French': 'fr',
+ 'Chinese': 'zh-CN',
+ 'Turkish': 'tr',
+ 'Spanish': 'es',
+ 'German': 'de',
+ 'Danish': 'da',
+ 'Russian': 'ru',
+ 'Italian': 'it',
+ 'Japanese': 'ja',
+ 'Kazakh': 'kk',
+ 'Azerbaijani': 'az',
+ }
 
 with streamlit_analytics.track(unsafe_password="!@#$"):
     st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
     
-    option = st.selectbox('Select Language', ('English', 'Urdu', 'Arabic', 'Pashto', 'Hindi', 'French'))
+    option = st.selectbox('Select Language', languages.keys())
 
     title = "Welcome to Islam & AI"
     subtitle = "Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query."
     subtitle2 = "This is the initial model for a very big project, please give feedback, share & let us know about any questions you might have"
     
-    lang = GoogleTranslator(target=languages[option]).translate(title)
-    st.title(lang)
+    st.title(translate(languages[option], title))
 
-    lang = GoogleTranslator(target=languages[option]).translate(subtitle)
-    st.write(lang)
+    st.write(translate(languages[option], subtitle))
 
-    lang = GoogleTranslator(target=languages[option]).translate(subtitle2)
-    st.write(lang)
+    st.write(translate(languages[option], subtitle2))
 
-    choice = "Enter your query:"
-    lang = GoogleTranslator(target=languages[option]).translate(choice)
-    st.subheader(lang)
+    st.subheader(translate(languages[option], "Enter your query:"))
 
-    placeholder = "Importance of Prayer"
-    lang = GoogleTranslator(target=languages[option]).translate(placeholder)
-    query = st.text_input("", lang)
+    query = st.text_input("", translate(languages[option], "Importance of Prayer"))
     
-    choice = "Select the number of queries:"
-    lang = GoogleTranslator(target=languages[option]).translate(choice)
-    st.subheader(lang)
+    st.subheader(translate(languages[option], "Select the number of queries:"))
     x = st.slider("", 2, 25, 3)
     
     search = AyatSearch("data/main_df.csv")
     query = GoogleTranslator(target='en').translate(query)
     results = search.query(query, int(x))
 
-    st.title("**Results:**")
+    st.title(f"**{translate(languages[option], 'Results:')}**")
 
     for r in results:
         text = r.split(" | ")
         st.subheader(f"{text[1]}")
         
-        lang = GoogleTranslator(target=languages[option]).translate("Surah Name")
-        st.write(f"**- {lang}**")
+        st.write(f"**- {translate(languages[option], 'Surah Name')}**")
         st.write(f"**-- {text[5]} | {text[4]} | {text[6]} | {text[0]}**")
 
-        lang = GoogleTranslator(target=languages[option]).translate(f"Surah No. {text[2]} | Ayat No. {text[3]}")
-        st.write(f"**- {lang}**")
+        st.write(f"**- {translate(languages[option], f'Surah No. {text[2]} | Ayat No. {text[3]}')}**")
 
-        lang = GoogleTranslator(target=languages[option]).translate(f"Surah Revealed in {text[7]}")
-        st.write(f"**- {lang}**")
+        st.write(f"**- {translate(languages[option], f'Surah Revealed in {text[7]}')}**")
 
-
-        st.subheader("Translations:")
+        st.subheader(f"{translate(languages[option], 'Translations:')}")
         translations = text[-2].split(" + ")
         for i in range(len(translations)):
             if len(translations[i])>2:
-                lang = GoogleTranslator(target=languages[option]).translate(translations[i])
-                st.write(f"{i+1}: {search.translation_col[i]}")
-                st.write(f"{lang}")
+                st.write(f"{i+1}: {translate(languages[option], search.translation_col[i])}")
+                st.write(f"{translate(languages[option], translations[i])}")
                 
 
-        st.subheader("Tafaseer:")
+        st.subheader(f"{translate(languages[option], 'Tafaseer:')}")
         tafaseer = text[-1].split(" + ")
         for i in range(len(tafaseer)):
             if len(tafaseer[i])>2:
-                lang = GoogleTranslator(target=languages[option]).translate(tafaseer[i])
-                st.write(f"{i+1}: {search.tafaseer_col[i]}")
-                st.write(f"{lang}")
+                st.write(f"{i+1}: {translate(languages[option], search.tafaseer_col[i])}")
+                st.write(f"{translate(languages[option], tafaseer[i])}")
             
         st.subheader("-"*70)
 
