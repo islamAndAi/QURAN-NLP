@@ -113,7 +113,8 @@ languages = {'English': 'en',
  'Azerbaijani': 'az',
  }
 
-streamlit_analytics.start_tracking(firestore_key_file=keypath, firestore_collection_name="counts")
+#streamlit_analytics.start_tracking(firestore_key_file=keypath, firestore_collection_name="counts")
+streamlit_analytics.start_tracking()
 
 st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
 
@@ -185,7 +186,8 @@ for r in results:
 
 
 
-streamlit_analytics.stop_tracking(firestore_key_file=keypath, firestore_collection_name="counts")
+#streamlit_analytics.stop_tracking(firestore_key_file=keypath, firestore_collection_name="counts")
+streamlit_analytics.stop_tracking()
 
 
 
