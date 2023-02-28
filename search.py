@@ -2,8 +2,8 @@ import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
-import streamlit.components.v1 as components
 import streamlit_analytics
+from deep_translator import GoogleTranslator
 
 class AyatSearch():
 
@@ -37,6 +37,12 @@ class AyatSearch():
         top_paragraphs = [self.text[i] for i in top_indices]
         return top_paragraphs
 
+languages = {'Arabic': 'ar',
+ 'English': 'en',
+ 'French': 'fr',
+ 'Hindi': 'hi',
+ 'Pashto': 'ps',
+ 'Urdu': 'ur'}
 
 with streamlit_analytics.track():
     st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
@@ -45,47 +51,44 @@ with streamlit_analytics.track():
     st.write("Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query.")
     st.write("This is the initial model for a very big project, please give feedback, share & let us know about any questions you might have")
 
-    search = AyatSearch("data/main_df.csv")
+    option = st.selectbox('Select Language', ('English', 'Urdu', 'Arabic', 'Pashto', 'Hindi', 'French'))
 
     st.subheader("Enter your query:")
-    query = st.text_input("", "Importance of Prayer")#st.session_state.query)
-    # st.session_state.query = query
+    query = st.text_input("", "Importance of Prayer")
+    
     st.subheader("Select the number of queries:")
     x = st.slider("", 2, 25, 3)
-    # from translate import Translator
-
-
-    # print 
-
-    # translator = Translator(to_lang=option.lower())
-    # translation = translator.translate(query  )
+    
+    search = AyatSearch("data/main_df.csv")
+    query = GoogleTranslator(target='en').translate(query)
     results = search.query(query, int(x))
 
     st.title("**Results:**")
 
     for r in results:
-        # Questions
         text = r.split("|")
         st.subheader(f"{text[1]}")
         st.write(f"**- Surah Name: {text[5]} | {text[4]} | {text[6]} | {text[0]}**")
         st.write(f"**- Surah No. {text[2]} | Ayat No. {text[3]}**")
         st.write(f"**- Surah Revealed in {text[7]}**")
 
-        # Answers
+
         st.subheader("Translations:")
         translations = text[-2].split(";")
         for i in range(len(translations)):
             if len(translations[i])>2:
-                st.write(f"{i+1}: {translations[i]}")
+                lang = GoogleTranslator(target=languages[option]).translate(translations[i])
+                st.write(f"{i+1}: {lang}")
 
         st.subheader("Tafaseer:")
         tafaseer = text[-1].split(";")
         for i in range(len(tafaseer)):
             if len(tafaseer[i])>2:
-                st.write(f"{i+1}: {tafaseer[i]}")
+                lang = GoogleTranslator(target=languages[option]).translate(tafaseer[i])
+                st.write(f"{i+1}: {lang}")
             
         st.subheader("-"*70)
-    # st.write(f"{results}")
+
 
 
 
