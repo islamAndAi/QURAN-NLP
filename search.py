@@ -130,13 +130,13 @@ st.write(translate(languages[option], subtitle2))
 st.write(translate(languages[option], subtitle3))
 st.write("alizahidrajaa@gmail.com")
 
-st.write(translate(languages[option], "Enter your email address to get updates!"))
-email = st.text_input("email", translate(languages[option], "user@domain.com"))
-timestamp = datetime.datetime.now()
+#st.write(translate(languages[option], "Enter your email address to get updates!"))
+#email = st.text_input("email", translate(languages[option], "user@domain.com"))
+#timestamp = datetime.datetime.now()
 
-if not email == "user@domain.com" :
+#if not email == "user@domain.com" :
     # create a dictionary to store the data
-    data = {"email": email, "timestamp": timestamp}
+    #data = {"email": email, "timestamp": timestamp}
     #doc_ref = db.collection("emails").add(data)
     #alert = st.warning(translate(languages[option], "Email saved successfully!!")) # Display the success
     #time.sleep(2) # Wait for 2 seconds
