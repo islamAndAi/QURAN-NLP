@@ -121,10 +121,10 @@ with streamlit_analytics.track(unsafe_password="!@#$"):
 
     st.subheader(translate(languages[option], "Enter your query:"))
 
-    query = st.text_input("", translate(languages[option], "Importance of Prayer"))
+    query = st.text_input(" ", translate(languages[option], "Importance of Prayer"))
     
     st.subheader(translate(languages[option], "Select the number of queries:"))
-    x = st.slider("", 2, 25, 3)
+    x = st.slider(" ", 2, 25, 3)
     
     search = AyatSearch("data/main_df.csv")
     query = GoogleTranslator(target='en').translate(query)
