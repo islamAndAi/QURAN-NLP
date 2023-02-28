@@ -1,9 +1,4 @@
-nltk
-matplotlib
-numpy
 pandas
-wordcloud
-tensorflow_hub
 scikit-learn
 bs4
 streamlit-analytics
