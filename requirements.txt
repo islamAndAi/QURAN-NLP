@@ -2,3 +2,4 @@ pandas
 scikit-learn
 bs4
 deep_translator
+google-cloud
