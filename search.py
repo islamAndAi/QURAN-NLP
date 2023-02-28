@@ -109,14 +109,15 @@ with streamlit_analytics.track(unsafe_password="!@#$"):
     option = st.selectbox('Select Language', languages.keys())
 
     title = "Welcome to Islam & AI"
-    subtitle = "Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, just ask our AI assistant and it will provide you with the most relevant Quranic Ayats to answer your query."
-    subtitle2 = "This is the initial model for a very big project, please give feedback, share & let us know about any questions you might have"
-    
+    subtitle = "Your personal AI assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily. Whether you have a question about Islamic beliefs, practices, or anything else related to Islam, ask our AI assistant, and it will provide you with the most relevant Quranic Ayats to answer your query."
+    subtitle2 = "This is the initial model for a very big project; please give feedback, share & let us know about any questions you might have"
+    subtitle3 = "If you have any queries or would like to collaborate, please do contact at this email address"
+
     st.title(translate(languages[option], title))
-
     st.write(translate(languages[option], subtitle))
-
     st.write(translate(languages[option], subtitle2))
+    st.write(translate(languages[option], subtitle3))
+    st.write("alizahidrajaa@gmail.com")
 
     st.subheader(translate(languages[option], "Enter your query:"))
 
