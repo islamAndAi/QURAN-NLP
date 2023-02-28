@@ -14,9 +14,9 @@ from google.cloud import firestore
 import datetime
 import time
 
-keypath = st.secrets["db"]
+keypath = ""#st.secrets["db"]
 
-db = firestore.Client.from_service_account_info(keypath)
+#db = firestore.Client.from_service_account_info(keypath)
 
 def inject_ga():
     GA_ID = "google_analytics"
@@ -137,10 +137,10 @@ timestamp = datetime.datetime.now()
 if not email == "user@domain.com" :
     # create a dictionary to store the data
     data = {"email": email, "timestamp": timestamp}
-    doc_ref = db.collection("emails").add(data)
-    alert = st.warning(translate(languages[option], "Email saved successfully!!")) # Display the success
-    time.sleep(2) # Wait for 2 seconds
-    alert.empty()
+    #doc_ref = db.collection("emails").add(data)
+    #alert = st.warning(translate(languages[option], "Email saved successfully!!")) # Display the success
+    #time.sleep(2) # Wait for 2 seconds
+    #alert.empty()
     
 st.subheader(translate(languages[option], "Enter your query:"))
 
