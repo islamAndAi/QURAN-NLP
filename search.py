@@ -19,6 +19,7 @@ import numpy as np
 import nltk
 
 nltk.download('stopwords')
+nltk.download('punkt')
 
 key = {
   "type": st.secrets["type"],
