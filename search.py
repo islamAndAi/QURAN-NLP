@@ -235,7 +235,7 @@ meta_data = """<head>
 <meta property="og:url" content="https://islam-ai.streamlit.app/">
 <meta property="og:title" content="Islam & AI">
 <meta property="og:description" content="Empowering Islamic Education with Artificial Intelligence">
-<meta property="og:image" content="IMAGEURL>
+<meta property="og:image" content="https://pbs.twimg.com/media/FqKF7CWX0AY3YNQ?format=jpg&name=orig">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://islam-ai.streamlit.app/">
 <meta property="twitter:title" content="Islam & AI">
