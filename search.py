@@ -42,18 +42,6 @@ def inject_ga():
     GA_ID = "google_analytics"
     GA_JS = """
     <!-- Google tag (gtag.js) -->
-        <meta name="title" content="Islam & AI">
-        <meta name="description" content="Empowering Islamic Education with Artificial Intelligence">
-        <meta property="og:type" content="website">
-        <meta property="og:url" content="https://islam-ai.streamlit.app/">
-        <meta property="og:title" content="Islam & AI">
-        <meta property="og:description" content="Empowering Islamic Education with Artificial Intelligence">
-        <meta property="og:image" content="IMAGEURL>
-        <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://islam-ai.streamlit.app/">
-        <meta property="twitter:title" content="Islam & AI">
-        <meta property="twitter:description" content="Empowering Islamic Education with Artificial Intelligence">
-
         <script async src="https://www.googletagmanager.com/gtag/js?id=""" + GID + """"></script>
         
         <script>
@@ -78,7 +66,7 @@ def inject_ga():
         new_html = html.replace('<head>', '<head>\n' + GA_JS)
         index_path.write_text(new_html)
 
-
+inject_ga()
 
 def load_model(model_path):
     with open(model_path, 'rb') as f:
@@ -224,7 +212,6 @@ languages = {
 # Streamlit Starting
 
 st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
-inject_ga()
 
 hide_footer_style = """
     <style>
@@ -241,6 +228,21 @@ hide_footer_style = """
     """
 st.markdown(hide_footer_style, unsafe_allow_html=True)
 
+meta_data = """<head>
+<meta name="title" content="Islam & AI">
+<meta name="description" content="Empowering Islamic Education with Artificial Intelligence">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://islam-ai.streamlit.app/">
+<meta property="og:title" content="Islam & AI">
+<meta property="og:description" content="Empowering Islamic Education with Artificial Intelligence">
+<meta property="og:image" content="IMAGEURL>
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://islam-ai.streamlit.app/">
+<meta property="twitter:title" content="Islam & AI">
+<meta property="twitter:description" content="Empowering Islamic Education with Artificial Intelligence">
+</head>
+"""
+st.markdown(meta_data, unsafe_allow_html=True)
 
 streamlit_style = """
     <style>
