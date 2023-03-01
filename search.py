@@ -184,7 +184,7 @@ num = st.slider("num", 2, 25, 3)
 
 if not query == "Importance of Prayer":
     timestamp = datetime.datetime.now()
-    data = {"query": query, "number": num, "timestamp": timestamp, "language":languages[option]}
+    data = {"query": query, "number": num, "timestamp": timestamp, "language": option}
     doc_ref = db.collection("queries").add(data)
 
 
