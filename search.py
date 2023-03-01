@@ -59,13 +59,19 @@ def inject_ga():
 
 inject_ga()
 
-class AyatSearch():
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+from collections import defaultdict
+import numpy as np 
 
-    def __init__(self, path):
 
+class AyatSearch:
+    def __init__(self):
         df = pd.read_csv('data/main_df.csv')
         arabic = []
-        self.text=[]
+        self.documents=[]
         translation_col = list(df.columns)
         self.translation_col = [x for x in translation_col if "Translation" in x]
 
@@ -84,18 +90,64 @@ class AyatSearch():
             for j in self.tafaseer_col:
                 t+= row[j] + " + "
             t = t[:-3]
-            self.text.append(t)
+            self.documents.append(t)
+
+        self.total_documents = len(self.documents)
+        self.stop_words = set(stopwords.words('english'))
+        self.index = defaultdict(list)
+        self.document_lengths = []
         
-        self.vectorizer = TfidfVectorizer()
-        self.X = self.vectorizer.fit_transform(self.text)
-        
-        
-    def query(self, query, top_k=5):
-        query_vec = self.vectorizer.transform([query])
-        sim_scores = cosine_similarity(query_vec, self.X).flatten()
-        top_indices = sim_scores.argsort()[::-1][:top_k]
-        top_paragraphs = [self.text[i] for i in top_indices]
-        return top_paragraphs
+        self.idf = {}
+
+        # Preprocess the documents and build the search index
+        self.build_index()
+
+    def preprocess(self, document):
+        """
+        Tokenize, remove stop words, and stem the words in the document.
+        """
+        words = word_tokenize(document.lower())
+        words = [word for word in words if word.isalpha() and word not in self.stop_words]
+        ps = PorterStemmer()
+        words = [ps.stem(word) for word in words]
+        return words
+
+    def build_index(self):
+        """
+        Build an inverted index of the preprocessed documents.
+        """
+        for i, document in enumerate(self.documents):
+            words = self.preprocess(document)
+            self.document_lengths.append(len(words))
+            for word in words:
+                self.index[word].append(i)
+
+        # Compute IDF for each term
+        for term in self.index:
+            self.idf[term] = 1 + np.log(self.total_documents / len(self.index[term]))
+
+    def search(self, query, top_k=10):
+        """
+        Search the documents for the given query and return the top_k most relevant documents.
+        """
+        query_words = self.preprocess(query)
+
+        # Compute the TF-IDF score for each document
+        scores = defaultdict(float)
+        for word in query_words:
+            if word in self.index:
+                for doc_id in self.index[word]:
+                    tf = self.documents[doc_id].count(word) / self.document_lengths[doc_id]
+                    scores[doc_id] += tf * self.idf[word]
+
+        # Sort the documents by their scores
+        sorted_docs = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+
+        # Return the top_k most relevant documents
+        top_docs = [self.documents[doc_id] for doc_id, score in sorted_docs[:top_k]]
+
+        return top_docs
+
 
 def translate(language, query):
     # return query
@@ -188,12 +240,15 @@ if not query == "Importance of Prayer":
     doc_ref = db.collection("queries").add(data)
 
 
-search = AyatSearch("data/main_df.csv")
+search = AyatSearch()
 query = GoogleTranslator(target='en').translate(query)
-results = search.query(query, int(num))
+results = search.search(query, int(num))
 
 st.title(f"**{translate(languages[option], 'Results:')}**")
 
+if len(results) == 0:
+    st.subheader(f"{translate(languages[option], 'Nothing found')}")
+    
 for r in results:
     text = r.split(" | ")
     st.subheader(f"{text[1]}")
