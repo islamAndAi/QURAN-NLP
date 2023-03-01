@@ -11,15 +11,7 @@ from google.cloud import firestore
 import datetime
 import time
 import re
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer
-from collections import defaultdict
-import numpy as np 
-import nltk
-
-nltk.download('stopwords')
-nltk.download('punkt')
+import pickle
 
 key = {
   "type": st.secrets["type"],
@@ -67,89 +59,11 @@ def inject_ga():
 
 inject_ga()
 
+def load_model(model_path):
+    with open(model_path, 'rb') as f:
+        return pickle.load(f)
 
-class AyatSearch:
-    def __init__(self):
-        df = pd.read_csv('data/main_df.csv')
-        arabic = []
-        self.documents=[]
-        translation_col = list(df.columns)
-        self.translation_col = [x for x in translation_col if "Translation" in x]
-
-        tafaseer_col = list(df.columns)
-        self.tafaseer_col = [x for x in tafaseer_col if "Tafaseer" in x]
-
-        for index, row in df.iterrows():
-            arabic.append(row['Arabic'])
-            t = ""
-            t += row['Name'] + " | " + str(row['Arabic'])+" | "+ str(row['Surah'])+" | "+str(row['Ayat'])+" | "
-            t += row['EnglishTitle'] + " | " + str(row['ArabicTitle'])+" | "+ str(row['RomanTitle'])+" | "
-            t += row['PlaceOfRevelation'] + " | "
-            for j in self.translation_col:
-                t += row[j] + " + "
-            t += " | "
-            for j in self.tafaseer_col:
-                t+= row[j] + " + "
-            t = t[:-3]
-            self.documents.append(t)
-
-        self.total_documents = len(self.documents)
-        self.stop_words = set(stopwords.words('english'))
-        self.index = defaultdict(list)
-        self.document_lengths = []
-        
-        self.idf = {}
-
-        # Preprocess the documents and build the search index
-        self.build_index()
-
-    def preprocess(self, document):
-        """
-        Tokenize, remove stop words, and stem the words in the document.
-        """
-        words = word_tokenize(document.lower())
-        words = [word for word in words if word.isalpha() and word not in self.stop_words]
-        ps = PorterStemmer()
-        words = [ps.stem(word) for word in words]
-        return words
-
-    def build_index(self):
-        """
-        Build an inverted index of the preprocessed documents.
-        """
-        for i, document in enumerate(self.documents):
-            words = self.preprocess(document)
-            self.document_lengths.append(len(words))
-            for word in words:
-                self.index[word].append(i)
-
-        # Compute IDF for each term
-        for term in self.index:
-            self.idf[term] = 1 + np.log(self.total_documents / len(self.index[term]))
-
-    def search(self, query, top_k=10):
-        """
-        Search the documents for the given query and return the top_k most relevant documents.
-        """
-        query_words = self.preprocess(query)
-
-        # Compute the TF-IDF score for each document
-        scores = defaultdict(float)
-        for word in query_words:
-            if word in self.index:
-                for doc_id in self.index[word]:
-                    tf = self.documents[doc_id].count(word) / self.document_lengths[doc_id]
-                    scores[doc_id] += tf * self.idf[word]
-
-        # Sort the documents by their scores
-        sorted_docs = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-
-        # Return the top_k most relevant documents
-        top_docs = [self.documents[doc_id] for doc_id, score in sorted_docs[:top_k]]
-
-        return top_docs
-
-search = AyatSearch()
+search = load_model('./search_model/search_engine_model.pkl')
 
 
 def translate(language, query):
