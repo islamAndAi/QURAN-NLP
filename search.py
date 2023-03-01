@@ -11,6 +11,11 @@ from google.cloud import firestore
 import datetime
 import time
 import re
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+from collections import defaultdict
+import numpy as np 
 
 key = {
   "type": st.secrets["type"],
@@ -58,13 +63,6 @@ def inject_ga():
 
 
 inject_ga()
-
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer
-from collections import defaultdict
-import numpy as np 
 
 
 class AyatSearch:
@@ -248,7 +246,7 @@ st.title(f"**{translate(languages[option], 'Results:')}**")
 
 if len(results) == 0:
     st.subheader(f"{translate(languages[option], 'Nothing found')}")
-    
+
 for r in results:
     text = r.split(" | ")
     st.subheader(f"{text[1]}")
