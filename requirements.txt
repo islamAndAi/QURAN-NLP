@@ -3,4 +3,3 @@ scikit-learn
 bs4
 streamlit-analytics
 deep_translator
-pickle-mixin
