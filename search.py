@@ -230,6 +230,8 @@ if not email == "user@domain.com" :
         time.sleep(2) # Wait for 2 seconds
         alert.empty()
 
+search = AyatSearch()
+
 st.subheader(translate(languages[option], "Enter your query:"))
 query = st.text_input("query", translate(languages[option], "Importance of Prayer"))
 
@@ -242,7 +244,6 @@ if not query == "Importance of Prayer":
     doc_ref = db.collection("queries").add(data)
 
 
-search = AyatSearch()
 query = GoogleTranslator(target='en').translate(query)
 results = search.search(query, int(num))
 
