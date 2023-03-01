@@ -75,11 +75,34 @@ def load_model(model_path):
 
 class SearchEngine:
     def __init__(self, documents):
+        df = pd.read_csv('data/main_df.csv')
+        arabic = []
+        self.documents=[]
+        translation_col = list(df.columns)
+        self.translation_col = [x for x in translation_col if "Translation" in x]
+
+        tafaseer_col = list(df.columns)
+        self.tafaseer_col = [x for x in tafaseer_col if "Tafaseer" in x]
+
+        for index, row in df.iterrows():
+            arabic.append(row['Arabic'])
+            t = ""
+            t += row['Name'] + " | " + str(row['Arabic'])+" | "+ str(row['Surah'])+" | "+str(row['Ayat'])+" | "
+            t += row['EnglishTitle'] + " | " + str(row['ArabicTitle'])+" | "+ str(row['RomanTitle'])+" | "
+            t += row['PlaceOfRevelation'] + " | "
+            for j in self.translation_col:
+                t += row[j] + " + "
+            t += " | "
+            for j in self.tafaseer_col:
+                t+= row[j] + " + "
+            t = t[:-3]
+            self.documents.append(t)
+        
         self.documents = documents
+        self.total_documents = len(self.documents)
         self.stop_words = set(stopwords.words('english'))
         self.index = defaultdict(list)
         self.document_lengths = []
-        self.total_documents = len(documents)
         self.idf = {}
 
         # Preprocess the documents and build the search index
