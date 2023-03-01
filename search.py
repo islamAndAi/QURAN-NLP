@@ -230,10 +230,10 @@ st.markdown(hide_footer_style, unsafe_allow_html=True)
 
 streamlit_style = """
     <style>
-    @import url('https://fonts.googleapis.com/css?family=Work Sans');
+    @import url('https://fonts.googleapis.com/css?family=Nastaliq');
 
     html, body, [class*="css"]  {
-    font-family: 'Work Sans';
+    font-family: 'Nastaliq';
     }
     </style>
     """
