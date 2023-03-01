@@ -290,3 +290,45 @@ for r in results:
             st.write(f"{translate(languages[option], tafaseer[i])}")
         
     st.subheader("-"*70)
+
+hide_footer_style = """
+    <style>
+    .reportview-container .main footer {visibility: hidden;}    
+    #MainMenu {
+            visibility: hidden;
+        }
+
+    footer {
+             visibility: hidden;
+        }
+    </style>
+    
+    """
+st.markdown(hide_footer_style, unsafe_allow_html=True)
+
+footer="""<style>
+a:link , a:visited{
+color: green;
+background-color: transparent;
+text-decoration: underline;
+}
+
+a:hover,  a:active {
+color: green;
+background-color: transparent;
+text-decoration: underline;
+}
+
+.footer {
+left: 0;
+bottom: 0;
+width: 100%;
+color: green;
+text-align: center;
+}
+</style>
+<div class="footer">
+<p>Copyright @ 2023 - Islam & AI <a style='display: block; text-align: center;' href="https://www.alizahidraja.com/" target="_blank">Contact</a></p>
+</div>
+"""
+st.markdown(footer,unsafe_allow_html=True)
