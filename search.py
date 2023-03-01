@@ -33,8 +33,6 @@ key = {
   "auth_provider_x509_cert_url": st.secrets["auth_provider_x509_cert_url"],
   "client_x509_cert_url": st.secrets["client_x509_cert_url"],
 }
-
-
 db = firestore.Client.from_service_account_info(key)
 
 def inject_ga():
@@ -64,7 +62,6 @@ def inject_ga():
         html = str(soup)
         new_html = html.replace('<head>', '<head>\n' + GA_JS)
         index_path.write_text(new_html)
-
 
 inject_ga()
 
@@ -150,6 +147,8 @@ class AyatSearch:
 
         return top_docs
 
+search = AyatSearch()
+
 
 def translate(language, query):
     # return query
@@ -198,6 +197,8 @@ languages = {
  'Ukrainian': 'uk',
  }
 
+# Streamlit Starting
+
 st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
 
 option = st.selectbox('Select Language', languages.keys())
@@ -229,8 +230,6 @@ if not email == "user@domain.com" :
         alert = st.warning(translate(languages[option], "Invalid email!")) # Display the success
         time.sleep(2) # Wait for 2 seconds
         alert.empty()
-
-search = AyatSearch()
 
 st.subheader(translate(languages[option], "Enter your query:"))
 query = st.text_input("query", translate(languages[option], "Importance of Prayer"))
