@@ -228,6 +228,22 @@ hide_footer_style = """
     """
 st.markdown(hide_footer_style, unsafe_allow_html=True)
 
+meta_data = """<head>
+<meta name="title" content="Islam & AI">
+<meta name="description" content="Empowering Islamic Education with Artificial Intelligence">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://islam-ai.streamlit.app/">
+<meta property="og:title" content="Islam & AI">
+<meta property="og:description" content="Empowering Islamic Education with Artificial Intelligence">
+<meta property="og:image" content="IMAGEURL>
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://islam-ai.streamlit.app/">
+<meta property="twitter:title" content="Islam & AI">
+<meta property="twitter:description" content="Empowering Islamic Education with Artificial Intelligence">
+</head>
+"""
+st.markdown(meta_data, unsafe_allow_html=True)
+
 streamlit_style = """
     <style>
     @import url('https://fonts.googleapis.com/css?family=Work Sans');
