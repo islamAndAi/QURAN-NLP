@@ -230,10 +230,10 @@ st.markdown(hide_footer_style, unsafe_allow_html=True)
 
 streamlit_style = """
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Work Sans');
 
     html, body, [class*="css"]  {
-    font-family: 'Roboto';
+    font-family: 'Work Sans';
     }
     </style>
     """
