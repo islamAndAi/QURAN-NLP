@@ -16,6 +16,9 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from collections import defaultdict
 import numpy as np 
+import nltk
+
+nltk.download('stopwords')
 
 key = {
   "type": st.secrets["type"],
