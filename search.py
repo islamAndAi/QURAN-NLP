@@ -53,7 +53,7 @@ def inject_ga():
         <meta property="twitter:url" content="https://islam-ai.streamlit.app/">
         <meta property="twitter:title" content="Islam & AI">
         <meta property="twitter:description" content="Empowering Islamic Education with Artificial Intelligence">
-        
+
         <script async src="https://www.googletagmanager.com/gtag/js?id=""" + GID + """"></script>
         
         <script>
@@ -78,7 +78,7 @@ def inject_ga():
         new_html = html.replace('<head>', '<head>\n' + GA_JS)
         index_path.write_text(new_html)
 
-inject_ga()
+
 
 def load_model(model_path):
     with open(model_path, 'rb') as f:
@@ -224,6 +224,7 @@ languages = {
 # Streamlit Starting
 
 st.set_page_config(page_title="Islam & AI", page_icon = "images/islam_ai.png", initial_sidebar_state = 'auto')
+inject_ga()
 
 hide_footer_style = """
     <style>
