@@ -63,6 +63,77 @@ def load_model(model_path):
     with open(model_path, 'rb') as f:
         return pickle.load(f)
 
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+from collections import defaultdict
+import numpy as np 
+
+
+class SearchEngine:
+    def __init__(self, documents):
+        self.documents = documents
+        self.stop_words = set(stopwords.words('english'))
+        self.index = defaultdict(list)
+        self.document_lengths = []
+        self.total_documents = len(documents)
+        self.idf = {}
+
+        # Preprocess the documents and build the search index
+        self.build_index()
+
+    def preprocess(self, document):
+        """
+        Tokenize, remove stop words, and stem the words in the document.
+        """
+        words = word_tokenize(document.lower())
+        words = [word for word in words if word.isalpha() and word not in self.stop_words]
+        ps = PorterStemmer()
+        words = [ps.stem(word) for word in words]
+        return words
+
+    def build_index(self):
+        """
+        Build an inverted index of the preprocessed documents.
+        """
+        for i, document in enumerate(self.documents):
+            words = self.preprocess(document)
+            self.document_lengths.append(len(words))
+            for word in words:
+                self.index[word].append(i)
+
+        # Compute IDF for each term
+        for term in self.index:
+            self.idf[term] = 1 + np.log(self.total_documents / len(self.index[term]))
+
+    def search(self, query, top_k=10):
+        """
+        Search the documents for the given query and return the top_k most relevant documents.
+        """
+        query_words = self.preprocess(query)
+
+        # Compute the TF-IDF score for each document
+        scores = defaultdict(float)
+        for word in query_words:
+            if word in self.index:
+                for doc_id in self.index[word]:
+                    tf = self.documents[doc_id].count(word) / self.document_lengths[doc_id]
+                    scores[doc_id] += tf * self.idf[word]
+
+        # Sort the documents by their scores
+        sorted_docs = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+
+        # Return the top_k most relevant documents
+        top_docs = [self.documents[doc_id] for doc_id, score in sorted_docs[:top_k]]
+
+        return top_docs
+    
+    def save_model(self, model_path):
+        with open(model_path, 'wb') as f:
+            pickle.dump(self, f)
+
+
 search = load_model('./search_model/search_engine_model.pkl')
 
 
