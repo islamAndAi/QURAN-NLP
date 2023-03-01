@@ -33,19 +33,21 @@ key = {
   "auth_provider_x509_cert_url": st.secrets["auth_provider_x509_cert_url"],
   "client_x509_cert_url": st.secrets["client_x509_cert_url"],
 }
+GID = st.secrets["GID"]
+
 db = firestore.Client.from_service_account_info(key)
 
 def inject_ga():
     GA_ID = "google_analytics"
     GA_JS = """
     <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-N39RFTGS8Q"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=""" + GID + """"></script>
         
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-N39RFTGS8Q');
+            gtag('config', '""" + GID + """');
         </script>
     """
 
