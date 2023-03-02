@@ -1,6 +1,4 @@
 import streamlit as st
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 from deep_translator import GoogleTranslator
 import pathlib
@@ -354,7 +352,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Copyright @ 2023 - Islam & AI <a style='display: block; text-align: center;' href="https://www.alizahidraja.com/" target="_blank">Contact</a></p>
+<p>Copyright @ 2023 - Islam & AI <a style='display: block; text-align: center;' href="https://islamandai.com/" target="_blank">Contact</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
