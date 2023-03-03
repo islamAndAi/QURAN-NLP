@@ -64,11 +64,6 @@ def inject_ga():
 
 inject_ga()
 
-def load_model(model_path):
-    with open(model_path, 'rb') as f:
-        return pickle.load(f)
-
-
 def preprocess(document, stop_words):
     """
     Tokenize, remove stop words, and stem the words in the document.
