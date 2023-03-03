@@ -288,14 +288,14 @@ query = st.text_input("query", translate(languages[option], "Importance of Praye
 st.subheader(translate(languages[option], "Select the number of queries:"))
 num = st.slider("num", 2, 25, 3)
 
-if not query == "Importance of Prayer":
-    timestamp = datetime.datetime.now()
-    data = {"query": query, "number": num, "timestamp": timestamp, "language": option}
-    doc_ref = db.collection("queries").add(data)
-
-
 query = GoogleTranslator(target='en').translate(query)
 results = search.search(query, int(num))
+
+if not query == "Importance of Prayer":
+    timestamp = datetime.datetime.now()
+    data = {"query": query, "number": num, "timestamp": timestamp, "language": option, "results": results}
+    doc_ref = db.collection("queries").add(data)
+
 
 st.title(f"**{translate(languages[option], 'Results:')}**")
 
