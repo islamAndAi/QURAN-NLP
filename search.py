@@ -112,7 +112,7 @@ index, document_lengths, idf, stop_words, documents, translation_col, tafaseer_c
 
 
 def translate(language, query):
-    return query
+    # return query
     return GoogleTranslator(target=language).translate(query)
 
 
