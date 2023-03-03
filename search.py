@@ -9,13 +9,8 @@ import datetime
 import time
 import re
 import pickle
-import nltk
-from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer
 from collections import defaultdict
-nltk.download('punkt')
-nltk.download('stopwords')
 
 
 key = {
@@ -64,21 +59,21 @@ def inject_ga():
 
 inject_ga()
 
-def preprocess(document, stop_words):
+def preprocess(document, stop_words, ps):
     """
     Tokenize, remove stop words, and stem the words in the document.
     """
     words = word_tokenize(document.lower())
     words = [word for word in words if word.isalpha() and word not in stop_words]
-    ps = PorterStemmer()
     words = [ps.stem(word) for word in words]
     return words
 
-def search(query, documents, index, document_lengths, idf, top_k=10, stop_words=set(stopwords.words('english'))):
+
+def search(query, documents, index, document_lengths, idf, stop_words, ps, top_k=10):
     """
     Search the documents for the given query and return the top_k most relevant documents.
     """
-    query_words = preprocess(query, stop_words)
+    query_words = preprocess(query, stop_words, ps)
 
     # Compute the TF-IDF score for each document
     scores = defaultdict(float)
@@ -96,14 +91,12 @@ def search(query, documents, index, document_lengths, idf, top_k=10, stop_words=
 
     return top_docs
 
-
 def load_model(model_path):
     with open(model_path, 'rb') as f:
         model = pickle.load(f)
-    return model['index'], model['document_lengths'], model['idf'], model['stop_words'], model['documents'], model['translation_col'], model['tafaseer_col']
+    return model['index'], model['document_lengths'], model['idf'], model['stop_words'], model['documents'], model['porter_stemmer']
 
-index, document_lengths, idf, stop_words, documents, translation_col, tafaseer_col = load_model("search_model/search_engine_model.pkl")
-
+index, document_lengths, idf, stop_words, documents, ps = load_model("search_model/search_engine_model.pkl")
 
 
 def translate(language, query):
@@ -235,7 +228,7 @@ st.subheader(translate(languages[option], "Select the number of queries:"))
 num = st.slider("num", 2, 25, 3)
 
 query = GoogleTranslator(target='en').translate(query)
-results = search(query, documents, index, document_lengths, idf, top_k=int(num), stop_words=stop_words)
+results = search(query, documents, index, document_lengths, idf, stop_words, ps, top_k=int(num))
 
 if not query == "Importance of Prayer":
     timestamp = datetime.datetime.now()
@@ -263,16 +256,18 @@ for r in results:
     translations = text[-2].split(" + ")
     for i in range(len(translations)):
         if len(translations[i])>2:
-            st.write(f"{i+1}: {translate(languages[option], translation_col[i])}")
-            st.write(f"{translate(languages[option], translations[i])}")
+            innertext = translations[i].split(">")
+            st.write(f"{i+1}: {translate(languages[option], innertext[0])}")
+            st.write(f"{translate(languages[option], innertext[1])}")
             
 
     st.subheader(f"{translate(languages[option], 'Tafaseer:')}")
     tafaseer = text[-1].split(" + ")
     for i in range(len(tafaseer)):
         if len(tafaseer[i])>2:
-            st.write(f"{i+1}: {translate(languages[option], tafaseer_col[i])}")
-            st.write(f"{translate(languages[option], tafaseer[i])}")
+            innertext = tafaseer[i].split(">")
+            st.write(f"{i+1}: {translate(languages[option], innertext[0])}")
+            st.write(f"{translate(languages[option], innertext[1])}")
         
     st.title("-"*50)
 
