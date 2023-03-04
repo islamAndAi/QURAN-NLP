@@ -205,7 +205,7 @@ st.write(translate(languages[option], subtitle3))
 st.write("alizahidrajaa@gmail.com")
 
 st.write(translate(languages[option], "Enter your email address to get updates!"))
-email = st.text_input("email", translate(languages[option], "user@domain.com"))
+email = st.text_input("email", "user@domain.com")
 
 if not email == "user@domain.com" :
     if re.match(r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$', email):
