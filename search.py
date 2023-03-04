@@ -196,7 +196,7 @@ option = st.selectbox('Select Language', languages.keys())
 title = "Welcome to Islam & AI"
 subtitle = "Your Personal AI Assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily."
 subtitle2 = "This is the initial model for a very big project; please give feedback, share & let us know about any questions you might have"
-subtitle3 = "If you have any queries or would like to collaborate, please do contact at this email address"
+subtitle3 = "If you have any Queries, Feedback or would like to Collaborate, please do contact at this email address"
 
 st.title(translate(languages[option], title))
 st.write(translate(languages[option], subtitle))
