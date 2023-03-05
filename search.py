@@ -194,9 +194,9 @@ st.markdown(streamlit_style, unsafe_allow_html=True)
 option = st.selectbox('Select Language', languages.keys())
 
 title = "Welcome to Islam & AI"
-subtitle = "Your Personal AI Assistant that uses Quranic Ayats to search for your queries! Our model is based on Natural Language Processing techniques and is designed to help you find relevant information from the Quran quickly and easily."
-subtitle2 = "This is the initial model for a very big project; please give feedback, share & let us know about any questions you might have"
-subtitle3 = "If you have any Queries, Feedback or would like to Collaborate, please do contact at this email address"
+subtitle = "We are excited to present a new and innovative way of using Artificial Intelligence in the field of Islam, which has never been used before! Our AI model is specially designed to quickly and easily find relevant information from the Quran based on your queries, using Natural Language Processing techniques."
+subtitle2 = "This is just the beginning of a large project, and we need your support! Your queries and feedback will help us improve our AI model and cover all aspects of Islam. We welcome your suggestions and questions as we embark on this exciting journey."
+subtitle3 = "We welcome your Queries, Feedback, and Collaboration! Please do not hesitate to contact us at this email address"
 
 st.title(translate(languages[option], title))
 st.write(translate(languages[option], subtitle))
