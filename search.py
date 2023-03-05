@@ -271,7 +271,18 @@ for r in results:
         
     st.title("-"*50)
 
-footer="""<style>
+import datetime
+
+start_date = datetime.datetime(2023, 3, 1)
+current_date = datetime.datetime.now()
+
+time_delta = current_date - start_date
+
+days = time_delta.days
+hours, remainder = divmod(time_delta.seconds, 3600)
+minutes, seconds = divmod(remainder, 60)
+
+footer = """<style>
 a:link , a:visited{
 color: green;
 background-color: transparent;
@@ -293,7 +304,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Copyright @ 2023 - Islam & AI <a style='display: block; text-align: center;' href="https://islamandai.com/" target="_blank">Contact</a></p>
+<p>Copyright @ 2023 - Islam & AI <a style='display: block; text-align: center;' href="https://islamandai.com/" target="_blank">Contact</a> """ + f"{days} days, {hours} hours, and {minutes} minutes since the start of this project" + """</p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
