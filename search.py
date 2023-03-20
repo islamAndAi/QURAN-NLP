@@ -8,9 +8,7 @@ from google.cloud import firestore
 import datetime
 import time
 import re
-import pickle
-from nltk.tokenize import word_tokenize
-from collections import defaultdict
+
 
 
 key = {
