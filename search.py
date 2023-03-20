@@ -59,44 +59,6 @@ def inject_ga():
 
 inject_ga()
 
-def preprocess(document, stop_words, ps):
-    """
-    Tokenize, remove stop words, and stem the words in the document.
-    """
-    words = word_tokenize(document.lower())
-    words = [word for word in words if word.isalpha() and word not in stop_words]
-    words = [ps.stem(word) for word in words]
-    return words
-
-
-def search(query, documents, index, document_lengths, idf, stop_words, ps, top_k=10):
-    """
-    Search the documents for the given query and return the top_k most relevant documents.
-    """
-    query_words = preprocess(query, stop_words, ps)
-
-    # Compute the TF-IDF score for each document
-    scores = defaultdict(float)
-    for word in query_words:
-        if word in index:
-            for doc_id in index[word]:
-                tf = documents[doc_id].count(word) / document_lengths[doc_id]
-                scores[doc_id] += tf * idf[word]
-
-    # Sort the documents by their scores
-    sorted_docs = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-
-    # Return the top_k most relevant documents
-    top_docs = [documents[doc_id] for doc_id, score in sorted_docs[:top_k]]
-
-    return top_docs
-
-def load_model(model_path):
-    with open(model_path, 'rb') as f:
-        model = pickle.load(f)
-    return model['index'], model['document_lengths'], model['idf'], model['stop_words'], model['documents'], model['porter_stemmer']
-
-index, document_lengths, idf, stop_words, documents, ps = load_model("search_model/search_engine_model.pkl")
 
 
 def translate(language, query):
@@ -193,20 +155,20 @@ st.markdown(streamlit_style, unsafe_allow_html=True)
 
 option = st.selectbox('Select Language', languages.keys())
 
-betaversion = "Try our Latest Conversational AI Beta Model at: "
+betaversion = "Website Shifted to => "
 
 title = "Welcome to Islam & AI"
 subtitle = "We are excited to present a new and innovative way of using Artificial Intelligence in the field of Islam, which has never been used before! Our AI model is specially designed to quickly and easily find relevant information from the Quran based on your queries, using Natural Language Processing techniques."
 subtitle2 = "This is just the beginning of a large project, and we need your support! Your queries and feedback will help us improve our AI model and cover all aspects of Islam. We welcome your suggestions and questions as we embark on this exciting journey."
 subtitle3 = "We welcome your Queries, Feedback, and Collaboration! Please do not hesitate to contact us at this email address"
 
-st.write(translate(languages[option], betaversion) + "[IslamAndAi.com](https://islamandai.com/query-beta)")
 st.title(translate(languages[option], title))
 st.write(translate(languages[option], subtitle))
 st.write(translate(languages[option], subtitle2))
 st.write(translate(languages[option], subtitle3))
 st.write("alizahidrajaa@gmail.com")
 
+st.title(translate(languages[option], betaversion) + "[IslamAndAi.com](https://islamandai.com/query-beta)")
 st.write(translate(languages[option], "Enter your email address to get updates!"))
 email = st.text_input("email", "user@domain.com")
 
@@ -223,56 +185,6 @@ if not email == "user@domain.com" :
         alert = st.warning(translate(languages[option], "Invalid email!")) # Display the success
         time.sleep(2) # Wait for 2 seconds
         alert.empty()
-
-st.subheader(translate(languages[option], "Enter your query:"))
-query = st.text_input("query", translate(languages[option], "Importance of Prayer"))
-
-st.subheader(translate(languages[option], "Select the number of queries:"))
-num = st.slider("num", 2, 25, 3)
-
-query = GoogleTranslator(target='en').translate(query)
-results = search(query, documents, index, document_lengths, idf, stop_words, ps, top_k=int(num))
-
-if not query == "Importance of Prayer":
-    timestamp = datetime.datetime.now()
-    data = {"query": query, "number": num, "timestamp": timestamp, "language": option, "results": results}
-    doc_ref = db.collection("queries").add(data)
-
-
-st.title(f"**{translate(languages[option], 'Results:')}**")
-
-if len(results) == 0:
-    st.subheader(f"{translate(languages[option], 'Nothing found')}")
-
-for r in results:
-    text = r.split(" | ")
-    st.subheader(f"{text[1]}")
-    
-    st.write(f"**{translate(languages[option], 'Surah Name')}**")
-    st.write(f"**-- {text[5]} | {text[4]} | {text[6]} | {text[0]}**")
-
-    st.write(f"**- {translate(languages[option], f'Surah No. {text[2]} | Ayat No. {text[3]}')}**")
-
-    st.write(f"**- {translate(languages[option], f'Surah Revealed in {text[7]}')}**")
-
-    st.subheader(f"{translate(languages[option], 'Translations:')}")
-    translations = text[-2].split(" + ")
-    for i in range(len(translations)):
-        if len(translations[i])>2:
-            innertext = translations[i].split(">")
-            st.write(f"{i+1}: {translate(languages[option], innertext[0])}")
-            st.write(f"{translate(languages[option], innertext[1])}")
-            
-
-    st.subheader(f"{translate(languages[option], 'Tafaseer:')}")
-    tafaseer = text[-1].split(" + ")
-    for i in range(len(tafaseer)):
-        if len(tafaseer[i])>2:
-            innertext = tafaseer[i].split(">")
-            st.write(f"{i+1}: {translate(languages[option], innertext[0])}")
-            st.write(f"{translate(languages[option], innertext[1])}")
-        
-    st.title("-"*50)
 
 import datetime
 
