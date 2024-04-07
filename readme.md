@@ -56,5 +56,5 @@ The csv data at "./data/main_df.csv" is the latest version of the data being use
 translations and Tafaseer I can, Anyone can add more columns to the Translations or Tafaseer, If anyone wants to use the 
 df for their own projects please do
 
-Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-english-translation-tafaseer 
+Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-nlp 
 You can use Kaggle to work on it online too!
