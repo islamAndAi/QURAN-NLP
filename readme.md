@@ -2,8 +2,6 @@
 
 NLP & ML on the Quran!
 
-## Demo!
-[Demo!](https://islam-ai.streamlit.app/)
 
 
 ## Motivation
@@ -42,6 +40,9 @@ Looking forward to do something great with Quran & NLP
 1. Add more Tafaseer and translation to better train the NLP model for Search Engine & Analysis
 2. Make a end-to-end application so that everyone can benefit from the newly trained models
 3. Find insightful things from the Quran
+4. Make an Arabic NLP model capable of understanding Quran
+5. Make a single graph database encompassing Islamic knowledge
+6. Making an AI tool to authenticate Hadith
 
 
 ## Important Note
