@@ -6,4 +6,5 @@
 - https://www.kaggle.com/datasets/imrankhan197/the-quran-dataset
 - https://www.kaggle.com/datasets/fahd09/hadith-narrators
 - https://www.kaggle.com/datasets/fahd09/hadith-dataset
-
+- http://qaalarasulallah.com/
+- https://muslimscholars.info/
