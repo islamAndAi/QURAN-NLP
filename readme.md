@@ -2,7 +2,7 @@
 
 NLP & ML on the Quran!
 
-
+![Islam & AI](images/islam_ai.png)
 
 ## Motivation
 
