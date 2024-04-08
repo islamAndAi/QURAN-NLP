@@ -1,8 +1,22 @@
 # QURAN NLP
 
-NLP & ML on the Quran!
+NLP & AI on the Quran!
 
-![Islam & AI](images/islam_ai.png)
+# Dataset Structure
+
+- **data**
+  - **hadith** (89,144 hadiths!)
+    - **arabichadith** (62,169 hadith)
+    - **thaqalayn** (26,975 hadith)
+    - **kaggle_hadith_clean.csv** (34,410 hadith)
+    - **kaggle_rawis.csv** (24,028 rawis)
+  - **namesofallah** (99)
+  - **surah** (114)
+  - **tafseer** (4 * 6,236)
+  - **translation** (9 * 6,236)
+  - **main_df.csv** (6,236)
+
+The Biggest Collection Available Online for Hadith!
 
 ## Motivation
 
@@ -62,16 +76,6 @@ Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-nlp
 You can use Kaggle to work on it online too!
 
 
-# Dataset Structure
 
-- **data**
-  - **hadith** (89,144)
-    - **arabichadith** (62,169)
-    - **thaqalayn** (26,975)
-    - **kaggle_hadith_clean.csv** (34,410)
-    - **kaggle_rawis.csv** (24,028)
-  - **namesofallah** (99)
-  - **surah** (114)
-  - **tafseer** (4 * 6,236)
-  - **translation** (9 * 6,236)
-  - **main_df.csv** (6,236)
+
+![Islam & AI](images/islam_ai.png)
