@@ -5,8 +5,6 @@ NLP & AI on the Quran!
 
 # Dataset Structure
 
-### The Biggest Collection Available Online!
-
 - **data**
   - **hadith** (89,144 hadiths!)
     - **arabichadith** (62,169 hadith)
