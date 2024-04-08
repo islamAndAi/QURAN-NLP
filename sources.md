@@ -8,3 +8,6 @@
 - https://www.kaggle.com/datasets/fahd09/hadith-dataset
 - http://qaalarasulallah.com/
 - https://muslimscholars.info/
+- https://thaqalayn.net/
+- https://www.kaggle.com/datasets/abdokamr/arabic-hadith
+- https://www.islambook.com/hadith/

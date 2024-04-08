@@ -20,13 +20,14 @@ Looking forward to do something great with Quran & NLP
 ![Search Engine](images/searchengine.png)
 ## Work till now
 
-1. Notebook to scrape data from an authentic website: https://www.altafsir.com/
+1. Notebook to scrape data from website: https://www.altafsir.com/
 2. Provided English translation and Tafseer of Quran in easy to use CSV format
 3. Used NLP to get top 1000 words used in Quran
 4. Used sentiment analysis for Quran each surah
 5. Text Summarization for Quran & each Surah
 6. Search Engine for Quran using Google USE (Universal Sentence Encoder)
 7. Similarity Index of Translation & Tafseer
+8. Notebook to scrape data from https://thaqalayn.net/ which is a Comprehensive Shia Hadith Library 
    
 
 ![Top 100 most common words](images/topmost.png)
@@ -58,3 +59,18 @@ df for their own projects please do
 
 Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-nlp 
 You can use Kaggle to work on it online too!
+
+
+# Dataset Structure
+
+- **data**
+  - **hadith** (89,144)
+    - **arabichadith** (62,169)
+    - **thaqalayn** (26,975)
+    - **kaggle_hadith_clean.csv** (34,410)
+    - **kaggle_rawis.csv** (24,028)
+  - **namesofallah** (99)
+  - **surah** (114)
+  - **tafseer** (4 * 6,236)
+  - **translation** (9 * 6,236)
+  - **main_df.csv** (6,236)
