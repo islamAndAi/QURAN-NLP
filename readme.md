@@ -6,7 +6,7 @@ NLP & AI on the Quran!
 # Dataset Structure
 
 - **data**
-  - **hadith** (89,144 hadiths!)
+  - **hadith** (700,000+ hadiths!)
     - **Sanadset** (650,000 hadith) (Note that this data crosses the limit set by github, you can download it from Kaggle)
     - **arabichadith** (62,169 hadith)
     - **thaqalayn** (26,975 hadith)
