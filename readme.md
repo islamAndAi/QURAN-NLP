@@ -7,13 +7,13 @@ NLP & AI on the Quran!
 
 - **data**
   - **quran**
-    - **corpus**
-      - **dictionary**
-      - **morphology**
-      - **verbs**
-      - **lemmas**
-      - **lemmas (grouped)**
-    - **quran.csv**
+    - **corpus** (190,655)
+      - **dictionary** (53,924)
+      - **morphology** (128,219)
+      - **verbs** (1,475)
+      - **lemmas** (3,680)
+      - **lemmas (grouped)** (3,357)
+    - **quran.csv** (6,236)
   - **hadith** (700,000+ hadiths!)
     - **Sanadset** (650,000 hadith) (Note that this data crosses the limit set by github, you can download it from Kaggle)
     - **arabichadith** (62,169 hadith)
