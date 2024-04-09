@@ -84,7 +84,6 @@ Feel free to make notebooks on the current data, add more data (authentic and wi
 Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-nlp 
 You can use Kaggle to work on it online too!
 
-
-
+Project started: March 1, 2023
 
 ![Islam & AI](images/islam_ai.png)
