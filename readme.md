@@ -79,9 +79,7 @@ If you find any type of error or mistake in the translation please correct me. I
 
 ## How To Contribute
 
-The CSV data at "./data/main_df.csv" is the latest version of the data being used for NLP. I have tried to add as many 
-translations and Tafaseer I can, Anyone can add more columns to the Translations or Tafaseer, If anyone wants to use the 
-df for their projects please do
+Feel free to make notebooks on the current data, add more data (authentic and with sources) and have a look at the current data to make sure it is authentic and up-to-date!
 
 Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-nlp 
 You can use Kaggle to work on it online too!
