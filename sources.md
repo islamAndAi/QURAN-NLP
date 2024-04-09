@@ -13,3 +13,4 @@
 - https://www.islambook.com/hadith/
 - https://www.sciencedirect.com/science/article/pii/S2352340922007478
 - https://data.mendeley.com/datasets/5xth87zwb5/5
+- https://corpus.quran.com/

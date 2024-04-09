@@ -6,6 +6,14 @@ NLP & AI on the Quran!
 # Dataset Structure
 
 - **data**
+  - **quran**
+    - **corpus**
+      - **dictionary**
+      - **morphology**
+      - **verbs**
+      - **lemmas**
+      - **lemmas (grouped)**
+    - **quran.csv**
   - **hadith** (700,000+ hadiths!)
     - **Sanadset** (650,000 hadith) (Note that this data crosses the limit set by github, you can download it from Kaggle)
     - **arabichadith** (62,169 hadith)
@@ -33,6 +41,7 @@ that would be a HUGE help!
 Looking forward to doing something great with the Quran & NLP
 
 ![Search Engine](images/searchengine.png)
+
 ## Work till now
 
 1. Notebook to scrape data from the website: https://www.altafsir.com/
@@ -43,6 +52,7 @@ Looking forward to doing something great with the Quran & NLP
 6. Search Engine for Quran using Google USE (Universal Sentence Encoder)
 7. Similarity Index of Translation & Tafseer
 8. Notebook to scrape data from https://thaqalayn.net/ which is a Comprehensive Shia Hadith Library 
+9. Notebook to scrape https://corpus.quran.com/ which contains corpus of Quran, including dictionary, verbs, lemmas, morphology
    
 
 ![Top 100 most common words](images/topmost.png)

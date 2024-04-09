@@ -1,0 +1,1476 @@
+,verb,root,form,frequency,translation
+0,قَالَ,ق و ل,I,1618,to say
+1,كَانَ,ك و ن,I,1358,to be
+2,ءَامَنَ,ا م ن,IV,537,to believe
+3,عَلِمَ,ع ل م,I,382,to know
+4,جَعَلَ,ج ع ل,I,340,to make
+5,كَفَرَ,ك ف ر,I,289,to disbelieve
+6,جَآءَ,ج ي ا,I,278,to come
+7,عَمِلَ,ع م ل,I,276,"to do, to work"
+8,آتَى,ا ت ي,IV,271,to give
+9,رَءَا,ر ا ي,I,271,to see
+10,أَتَى,ا ت ي,I,264,"to come, to bring"
+11,شَآءَ,ش ي ا,I,236,"to will, to wish"
+12,خَلَقَ,خ ل ق,I,184,to create
+13,أَنزَلَ,ن ز ل,IV,183,"to send down, to reveal"
+14,كَذَّبَ,ك ذ ب,II,176,"to deny, to reject"
+15,دَعَا,د ع و,I,170,"to call, to invite, to pray"
+16,ٱتَّقَىٰ,و ق ي,VIII,166,"to be righteous, to fear (Allah)"
+17,هَدَى,ه د ي,I,144,to guide
+18,أَرَادَ,ر و د,IV,139,"to intend, to desire, to want, to wish"
+19,ٱتَّبَعَ,ت ب ع,VIII,136,to follow
+20,أَرْسَلَ,ر س ل,IV,130,to send
+21,أَخَذَ,ا خ ذ,I,127,"to take, to seize"
+22,ٱتَّخَذَ,ا خ ذ,VIII,124,to take
+23,عَبَدَ,ع ب د,I,122,to worship
+24,ظَلَمَ,ظ ل م,I,110,"to oppress, to wrong"
+25,سَأَلَ,س ا ل,I,106,to ask
+26,وَجَدَ,و ج د,I,106,to find
+27,أَخْرَجَ,خ ر ج,IV,99,"to bring forth, to drive out"
+28,أَكَلَ,ا ك ل,I,93,"to eat, to consume"
+29,لَّيْسَ,ل ي س,I,89,to not be
+30,فَعَلَ,ف ع ل,I,88,to do
+31,نَّظَرَ,ن ظ ر,I,87,"to look, to see"
+32,ذَكَرَ,ذ ك ر,I,84,"to remember, to mention"
+33,خَافَ,خ و ف,I,83,"to fear, to be afraid"
+34,قَتَلَ,ق ت ل,I,83,to kill
+35,رَجَعَ,ر ج ع,I,79,to return
+36,سَمِعَ,س م ع,I,78,"to hear, to listen"
+37,تَوَلَّىٰ,و ل ي,V,78,to turn
+38,أَمَرَ,ا م ر,I,77,"to order, to command"
+39,دَخَلَ,د خ ل,I,76,to enter
+40,جَزَىٰ,ج ز ي,I,73,"to reward, to recompense"
+41,أَطَاعَ,ط و ع,IV,72,to obey
+42,أَوْحَىٰٓ,و ح ي,IV,72,"to reveal, to inspire"
+43,أَشْرَكَ,ش ر ك,IV,71,to associate partners
+44,أَلْقَىٰٓ,ل ق ي,IV,71,"to cast, to throw, to meet, to offer"
+45,وَعَدَ,و ع د,I,70,to promise
+46,أَنفَقَ,ن ف ق,IV,68,to spend
+47,غَفَرَ,غ ف ر,I,65,to forgive
+48,أَحْبَبْ,ح ب ب,IV,64,"to love, to like"
+49,أَصَابَ,ص و ب,IV,64,"to strike, to befall, to bestow"
+50,أَضَلَّ,ض ل ل,IV,64,"to let go astray, to mislead"
+51,تَابَ,ت و ب,I,63,"to repent, to turn"
+52,كَسَبَ,ك س ب,I,62,to earn
+53,نَزَّلَ,ن ز ل,II,62,"to send down, to reveal"
+54,تَلَىٰ,ت ل و,I,61,to recite
+55,رَزَقَ,ر ز ق,I,61,to provide
+56,قَضَىٰٓ,ق ض ي,I,59,"to decree, to decide, to judge"
+57,نَصَرَ,ن ص ر,I,59,to help
+58,صَبَرَ,ص ب ر,I,58,to be patient
+59,جَرَيْ,ج ر ي,I,57,"to flow, to run"
+60,مَسَّ,م س س,I,56,to touch
+61,ضَرَبَ,ض ر ب,I,55,"to strike, to set forth"
+62,قَٰتَلَ,ق ت ل,III,54,to fight
+63,أَقَامَ,ق و م,IV,54,to establish
+64,خَرَجَ,خ ر ج,I,53,"to go out, to come out, to depart, to leave"
+65,ضَلَّ,ض ل ل,I,53,"to go astray, to err, to lose"
+66,بَعَثَ,ب ع ث,I,52,"to raise, to resurrect, to send"
+67,أَحْيَا,ح ي ي,IV,51,to give life
+68,تَذَكَّرَ,ذ ك ر,V,51,to receive admonition
+69,أَهْلَكَ,ه ل ك,IV,51,to destroy
+70,ٱفْتَرَىٰ,ف ر ي,VIII,50,to invent
+71,زَادَ,ز ي د,I,49,to increase
+72,عَقَلُ,ع ق ل,I,49,"to understand, to reason"
+73,كَتَبَ,ك ت ب,I,49,"to write, to prescribe, to ordain"
+74,ظَنَّ,ظ ن ن,I,47,"to think, to assume, to guess"
+75,شَكَرَ,ش ك ر,I,46,"to be grateful, to give thanks"
+76,نَبَّأَ,ن ب ا,II,46,to inform
+77,حَكَمَ,ح ك م,I,45,to judge
+78,يَذَرَ,و ذ ر,I,45,"to leave, to forsake"
+79,حَسِبَ,ح س ب,I,44,to think
+80,شَهِدَ,ش ه د,I,44,"to testify, to bear witness"
+81,مَلَكَتْ,م ل ك,I,44,"to possess, to have power"
+82,نَادَىٰ,ن د و,III,44,to call
+83,أَنذَرَ,ن ذ ر,IV,44,to warn
+84,أُدْخِلَ,د خ ل,IV,42,to admit
+85,سَبَّحَ,س ب ح,II,42,"to glorify, to praise"
+86,ٱسْتَطَاعَ,ط و ع,X,42,"to be able to, to be capable"
+87,حَمَلَ,ح م ل,I,41,"to carry, to bear"
+88,عَذَّبَ,ع ذ ب,II,41,to punish
+89,عَلَّمَ,ع ل م,II,41,to teach
+90,بِئْسَ,ب ا س,I,40,"to be wretched, to be evil"
+91,بَلَغَ,ب ل غ,I,40,to reach
+92,تَرَكَ,ت ر ك,I,40,to leave
+93,خَشِىَ,خ ش ي,I,40,to fear
+94,أَرَيْ,ر ا ي,IV,40,to show
+95,ٱسْتَغْفَرَ,غ ف ر,X,40,to ask forgiveness
+96,ٱسْتَكْبَرَ,ك ب ر,X,40,to be arrogant
+97,ٱهْتَدَىٰ,ه د ي,VIII,40,to be guided
+98,تَوَكَّلْ,و ك ل,V,40,to put trust
+99,حَرَّمَ,ح ر م,II,39,"to forbid, to make unlawful"
+100,مَّاتَ,م و ت,I,39,to die
+101,بُشِّرَ,ب ش ر,II,38,to give glad tidings
+102,رَّضِىَ,ر ض و,I,38,to be pleased
+103,يَحْزُن,ح ز ن,I,37,to grieve
+104,حَشَرَ,ح ش ر,I,37,"to gather, to raise"
+105,صَدَّ,ص د د,I,37,"to turn away, to avert, to hinder"
+106,نَجَّىٰ,ن ج و,II,37,"to save, to deliver"
+107,ذَاقُ,ذ و ق,I,36,to taste
+108,رَدَّ,ر د د,I,36,"to turn back, to return"
+109,بَيَّنُ,ب ي ن,II,35,to make clear
+110,ٱخْتَلَفَ,خ ل ف,VIII,35,to differ
+111,ذَهَبَ,ذ ه ب,I,35,"to go, to take away"
+112,سَجَدَ,س ج د,I,35,to prostrate
+113,ٱسْتَوَىٰٓ,س و ي,VIII,35,"to be equal, to be alike, to establish"
+114,نَسِىَ,ن س ي,I,35,to forget
+115,ٱبْتَغَىٰ,ب غ ي,VIII,34,to seek
+116,قَامَ,ق و م,I,33,"to stand up, to rise, to establish"
+117,أَعْرَضَ,ع ر ض,IV,32,to turn away
+118,كَفَىٰ,ك ف ي,I,32,to be sufficient
+119,نَهَىٰ,ن ه ي,I,32,to forbid
+120,نَفَعَ,ن ف ع,I,31,"to profit, to benifit"
+121,سَآءَ,س و ا,I,30,to be evil
+122,عَسَى,ع س ي,I,30,to perhaps
+123,لَبِثَ,ل ب ث,I,30,"to remain, to stay, to hesitate, to delay"
+124,وَلَّىٰ,و ل ي,II,30,to turn
+125,أَبْصَرَ,ب ص ر,IV,29,to see
+126,ٱسْتَجَابَ,ج و ب,X,28,"to answer, to respond"
+127,رَّحِمَ,ر ح م,I,28,to have mercy
+128,أَصْبَحَ,ص ب ح,IV,28,to become
+129,أَصْلَحَ,ص ل ح,IV,28,"to correct, to reform, to improve, to make peace"
+130,أَغْنَتْ,غ ن ي,IV,28,"to avail, to enrich"
+131,جَٰهَدَ,ج ه د,III,27,to strive
+132,عَصَا,ع ص ي,I,27,to disobey
+133,عَفَا,ع ف و,I,27,"to forgive, to pardon"
+134,أَفْلَحَ,ف ل ح,IV,27,to succeed
+135,قَدَّمَ,ق د م,II,27,"to send forth, to offer"
+136,زَيَّنَ,ز ي ن,II,26,to make fair-seeming
+137,بَغَىٰ,ب غ ي,I,25,"to seek, to oppress"
+138,جَٰدَلُ,ج د ل,III,25,"to argue, to dispute"
+139,خَلَا,خ ل و,I,25,to pass away
+140,يَشْعُرُ,ش ع ر,I,25,"to perceive, to realize"
+141,قَدَرَ,ق د ر,I,25,"to restrict, to control, to have power"
+142,كَادَ,ك و د,I,24,"to be near, to nearly do, to almost do"
+143,تَوَفَّىٰ,و ف ي,V,24,"to pass away, to die"
+144,أَذِنَ,ا ذ ن,I,23,to permit
+145,بَدَّلَ,ب د ل,II,23,to change
+146,فَتَنُ,ف ت ن,I,23,"to persecute, to test, to try"
+147,لَعَنَ,ل ع ن,I,23,to curse
+148,أَنجَىٰ,ن ج و,IV,23,to save
+149,جَمَعَ,ج م ع,I,22,"to gather, to collect"
+150,أَذَاقَ,ذ و ق,IV,22,to cause taste
+151,يَرْجُوا۟,ر ج و,I,22,"to hope, to expect, to desire"
+152,رَفَعَ,ر ف ع,I,22,to raise
+153,سَخَّرَ,س خ ر,II,22,"to subject, to impose"
+154,أَسْلَمَ,س ل م,IV,22,to submit
+155,مَكَرَ,م ك ر,I,22,"to plot, to scheme, to plan"
+156,وَهَبَ,و ه ب,I,22,"to grant, to bestow"
+157,أَحْسَنَ,ح س ن,IV,21,to do good
+158,ٱشْتَرَىٰ,ش ر ي,VIII,21,"to buy, to purchase, to exchange"
+159,كَتَمَ,ك ت م,I,21,"to conceal, to hide"
+160,مَّشَ,م ش ي,I,21,to walk
+161,أَمَاتَ,م و ت,IV,21,to cause death
+162,ٱسْتُهْزِئَ,ه ز ا,X,21,"to mock, to ridicule"
+163,وَضَعَ,و ض ع,I,21,"to deliver, to give birth"
+164,أَمِنَ,ا م ن,I,20,to feel secure
+165,بَلَوْ,ب ل و,I,20,to test
+166,حَقَّ,ح ق ق,I,20,"to justify, to prove true"
+167,أَحَلَّ,ح ل ل,IV,20,to make lawful
+168,سَبَقَ,س ب ق,I,20,to precede
+169,سَعَىٰ,س ع ي,I,20,"to strive, to run"
+170,أَعَدَّ,ع د د,IV,20,to prepare
+171,عَرَفَ,ع ر ف,I,20,"to know, to recognize"
+172,تَعَٰلَىٰ,ع ل و,I,20,"to be exalted, to be high"
+173,أَقْسَمُ,ق س م,IV,20,to swear
+174,قَصَّ,ق ص ص,I,20,to narrate
+175,كَلَّمَ,ك ل م,II,20,to speak
+176,أَنشَأَ,ن ش ا,IV,20,"to produce, to raise"
+177,يَضُرَّ,ض ر ر,I,19,to harm
+178,ٱسْتَعْجَلَ,ع ج ل,X,19,to seek to hasten
+179,يَفْقَهُ,ف ق ه,I,19,to understand
+180,نَفَخَ,ن ف خ,I,19,"to blow, to breathe"
+181,تَبَيَّنَ,ب ي ن,V,18,to become clear
+182,أُخْفِىَ,خ ف ي,IV,18,"to conceal, to hide"
+183,ذُكِّرَ,ذ ك ر,II,18,to remind
+184,أَسَرَّ,س ر ر,IV,18,to conceal
+185,عَادَ,ع و د,I,18,to return
+186,أُعِيدُ,ع و د,IV,18,to return
+187,مَّتَّعْ,م ت ع,II,18,"to grant, to bestow, to provide"
+188,أَمْسَكَ,م س ك,IV,18,"to retain, to withhold"
+189,نِعْمَ,ن ع م,I,18,to be excellent
+190,وَفَّىٰٓ,و ف ي,II,18,"to pay in full, to fulfill"
+191,أَوْفَىٰ,و ف ي,IV,18,to fulfill
+192,أَحَاطَ,ح و ط,IV,17,"to surround, to encompass"
+193,أَدْرَىٰ,د ر ي,IV,17,to make known
+194,أُغْرِقُ,غ ر ق,IV,17,to drown
+195,فَصَّلَ,ف ص ل,II,17,"to make clear, to explain in detail"
+196,فَضَّلَ,ف ض ل,II,17,"to bestow, to prefer, to favor"
+197,يَتَفَكَّرُ,ف ك ر,V,17,"to ponder, to reflect"
+198,ٱنقَلَبَ,ق ل ب,VII,17,"to turn back, to return"
+199,كَرِهَ,ك ر ه,I,17,"to dislike, to hate"
+200,أَنْعَمَ,ن ع م,IV,17,to bestow favor
+201,وَدَّ,و د د,I,17,"to love, to wish"
+202,أُفِكَ,ا ف ك,I,16,"to delude, to turn away"
+203,بَسَطَ,ب س ط,I,16,"to extend, to stretch"
+204,أَتَمَّ,ت م م,IV,16,"to fulfill, to complete, to perfect"
+205,خَسِرَ,خ س ر,I,16,to lose
+206,ٱسْتَمَعَ,س م ع,VIII,16,to listen
+207,سَارَ,س ي ر,I,16,to travel
+208,فَتَحَ,ف ت ح,I,16,"to open, to give victory"
+209,فَرِحَ,ف ر ح,I,16,to rejoice
+210,قَدَّرَ,ق د ر,II,16,"to determine, to plot"
+211,قَرَأَ,ق ر ا,I,16,"to read, to recite"
+212,مَنَّ,م ن ن,I,16,to favor
+213,أَنۢبَتَ,ن ب ت,IV,16,to make grow
+214,ٱنتَهَىٰ,ن ه ي,VIII,16,"to refrain, to cease, to desist"
+215,هَاجَرَ,ه ج ر,III,16,to emigrate
+216,وَقَىٰ,و ق ي,I,16,"to save, to protect"
+217,أَخَّرَ,ا خ ر,II,15,"to delay, to give respite"
+218,أُوذِىَ,ا ذ ي,IV,15,"to harm, to trouble"
+219,يُبْدِىَ,ب د و,IV,15,"to reveal, to disclose"
+220,أَتْبَعَ,ت ب ع,IV,15,to follow
+221,سَكَنَ,س ك ن,I,15,"to dwell, to live, to rest"
+222,شَرِبَ,ش ر ب,I,15,to drink
+223,صَدَقَ,ص د ق,I,15,"to be truthful, to fulfill"
+224,صَنَعُ,ص ن ع,I,15,"to make, to construct, to do"
+225,ٱعْتَدَىٰ,ع د و,VIII,15,to transgress
+226,غَرَّ,غ ر ر,I,15,"to deceive, to delude"
+227,غَلَبُ,غ ل ب,I,15,"to overcome, to defeat"
+228,أَغْنَىٰ,غ ن ي,I,15,"to avail, to prosper"
+229,أَفْسَدُ,ف س د,IV,15,to cause corruption
+230,وَعَظْ,و ع ظ,I,15,"to instruct, to advise, to preach"
+231,حَلَلْ,ح ل ل,I,14,"to descend, to be lawful"
+232,أَخْلَفُ,خ ل ف,IV,14,"to break, to fail"
+233,صَرَفَ,ص ر ف,I,14,"to divert, to turn away"
+234,أَعْتَدَتْ,ع ت د,IV,14,to prepare
+235,عَدَلَ,ع د ل,I,14,to be just
+236,كَشَفَ,ك ش ف,I,14,"to remove, to uncover"
+237,كَفَّرَ,ك ف ر,II,14,to remove
+238,لَقُ,ل ق ي,I,14,"to receive, to meet"
+239,نَكَحَ,ن ك ح,I,14,to marry
+240,أَبَى,ا ب ي,I,13,to refuse
+241,تَرَبَّصْ,ر ب ص,V,13,to await
+242,زَعَمَ,ز ع م,I,13,to claim
+243,أَسْمَعَ,س م ع,IV,13,to make hear
+244,سَوَّىٰ,س و ي,II,13,"to fashion, to proportion"
+245,يَصْلَى,ص ل ي,I,13,to burn
+246,أَطْعَمَ,ط ع م,IV,13,to feed
+247,غَشِيَ,غ ش و,I,13,to cover
+248,مَدَّ,م د د,I,13,"to spread, to extend, to prolong"
+249,مَكَّ,م ك ن,II,13,to establish
+250,وَرِثَ,و ر ث,I,13,to inherit
+251,يَصِفُ,و ص ف,I,13,"to attribute, to ascribe"
+252,ٱسْتَـْٔذَنَ,ا ذ ن,X,12,to ask permission
+253,بَدَأَ,ب د ا,I,12,"to begin, to originate"
+254,جَحَدُ,ج ح د,I,12,"to reject, to deny"
+255,حَبِطَ,ح ب ط,I,12,to become worthless
+256,حَآجَّ,ح ج ج,III,12,to argue
+257,يَحْذَرُ,ح ذ ر,I,12,"to fear, to beware"
+258,حَلَفْ,ح ل ف,I,12,to swear
+259,خَرَّ,خ ر ر,I,12,to fall
+260,أَخْزَيْ,خ ز ي,IV,12,to disgrace
+261,تَدْرِى,د ر ي,I,12,to know
+262,زَكَّىٰ,ز ك و,II,12,to purify
+263,سَقَىٰ,س ق ي,I,12,"to water, to give drink"
+264,سَلَكَ,س ل ك,I,12,"to insert, to make enter"
+265,ٱصْطَفَىٰ,ص ف و,VIII,12,to choose
+266,صَلَّىٰ,ص ل و,II,12,"to pray, to bless"
+267,طَغَىٰ,ط غ ي,I,12,"to transgress, to overflow"
+268,أَعْلَن,ع ل ن,IV,12,"to declare, to reveal, to proclaim"
+269,قُطِعَ,ق ط ع,I,12,to cut
+270,قَطَّعَ,ق ط ع,II,12,"to cut, to divide"
+271,قَعَدَ,ق ع د,I,12,to sit
+272,مَّنَعَ,م ن ع,I,12,to prevent
+273,يُنظَرُ,ن ظ ر,IV,12,to give respite
+274,أَوْرَثَ,و ر ث,IV,12,to make inherit
+275,وَقَعَ,و ق ع,I,12,"to fall, to occur, to fulfill"
+276,يُوقِنُ,ي ق ن,IV,12,to believe firmly
+277,بَدَا,ب د و,I,11,to become apparent
+278,بَنَىٰ,ب ن ي,I,11,"to construct, to build"
+279,أَذْهَبَ,ذ ه ب,IV,11,"to remove, to take away"
+280,سَخِرَ,س خ ر,I,11,"to ridicule, to mock"
+281,طَبَعَ,ط ب ع,I,11,to seal
+282,أَعْجَبَ,ع ج ب,IV,11,"to please, to impress"
+283,عَرَضَ,ع ر ض,I,11,"to display, to present, to expose, to turn away"
+284,عَٰهَدَ,ع ه د,III,11,to make a covenant
+285,يَقْرَبُ,ق ر ب,I,11,"to approach, to go near"
+286,كَذَبَ,ك ذ ب,I,11,"to deny, to lie"
+287,لَبَسْ,ل ب س,I,11,"to obscure, to confuse, to mix, to wear"
+288,تَمَتَّعَ,م ت ع,V,11,to enjoy
+289,أَنَابَ,ن و ب,IV,11,to turn
+290,يَنَالُ,ن ي ل,I,11,to reach
+291,هَادُ,ه و د,I,11,to be Jewish
+292,وَصَّىٰ,و ص ي,II,11,to enjoin
+293,يَسَّرَ,ي س ر,II,11,to make easy
+294,بَخِلَ,ب خ ل,I,10,"to be stingy, to withhold"
+295,ثَبَّتْ,ث ب ت,II,10,to make firm
+296,ٱجْتَبَىٰ,ج ب ي,VIII,10,to choose
+297,أَحْصَىٰ,ح ص ي,IV,10,"to count, to calculate, to enumerate"
+298,حَاقَ,ح ي ق,I,10,"to surround, to encompass, to envelope"
+299,صَدَّقَ,ص د ق,II,10,"to accept truth, to admit, to confirm, to believe"
+300,صَرَّفْ,ص ر ف,II,10,to explain
+301,أَضَاعُ,ض ي ع,IV,10,"to let go waste, to neglect"
+302,طَلَّقَ,ط ل ق,II,10,to divorce
+303,ظَهَرَ,ظ ه ر,I,10,"to appear, to become manifest"
+304,عُذْ,ع و ذ,I,10,to seek refuge
+305,فَسَقَ,ف س ق,I,10,to disobey defiantly
+306,فَطَرَ,ف ط ر,I,10,to create
+307,تَقَبَّلَ,ق ب ل,V,10,to accept
+308,ٱسْتَقَٰمُ,ق و م,X,10,"to be upright, to be straight, to stand firm"
+309,أَمَدَّ,م د د,IV,10,"to reinforce, to extend, to provide, to aid"
+310,مَرَّ,م ر ر,I,10,"to pass, to continue"
+311,نَبَذَ,ن ب ذ,I,10,"to throw, to cast"
+312,نَزَعَ,ن ز ع,I,10,"to take way, to remove, to withdraw"
+313,يَصِلُ,و ص ل,I,10,"to join, to reach"
+314,يُولِجُ,و ل ج,IV,10,to cause enter
+315,يُؤَاخِذُ,ا خ ذ,III,9,"to call to account, to punish"
+316,ءَاوَىٰٓ,ا و ي,IV,9,to give shelter
+317,أَيَّدَ,ا ي د,II,9,"to support, to strengthen"
+318,تَبَارَكَ,ب ر ك,VI,9,to be blessed
+319,تَبِعَ,ت ب ع,I,9,to follow
+320,ٱجْتَنَبُ,ج ن ب,VIII,9,to avoid
+321,يَسْتَحْىِۦٓ,ح ي ي,X,9,"to let live, to be shy, to be ashamed"
+322,خَاضُ,خ و ض,I,9,"to engage in idle talk, to converse vainly"
+323,رَكِبَ,ر ك ب,I,9,"to ride, to embark"
+324,رَمَىٰ,ر م ي,I,9,"to throw, to accuse"
+325,ٱرْتَابَ,ر ي ب,VIII,9,to doubt
+326,يَتَسَآءَلُ,س ا ل,VI,9,"to question, to ask, to inquire"
+327,يُسَٰرِعُ,س ر ع,III,9,to hasten
+328,يُضَٰعِفُ,ض ع ف,III,9,"to double, to multiply"
+329,ٱنطَلَقَ,ط ل ق,VII,9,"to set out, to proceeed, to go forth"
+330,ٱطْمَأَنَّ,ط م ن,XII,9,"to be satisfied, to be secure, to be content"
+331,طَهَّرَ,ط ه ر,II,9,to purify
+332,ظَلَّ,ظ ل ل,I,9,"to continue, to remain"
+333,فَرَضَ,ف ر ض,I,9,"to specify, to ordain, to make obligatory"
+334,فَرَّقُ,ف ر ق,II,9,"to differentiate, to make distinction"
+335,يَقْبَلُ,ق ب ل,I,9,to accept
+336,أَقْبَلَ,ق ب ل,IV,9,to approach
+337,قَذَفَ,ق ذ ف,I,9,"to cast, to throw, to hurl"
+338,يَلْعَبْ,ل ع ب,I,9,to play
+339,أَمْلَىٰ,م ل و,IV,9,to give respite
+340,يَنطِقُ,ن ط ق,I,9,to speak
+341,وَلَدَ,و ل د,I,9,"to beget, to be born"
+342,بَٰرَكَ,ب ر ك,III,8,to bless
+343,ٱبْتَلَىٰٓ,ب ل و,VIII,8,"to test, to try"
+344,أُجِيبَت,ج و ب,IV,8,"to answer, to respond"
+345,خَسَفَ,خ س ف,I,8,to cause to swallow
+346,ٱخْتَصَمُ,خ ص م,VIII,8,to dispute
+347,خَفَّفَ,خ ف ف,II,8,to lighten
+348,دَمَّرَ,د م ر,II,8,to destroy
+349,ٱرْتَدَّ,ر د د,VIII,8,"to turn back, to return"
+350,رَٰوَدُ,ر و د,III,8,"to seduce, to demand, to get permission"
+351,تَزَكَّىٰ,ز ك و,V,8,to purify
+352,ٱزْدَادُ,ز ي د,VIII,8,to increase
+353,زَالَت,ز ي ل,I,8,to cease
+354,أَسْقَيْ,س ق ي,IV,8,to give drink
+355,سَمَّىٰ,س م و,II,8,to name
+356,ٱشْتَهَتْ,ش ه و,VIII,8,to desire
+357,ٱسْتَضْعَفُ,ض ع ف,X,8,to be oppressed
+358,يَطْمَعُ,ط م ع,I,8,"to hope, to desire"
+359,طَافَ,ط و ف,I,8,"to circulate, to go around"
+360,أَظْهَرَ,ظ ه ر,IV,8,"to make apparent, to reveal"
+361,عَجِبُ,ع ج ب,I,8,"to wonder, to be amazed, to be astonished"
+362,أَعْطَىٰ,ع ط و,IV,8,to give
+363,تَعَالَ,ع ل و,IV,8,to come
+364,أَغْوَيْ,غ و ي,IV,8,"to mislead, to lead astray"
+365,تَفَرَّقَ,ف ر ق,V,8,to be divided
+366,كَبُرَ,ك ب ر,I,8,to be great
+367,كَفَّ,ك ف ف,I,8,"to restrain, to withhold, to avert"
+368,كِيدُ,ك ي د,I,8,"to scheme, to plot, to plan"
+369,يَنتَظِرُ,ن ظ ر,VIII,8,to wait
+370,نَفَرَ,ن ف ر,I,8,to go forth
+371,يَهْبِطُ,ه ب ط,I,8,to go down
+372,هَمَّ,ه م م,I,8,"to determine, to plan, to plot, to desire"
+373,هَوَىٰ,ه و ي,I,8,to desire
+374,يَئِسَ,ي ا س,I,8,to despair
+375,يَسْتَبْشِرُ,ب ش ر,X,7,to rejoice
+376,حَضَرَ,ح ض ر,I,7,"to approach, to attend"
+377,حَفِظَ,ح ف ظ,I,7,"to guard, to protect"
+378,حَىَّ,ح ي ي,I,7,to live
+379,دَلَّ,د ل ل,I,7,"to indicate, to show, to direct"
+380,دَامُ,د و م,I,7,to be as long as
+381,سِيقَ,س و ق,I,7,to drive
+382,شَآقُّ,ش ق ق,III,7,to oppose
+383,أَشْهَدَ,ش ه د,IV,7,to make witness
+384,ضَحِكَتْ,ض ح ك,I,7,to laugh
+385,ٱضْطُرَّ,ض ر ر,VIII,7,"to force, to compell"
+386,ضَاقَ,ض ي ق,I,7,to straiten
+387,طَّلَعَ,ط ل ع,VIII,7,to look
+388,عَدَّ,ع د د,I,7,to count
+389,ٱعْتَزَلَ,ع ز ل,VIII,7,"to withdraw, to leave, to keep away"
+390,يَعْمَهُ,ع م ه,I,7,to wander blindly
+391,عَمِىَ,ع م ي,I,7,to be blind
+392,ٱفْتَدَىٰ,ف د ي,VIII,7,to offer ransom
+393,أَفَاضَ,ف ي ض,IV,7,to depart
+394,يُكَلِّفُ,ك ل ف,II,7,to burden
+395,ٱلْتَقَى,ل ق ي,VIII,7,to meet
+396,أُمْطِرَتْ,م ط ر,IV,7,"to shower, to send rain"
+397,تَنَٰزَعُ,ن ز ع,VI,7,"to dispute, to disagree"
+398,تَنَزَّلَتْ,ن ز ل,V,7,"to descend, to bring down"
+399,أَنسَىٰ,ن س ي,IV,7,to make forget
+400,ٱنتَصَرَ,ن ص ر,VIII,7,"to defend, to help"
+401,يُنقَصُ,ن ق ص,I,7,"to decrease, to reduce, to lessen"
+402,يَزِرُ,و ز ر,I,7,to bear
+403,يَسْتَأْخِرُ,ا خ ر,X,6,"to delay, to postpone"
+404,يَنۢبَغِى,ب غ ي,VII,6,to be appropiate
+405,بَلَّغْ,ب ل غ,II,6,to convey
+406,بَآءَ,ب و ا,I,6,"to incur, to turn back"
+407,بَوَّأَ,ب و ا,II,6,to settle
+408,بَايَعْ,ب ي ع,III,6,to pledge allegiance
+409,ثُقِفُ,ث ق ف,I,6,"to find, to gain dominance"
+410,يُجِيرُ,ج و ر,IV,6,to protect
+411,يَخْفَىٰ,خ ف ي,I,6,to hide
+412,أَدْرَكَ,د ر ك,IV,6,"to overtake, to grasp"
+413,ذَرَأَ,ذ ر ا,I,6,"to create, to produce, to multiply"
+414,زَاغَ,ز ي غ,I,6,"to deviate, to turn away, to swerve"
+415,أَسْرَفَ,س ر ف,IV,6,"to be extravagant, to exceed, to transgress"
+416,أَسْرَىٰ,س ر ي,IV,6,"to travel, to take"
+417,سَلَّمَ,س ل م,II,6,"to submit, to greet, to pay"
+418,شَدَدْ,ش د د,I,6,to strengthen
+419,تَصَدَّقَ,ص د ق,V,6,to give charity
+420,يَصْفَحُ,ص ف ح,I,6,to overlook
+421,ظَٰهَرُ,ظ ه ر,III,6,"to support, to back"
+422,عَاقَبَ,ع ق ب,III,6,to retaliate
+423,عَهِدَ,ع ه د,I,6,"to make a covenant, to promise"
+424,غَضِبَ,غ ض ب,I,6,to be angry
+425,يَسْتَفْتُ,ف ت ي,X,6,"to seek ruling, to inquire, to ask"
+426,فُجِّرَتْ,ف ج ر,II,6,to cause gush
+427,فَرَّتْ,ف ر ر,I,6,to flee
+428,أَقْرَضُ,ق ر ض,IV,6,"to lend, to loan"
+429,قَلَّبُ,ق ل ب,II,6,"to turn, to alternate"
+430,لَقَّىٰ,ل ق ي,II,6,"to grant, to receive"
+431,ٱسْتَمْتَعَ,م ت ع,X,6,"to profit, to benifit, to enjoy"
+432,مُلِئَتْ,م ل ا,I,6,to fill
+433,يَتَمَنَّ,م ن ي,V,6,to wish
+434,نَزَلَ,ن ز ل,I,6,"to descend, to bring down"
+435,نَقَضَتْ,ن ق ض,I,6,to break
+436,ٱنتَقَمْ,ن ق م,VIII,6,to take retribution
+437,نَّكَثَ,ن ك ث,I,6,to break (oath)
+438,وَسِعَ,و س ع,I,6,"to encompass, to extend"
+439,آثَرَ,ا ث ر,IV,5,to prefer
+440,يُؤَدِّ,ا د ي,II,5,"to discharge, to deliver"
+441,أَلَّفَ,ا ل ف,II,5,"to join, to reconcile"
+442,ءَانَسَ,ا ن س,IV,5,to perceive
+443,أَوَى,ا و ي,I,5,to seek shelter
+444,بَثَّ,ب ث ث,I,5,to disperse
+445,يَبْخَسْ,ب خ س,I,5,"to diminish, to deprive"
+446,تَبَرَّأَ,ب ر ا,V,5,to disown
+447,بَرَزَ,ب ر ز,I,5,"to come forth, to go out"
+448,بَطَشْ,ب ط ش,I,5,to seize
+449,بَكَتْ,ب ك ي,I,5,to weep
+450,أَبْلَغُ,ب ل غ,IV,5,to convey
+451,أَثَارُ,ث و ر,IV,5,"to raise, to plough"
+452,أَجْرَمُ,ج ر م,IV,5,to commit crime
+453,جَهَرَ,ج ه ر,I,5,to speak loudly
+454,يَجْهَلُ,ج ه ل,I,5,to be ignorant
+455,أَحْصَنَتْ,ح ص ن,IV,5,"to guard, to protect"
+456,حُمِّلَ,ح م ل,II,5,"to place, to entrust"
+457,خَتَمَ,خ ت م,I,5,to seal
+458,خَلَفَ,خ ل ف,I,5,"to succeed, to come after"
+459,ٱسْتَخْلَفَ,خ ل ف,X,5,to grant succession
+460,خَانُ,خ و ن,I,5,to betray
+461,دَرَسُ,د ر س,I,5,"to study, to learn"
+462,دَفَعْ,د ف ع,I,5,"to defend, to deliver, to repel"
+463,ذُبِحَ,ذ ب ح,I,5,"to slaughter, to sacrifice"
+464,رَجَمْ,ر ج م,I,5,to stone
+465,أَرْضَعَتْ,ر ض ع,IV,5,"to nurse, to suckle"
+466,يَرْكَعُ,ر ك ع,I,5,to bow
+467,يَرْهَقُ,ر ه ق,I,5,to cover
+468,زُوِّجَتْ,ز و ج,II,5,"to marry, to be paired"
+469,ٱسْتَبَقَ,س ب ق,VIII,5,to race
+470,أَسْكَن,س ك ن,IV,5,"to make dwell, to settle, to lodge"
+471,سَلَفَ,س ل ف,I,5,to pass (before)
+472,أَسَآءَ,س و ا,IV,5,to do evil
+473,سُيِّرَتْ,س ي ر,II,5,to move
+474,شَرَحَ,ش ر ح,I,5,"to expand, to open"
+475,يَشْفَعُ,ش ف ع,I,5,to intercede
+476,ٱنشَقَّ,ش ق ق,VII,5,to split
+477,طَعِمُ,ط ع م,I,5,"to eat, to taste, to feed"
+478,طُمِسَتْ,ط م س,I,5,"to blind, to destory, to obliterate"
+479,تَطَهَّرْ,ط ه ر,V,5,"to cleanse, to purify"
+480,عَتَ,ع ت و,I,5,"to be insolent, to exceed, to rebell"
+481,تَعْثَ,ع ث و,I,5,"to act wickedly, to commit evil"
+482,عَجِلَ,ع ج ل,I,5,to hasten
+483,عَجَّلَ,ع ج ل,II,5,to hasten
+484,يَعْتَذِرُ,ع ذ ر,VIII,5,to make excuse
+485,يَعْرُجُ,ع ر ج,I,5,to ascend
+486,ٱعْتَصَمُ,ع ص م,VIII,5,to hold fast
+487,عَقَرَ,ع ق ر,I,5,to hamstrung
+488,يُعَمَّرُ,ع م ر,II,5,to grant life
+489,غَلَّ,غ ل ل,I,5,"to defraud, to chain, to shackle"
+490,يُفْتِي,ف ت ي,IV,5,"to give ruling, to explain, to advise"
+491,فَرَّط,ف ر ط,II,5,"to neglect, to fail"
+492,فَرَقْ,ف ر ق,I,5,to divide
+493,فَصَلَ,ف ص ل,I,5,"to set out, to depart, to judge"
+494,قَبَضْ,ق ب ض,I,5,"to withhold, to withdraw, to close"
+495,قَرَّبَ,ق ر ب,II,5,to bring close
+496,ٱقْتَرَبَ,ق ر ب,VIII,5,"to approach, to go near"
+497,تَقَرَّ,ق ر ر,I,5,"to cool, to comfort"
+498,تَّقَطَّعَ,ق ط ع,V,5,"to cut, to severe"
+499,أُكْرِهَ,ك ر ه,IV,5,"to compel, to force"
+500,ٱكْتَسَبَ,ك س ب,VIII,5,to earn
+501,يَمْتَرُ,م ر ي,VIII,5,"to dispute, to doubt"
+502,نَصَحُ,ن ص ح,I,5,to advise
+503,ٱهْجُرْ,ه ج ر,I,5,to avoid
+504,هَلَكَ,ه ل ك,I,5,"to die, to be destroyed"
+505,أَوْصَٰ,و ص ي,IV,5,"to make, to instruct, to enjoin"
+506,تَوَاصَ,و ص ي,VI,5,"to enjoin, to transmit"
+507,أَوْقَدُ,و ق د,IV,5,"to kindle, to heat, to ignite, to light"
+508,وَهَنَ,و ه ن,I,5,to weaken
+509,تَأْسَ,ا س و,I,4,to grieve
+510,يُبْطِلَ,ب ط ل,IV,4,"to make vain, to nullify"
+511,يَتَبَوَّأُ,ب و ا,V,4,to settle
+512,بَيَّتَ,ب ي ت,II,4,to plan by night
+513,تَمَّ,ت م م,I,4,"to be fulfilled, to be completed"
+514,ثَقُلَتْ,ث ق ل,I,4,to be heavy
+515,أَجْمَعُ,ج م ع,IV,4,"to resolve, to agree, to put together"
+516,جَاوَزَ,ج و ز,III,4,"to cross, to pass beyond"
+517,ٱسْتَحَبُّ,ح ب ب,X,4,to prefer
+518,أَحْبَطَ,ح ب ط,IV,4,to make worthless
+519,يُحَرِّفُ,ح ر ف,II,4,to distort
+520,يُحَافِظُ,ح ف ظ,III,4,to guard
+521,يُحِقَّ,ح ق ق,IV,4,"to justify, to establish"
+522,حُلُّ,ح ل ي,II,4,to adorn
+523,حَيَّ,ح ي ي,II,4,to greet
+524,ٱسْتَخْرَجَ,خ ر ج,X,4,to bring out
+525,يَخْرُصُ,خ ر ص,I,4,"to guess, to lie"
+526,خَرَقَ,خ ر ق,I,4,"to falsely attribute, to tear"
+527,يُخَوِّفُ,خ و ف,II,4,"to frighten, to threaten"
+528,خَابَ,خ ي ب,I,4,to fail
+529,ٱخْتَارَ,خ ي ر,VIII,4,to choose
+530,يُدَبِّرُ,د ب ر,II,4,"to dispose, to arrange"
+531,أَدْبَرَ,د ب ر,IV,4,"to turn away, to depart"
+532,يَتَدَبَّرُ,د ب ر,V,4,to ponder
+533,يَدْرَؤُا۟,د ر ا,I,4,"to avert, to repel, to prevent"
+534,رَبَتْ,ر ب و,I,4,"to increase, to swell"
+535,يَرْغَبُ,ر غ ب,I,4,"to desire, to prefer"
+536,ٱرْتَقِبْ,ر ق ب,VIII,4,to watch
+537,أُزْلِفَتْ,ز ل ف,IV,4,to bring near
+538,سَرَقَ,س ر ق,I,4,to steal
+539,سَوَّلَ,س و ل,II,4,"to entice, to suggest"
+540,يَسُومُ,س و م,I,4,to afflict
+541,تَشَٰبَهَ,ش ب ه,VI,4,"to look alike, to seem alike"
+542,شَرَ,ش ر ي,I,4,to sell
+543,شَقُ,ش ق و,I,4,"to suffer, to be wretched, to be distressed"
+544,صَبَّ,ص ب ب,I,4,to pour
+545,صَدَفَ,ص د ف,I,4,to turn away
+546,أَصَرُّ,ص ر ر,IV,4,to persist
+547,يُصَلَّبُ,ص ل ب,II,4,to crucify
+548,أُصْلِي,ص ل ي,IV,4,to burn
+549,صَوَّرَ,ص و ر,II,4,"to form, to fashion, to shape"
+550,يَسْتَعْتِبُ,ع ت ب,X,4,to ask for favor
+551,يُعْجِزَ,ع ج ز,IV,4,to escape
+552,عَزَمَ,ع ز م,I,4,"to resolve, to decide, to determine"
+553,عَمَرُ,ع م ر,I,4,"to maintain, to build on"
+554,ٱسْتَعِذْ,ع و ذ,X,4,to seek refuge
+555,ٱسْتَعِينُ,ع و ن,X,4,to seek help
+556,أُغْشِيَتْ,غ ش و,IV,4,to cover
+557,يَغُضُّ,غ ض ض,I,4,to lower
+558,ٱسْتَغْنَىٰ,غ ن ي,X,4,to be self-sufficient
+559,ٱسْتَغَٰثَ,غ و ث,X,4,to seek help
+560,يُغَيِّرُ,غ ي ر,II,4,to change
+561,فَشِلْ,ف ش ل,I,4,to lose courage
+562,قُتِّلُ,ق ت ل,II,4,to kill
+563,ٱقْتَتَلَ,ق ت ل,VIII,4,to fight
+564,قُدَّ,ق د د,I,4,to tear
+565,يَسْتَقْدِمُ,ق د م,X,4,"to advance, to precede"
+566,أَقْرَرْ,ق ر ر,IV,4,"to ratify, to affirm"
+567,ٱقْتَرَفْ,ق ر ف,VIII,4,"to commit, to acquire, to earn"
+568,قَفَّيْ,ق ف و,II,4,"to send, to follow"
+569,قَنَطُ,ق ن ط,I,4,to despair
+570,كَبِّرْ,ك ب ر,II,4,to magnify
+571,أَكْرَمَ,ك ر م,IV,4,"to honor, to make comfortable, to be generous"
+572,يَتَكَلَّمُ,ك ل م,V,4,to speak
+573,أَلْحَقْ,ل ح ق,IV,4,to join
+574,تَلَقَّىٰٓ,ل ق ي,V,4,"to cast, to throw, to offer"
+575,لَمَسُ,ل م س,I,4,"to touch, to have contact"
+576,أَلْهَىٰ,ل ه و,IV,4,"to distract, to divert"
+577,تَمَارَ,م ر ي,I,4,"to dispute, to doubt"
+578,مَضَىٰ,م ض ي,I,4,"to go on, to continue, to pass"
+579,مَكَثَ,م ك ث,I,4,"to stay, to remain"
+580,أَنۢبَأَ,ن ب ا,IV,4,to inform
+581,تَنَٰجَيْ,ن ج و,VI,4,to hold secret counsel
+582,يَنْحِتُ,ن ح ت,I,4,to carve
+583,نَذَرْ,ن ذ ر,I,4,"to vow, to worn"
+584,نَّزَغَ,ن ز غ,I,4,to cause discord
+585,نَفِدَ,ن ف د,I,4,to be exhausted
+586,أَنقَذَ,ن ق ذ,IV,4,to save
+587,نَقَمُ,ن ق م,I,4,"to resent, to take revenge"
+588,هَاتُ,ه ا ت,I,4,to bring
+589,ٱهْتَزَّتْ,ه ز ز,VIII,4,"to stir, to move"
+590,أُهِلَّ,ه ل ل,IV,4,to to be dedicated
+591,وُۥرِىَ,و ر ي,III,4,"to hide, to conceal, to cover"
+592,وَسْوَسَ,و س و س,I,4,to whisper
+593,وَٰعَدْ,و ع د,III,4,to appoint
+594,تَأَخَّرَ,ا خ ر,V,3,"to delay, to stay behind"
+595,أَذَّنَ,ا ذ ن,II,3,"to announce, to proclaim"
+596,أَسَّسَ,ا س س,II,3,to found
+597,أَفَلَ,ا ف ل,I,3,to set
+598,يَأْلَمُ,ا ل م,I,3,to suffer
+599,يُبْدِئُ,ب د ا,IV,3,to originate
+600,يُبْدِلَ,ب د ل,IV,3,to substitute
+601,يَتَبَدَّلِ,ب د ل,V,3,to exchange
+602,يَسْتَبْدِلْ,ب د ل,X,3,to replace
+603,أَبْرَحَ,ب ر ح,I,3,"to leave, to cease"
+604,بَصُرَتْ,ب ص ر,I,3,"to perceive, to watch"
+605,بَقِىَ,ب ق ي,I,3,to remain
+606,ٱبْيَضَّتْ,ب ي ض,IX,3,to become white
+607,أُتْرِفُ,ت ر ف,IV,3,to give luxury
+608,أَثَٰبَ,ث و ب,IV,3,to reward
+609,يَجْـَٔرُ,ج ا ر,I,3,to cry for help
+610,يَجْرِمَ,ج ر م,I,3,to let incite
+611,تُحَدِّثُ,ح د ث,II,3,"to report, to narate"
+612,يُحْدِثُ,ح د ث,IV,3,"to cause, to bring about"
+613,حَرَصْ,ح ر ص,I,3,to desire
+614,حَرِّقُ,ح ر ق,II,3,to burn
+615,حَاسَبْ,ح س ب,III,3,to take to account
+616,يَحْتَسِبُ,ح س ب,VIII,3,"to take into account, to expect, to think"
+617,حَسَدَ,ح س د,I,3,to envy
+618,أَحَسَّ,ح س س,IV,3,to perceive
+619,حَسُنَ,ح س ن,I,3,"to be the best, to be good"
+620,أَحْضَرَتْ,ح ض ر,IV,3,to bring
+621,ٱحْتَمَلَ,ح م ل,VIII,3,"to carry, to bear"
+622,حَالَ,ح و ل,I,3,to come
+623,خَاطَبَ,خ ط ب,III,3,to address
+624,خَطِفَ,خ ط ف,I,3,to snatch
+625,يَتَخَطَّفَ,خ ط ف,V,3,"to do away with, to sweep, to take away"
+626,ٱخْفِضْ,خ ف ض,I,3,to lower
+627,خَفَّتْ,خ ف ف,I,3,to be light
+628,ٱسْتَخَفَّ,خ ف ف,X,3,"to take lightly, to bluff"
+629,يَسْتَخْفُ,خ ف ي,X,3,to hide
+630,ٱخْتَلَطَ,خ ل ط,VIII,3,"to join, to absorb, to mingle"
+631,خَوَّلَ,خ و ل,II,3,to bestow
+632,ٱدَّٰرَكَ,د ر ك,VI,3,"to overtake, to arrest"
+633,يَدَّعُ,د ع و,VIII,3,"to call, to ask"
+634,يُذَبِّحُ,ذ ب ح,II,3,to slaughter
+635,رَّبَطْ,ر ب ط,I,3,"to strengthen, to make firm"
+636,تُرْجِى,ر ج و,IV,3,"to defer, to postpone"
+637,أَرْدَىٰ,ر د ي,IV,3,to ruin
+638,يُرْضُ,ر ض و,IV,3,"to please, to satisfy"
+639,ٱرْتَضَىٰ,ر ض و,VIII,3,to approve
+640,يَرْقُبُ,ر ق ب,I,3,to respect
+641,يَرْكُضُ,ر ك ض,I,3,"to flee, to strike"
+642,يَرْهَبُ,ر ه ب,I,3,to fear
+643,يُرْهِقَ,ر ه ق,IV,3,"to be hard on, to overburden, to cover"
+644,رَاغَ,ر و غ,I,3,to turn
+645,زُلْزِلُ,ز ل ز ل,I,3,to shake
+646,زَهَقَ,ز ه ق,I,3,"to depart, to perish"
+647,زَالَ,ز و ل,I,3,to cease
+648,يَسْـَٔمُ,س ا م,I,3,to tire
+649,يُسْجَنَ,س ج ن,I,3,to imprison
+650,سَحَرُ,س ح ر,I,3,"to bewitch, to delude"
+651,سَرِّحُ,س ر ح,II,3,to release
+652,سُقِطَ,س ق ط,I,3,"to fall, to regret"
+653,تُسْقِطَ,س ق ط,IV,3,"to cause toll, to cause to fall"
+654,يَشَّقَّقُ,ش ق ق,V,3,to split
+655,ٱصْطَبِرْ,ص ب ر,VIII,3,"to be patient, to be steadfast"
+656,يُضَآرَّ,ض ر ر,III,3,"to suffer, to be harmed"
+657,يَتَضَرَّعُ,ض ر ع,V,3,to humble
+658,أَضَآءَ,ض و ا,IV,3,"to light, to flash, to glow"
+659,طَرَد,ط ر د,I,3,"to send away, to drive away"
+660,أَطْفَأَ,ط ف ا,IV,3,"to extinguish, to put out"
+661,طَفِقَ,ط ف ق,I,3,to begin
+662,طَالَ,ط و ل,I,3,"to prolong, to grow long"
+663,طَابَ,ط ي ب,I,3,"to seem suitable, to remit, to do well"
+664,ٱطَّيَّرْ,ط ي ر,V,3,to ascribe an evil omen
+665,يَعْدُ,ع د و,I,3,"to transgress, to pass beyond"
+666,يَتَعَدَّ,ع د و,V,3,to transgress
+667,ٱعْتَرَفُ,ع ر ف,VIII,3,"to acknowledge, to confess"
+668,عَزَّرُ,ع ز ر,II,3,"to honour, to assist"
+669,يَعْصِمُ,ع ص م,I,3,"to save, to protect"
+670,يَسْتَعْفِفْ,ع ف ف,X,3,"to refrain, to be chaste"
+671,عَنِ,ع ن ت,I,3,"to suffer, to be distressed"
+672,غَدَ,غ د و,I,3,to leave early
+673,غَشَّىٰ,غ ش و,II,3,to cover
+674,غَوَىٰ,غ و ي,I,3,"to err, to go astray"
+675,يَغِيظُ,غ ي ظ,I,3,"to anger, to enrage"
+676,ٱسْتَفْتَحُ,ف ت ح,X,3,to seek victory
+677,أَفْرِغْ,ف ر غ,IV,3,to pour
+678,يَسْتَفِزَّ,ف ز ز,X,3,"to incite, to scare, to drive out"
+679,فَزِعَ,ف ز ع,I,3,"to be terrified, to be afraid"
+680,فَسَدَتِ,ف س د,I,3,"to be corrupted, to be ruined"
+681,ٱنفَضُّ,ف ض ض,VII,3,"to rush, to disperse"
+682,فَاتَ,ف و ت,I,3,to escape
+683,فَارَ,ف و ر,I,3,"to overflow, to gush forth, to boil up"
+684,فَازَ,ف و ز,I,3,"to be successful, to attain"
+685,فَآءُ,ف ي ا,I,3,to return
+686,أَفَآءَ,ف ي ا,IV,3,"to give, to restore"
+687,تُقْسِطُ,ق س ط,IV,3,to be just
+688,قَسَتْ,ق س و,I,3,to harden
+689,كُبِتَ,ك ب ت,I,3,to be disgraced
+690,ٱسْتَكْثَرْ,ك ث ر,X,3,"to multiply, to acquire more"
+691,كَسَوْ,ك س و,I,3,"to clothe, to cover"
+692,يَكْفُلُ,ك ف ل,I,3,"to take charge, to nurse, to rear"
+693,كَنَزْ,ك ن ز,I,3,to hoard
+694,أَكْنَن,ك ن ن,IV,3,to conceal
+695,كُوِّرَتْ,ك و ر,II,3,to wrap
+696,يُلْحِدُ,ل ح د,IV,3,"to deviate, to distort"
+697,أَلْزَمَ,ل ز م,IV,3,"to compel, to make adhere"
+698,أَلْفَ,ل ف و,IV,3,to find
+699,تَلْقَفُ,ل ق ف,I,3,to swallow
+700,يُلَٰقُ,ل ق ي,III,3,to they meet
+701,يَلْمِزُ,ل م ز,I,3,"to criticize, to insult"
+702,لُمْ,ل و م,I,3,to blame
+703,يَلْ,ل و ي,I,3,to distort
+704,مَحَوْ,م ح و,I,3,"to eliminate, to erase"
+705,ٱمْسَحُ,م س ح,I,3,to wipe
+706,ٱسْتَمْسَكَ,م س ك,X,3,"to grasp, to hold fast"
+707,يُمِلَّ,م ل ل,IV,3,to dictate
+708,تَمَنَّىٰٓ,م ن ي,I,3,to wish
+709,يُمْنَىٰ,م ن ي,IV,3,to emit
+710,تَمِيدَ,م ي د,I,3,to shake
+711,يَمِيلُ,م ي ل,I,3,"to deviate, to assult, to incline"
+712,نَـَٔا,ن ا ي,I,3,"to distance, to become remote, to keep away"
+713,نُسِفَتْ,ن س ف,I,3,"to scatter, to blow away, to blast"
+714,نُشِرَتْ,ن ش ر,I,3,"to spread, to lay open"
+715,أَنشَرَ,ن ش ر,IV,3,"to raise, to revive, to resurrect"
+716,تَنتَشِرُ,ن ش ر,VIII,3,to disperse
+717,تَنفُذُ,ن ف ذ,I,3,to pass
+718,تُنكِحُ,ن ك ح,IV,3,to marry
+719,يُنكِرُ,ن ك ر,IV,3,to deny
+720,ٱسْتَنكَفُ,ن ك ف,X,3,to disdain
+721,أَوْجَسَ,و ج س,IV,3,"to feel, to sense"
+722,وَجِلَتْ,و ج ل,I,3,"to feel fear, to be afraid"
+723,يُوزَعُ,و ز ع,I,3,to set in rows
+724,وَّزَنُ,و ز ن,I,3,to weigh
+725,يَطَـُٔ,و ط ا,I,3,"to step, to trod, to trample"
+726,وُقِفُ,و ق ف,I,3,to make stand
+727,يَلِجَ,و ل ج,I,3,"to penetrate, to pass"
+728,تَيَمَّمُ,ي م م,V,3,"to aim, to do tayammum"
+729,ٱسْتَـْٔجَرْ,ا ج ر,X,2,to hire
+730,أَجَّلَ,ا ج ل,II,2,to appoint
+731,ءَاذَن,ا ذ ن,IV,2,to announce
+732,تَأَذَّنَ,ا ذ ن,V,2,"to announce, to declare"
+733,يَأْتَمِرُ,ا م ر,VIII,2,to consult
+734,تَبْتَئِسْ,ب ا س,VIII,2,to grieve
+735,بَرَّأَ,ب ر ا,II,2,"to absolve, to clear"
+736,تُبْرِئُ,ب ر ا,IV,2,"to heal, to cure"
+737,تَبَرُّ,ب ر ر,I,2,"to be good, to be kind"
+738,بُرِّزَتِ,ب ر ز,II,2,to make manifest
+739,أُبْسِلُ,ب س ل,IV,2,to give up to destruction
+740,بَٰشِرُ,ب ش ر,III,2,to have relations
+741,بَطَنَ,ب ط ن,I,2,to be concealed
+742,بُعْثِرَ,ب ع ث ر,I,2,"to overturn, to scatter"
+743,بَعُدَتْ,ب ع د,I,2,"to become distant, to take away"
+744,يُبْلِىَ,ب ل و,IV,2,to test
+745,بُهِتَ,ب ه ت,I,2,"to be bewildered, to be dumbfounded"
+746,يَبُورُ,ب و ر,I,2,to perish
+747,تَبَّ,ت ب ب,I,2,to perish
+748,تَبَّرْ,ت ب ر,II,2,to destory
+749,يُثْبِتُ,ث ب ت,IV,2,"to restrain, to confirm"
+750,أَثْخَن,ث خ ن,IV,2,"to battle, to subdue"
+751,أَثْمَرَ,ث م ر,IV,2,to bear fruit
+752,ٱجْلِدُ,ج ل د,I,2,to flog
+753,تَجَلَّىٰ,ج ل و,I,2,to reveal
+754,جَلَّىٰ,ج ل و,II,2,to reveal
+755,ٱجْتَمَعُ,ج م ع,VIII,2,to gather
+756,جَنَحُ,ج ن ح,I,2,to incline
+757,جَهَّزَ,ج ه ز,II,2,to furnish
+758,يُحْبَرُ,ح ب ر,I,2,to delight
+759,يَحْبِسُ,ح ب س,I,2,to detain
+760,يُحَآدُّ,ح د د,I,2,to oppose
+761,حَآدَّ,ح د د,III,2,to oppose
+762,يُحَذِّرُ,ح ذ ر,II,2,to warn
+763,حَارَبَ,ح ر ب,III,2,to wage war
+764,حَرِّضِ,ح ر ض,II,2,"to urge, to encourage"
+765,حَصِرَتْ,ح ص ر,I,2,"to restrain, to besiege"
+766,أُحْصِرُ,ح ص ر,IV,2,"to hold back, to wrap up"
+767,يَحُضُّ,ح ض ض,I,2,to feel the urge
+768,ٱسْتَحَقَّ,ح ق ق,X,2,"to be guilty, to have right"
+769,يُحَكِّمُ,ح ك م,II,2,to make judge
+770,أُحْكِمَتْ,ح ك م,IV,2,"to perfect, to establish"
+771,ٱسْتَحْوَذَ,ح و ذ,X,2,"to overcome, to have advantage"
+772,يُحَاوِرُ,ح و ر,III,2,to talk
+773,أَخْبَتُ,خ ب ت,IV,2,to be humble
+774,يَخْدَعُ,خ د ع,I,2,to deceive
+775,يُخَٰدِعُ,خ د ع,III,2,to deceive
+776,يُخْسِرُ,خ س ر,IV,2,"to give less, to make deficient"
+777,خَشَعَتِ,خ ش ع,I,2,to become humble
+778,يَخْتَصُّ,خ ص ص,VIII,2,to choose
+779,يَخْصِفَ,خ ص ف,I,2,to fasten
+780,أَخْطَأْ,خ ط ا,IV,2,"to err, to make mistake"
+781,يَتَخَٰفَتُ,خ ف ت,VI,2,to murmur
+782,يَخْلُدْ,خ ل د,I,2,to live forever
+783,أَخْلَدَ,خ ل د,IV,2,to adhere
+784,أَخْلَصُ,خ ل ص,IV,2,"to choose, to be sincere"
+785,يُخَالِفُ,خ ل ف,III,2,"to oppose, to differ"
+786,يَخْتَانُ,خ و ن,VIII,2,to deceive
+787,يَتَخَيَّرُ,خ ي ر,V,2,"to select, to choose"
+788,يُدْحِضُ,د ح ض,IV,2,to refute
+789,نَسْتَدْرِجُ,د ر ج,X,2,to gradually lead
+790,يَدُعُّ,د ع ع,I,2,"to thrust, to repulse"
+791,دُكَّتِ,د ك ك,I,2,"to crush, to level"
+792,أَدْلَىٰ,د ل و,IV,2,"to present, to let down"
+793,دَنَا,د ن و,I,2,"to approach, to draw"
+794,يُدْهِنُ,د ه ن,IV,2,to compromise
+795,ذُلِّلَتْ,ذ ل ل,II,2,to tame
+796,يُرَآءُ,ر ا ي,III,2,to show off
+797,تَرَآءَتِ,ر ا ي,VI,2,to come in sight
+798,رَبَّيَ,ر ب و,II,2,to bring up
+799,أَرْبَىٰ,ر ب و,IV,2,"to increase, to make numerous"
+800,رَتَّلْ,ر ت ل,II,2,to recite
+801,تَرْجُفُ,ر ج ف,I,2,to quake
+802,رَحُبَتْ,ر ح ب,I,2,to be vast
+803,تَرَٰضَ,ر ض و,VI,2,to agree
+804,رَعَ,ر ع ي,I,2,"to pasture, to observe"
+805,رَٰعِ,ر ع ي,III,2,to observe
+806,يَتَرَقَّبُ,ر ق ب,V,2,to be vigilant
+807,أَرْكَسَ,ر ك س,IV,2,"to cast back, to plunge"
+808,تَرْكَنُ,ر ك ن,I,2,to incline
+809,يُزْجِى,ز ج و,IV,2,to drive
+810,تَزْرَعُ,ز ر ع,I,2,"to plant, to sow"
+811,زَلَلْ,ز ل ل,I,2,to slip
+812,يَزْنُ,ز ن ي,I,2,to commit adultery
+813,أَزَاغَ,ز ي غ,IV,2,to deviate
+814,يَسُبُّ,س ب ب,I,2,to insult
+815,يَسْبَحُ,س ب ح,I,2,"to swim, to float"
+816,يُسْحَبُ,س ح ب,I,2,to drag
+817,سَخِطَ,س خ ط,I,2,"to anger, to enrage"
+818,يَسْفِكُ,س ف ك,I,2,to shed
+819,ٱسْتَسْقَىٰ,س ق ي,X,2,to ask for water
+820,ٱنسَلَخَ,س ل خ,VII,2,"to pass, to detach"
+821,سَلَّطَ,س ل ط,II,2,to give power
+822,أَسْلَفَتْ,س ل ف,IV,2,"to do before, to send before"
+823,ٱسْوَدَّتْ,س و د,IX,2,to become black
+824,شَرَعَ,ش ر ع,I,2,to ordain
+825,يُشْعِرُ,ش ع ر,IV,2,"to perceive, to be aware"
+826,أَشْفَقْ,ش ف ق,IV,2,"to fear, to be afraid"
+827,يَشْفِ,ش ف ي,I,2,"to heal, to cure"
+828,شَقَقْ,ش ق ق,I,2,"to make difficult, to cleave"
+829,ٱشْتَمَلَتْ,ش م ل,VIII,2,to contain
+830,ٱسْتَشْهِدُ,ش ه د,X,2,to call to witness
+831,تُصَٰحِبْ,ص ح ب,III,2,to keep company
+832,صَعِقَ,ص ع ق,I,2,"to faint, to fall dead"
+833,صَغَتْ,ص غ و,I,2,to incline
+834,أَصْفَىٰ,ص ف و,IV,2,to choose
+835,صَلَبُ,ص ل ب,I,2,to crucify
+836,صَلَحَ,ص ل ح,I,2,to be righteous
+837,تَصْطَلُ,ص ل ي,VIII,2,to warm
+838,صَمُّ,ص م م,I,2,to become deaf
+839,يَصُمْ,ص و م,I,2,to fast
+840,ضَعُفَ,ض ع ف,I,2,to weaken
+841,ٱضْمُمْ,ض م م,I,2,to draw (near)
+842,طَلَعَت,ط ل ع,I,2,to rise
+843,يَطْمِثْ,ط م ث,I,2,to touch
+844,يُطَاعُ,ط و ع,I,2,to obey
+845,تَطَوَّعَ,ط و ع,V,2,to volunteer
+846,يَطَّوَّفَ,ط و ف,V,2,"to walk, to circumambulate"
+847,ظَلَّلْ,ظ ل ل,II,2,to shade
+848,تَظَٰهَرُ,ظ ه ر,VI,2,to support
+849,عَبَسَ,ع ب س,I,2,to frown
+850,يَعْرِشُ,ع ر ش,I,2,"to erect, to construct"
+851,عَرَّفَ,ع ر ف,II,2,to make known
+852,يَتَعَارَفُ,ع ر ف,VI,2,"to know, to recognize"
+853,يَعْزُبُ,ع ز ب,I,2,to escape
+854,يَعْصِرُ,ع ص ر,I,2,to press
+855,عَضُّ,ع ض ض,I,2,to bite
+856,تَعْضُلُ,ع ض ل,I,2,"to hinder, to constrain"
+857,يُعَظِّمْ,ع ظ م,II,2,to honor
+858,يُعَقِّبْ,ع ق ب,II,2,"to look back, to return"
+859,يَتَعَلَّمُ,ع ل م,V,2,to learn
+860,أَعَانَ,ع و ن,IV,2,to help
+861,تَعَاوَنُ,ع و ن,VI,2,to help
+862,عَيِي,ع ي ي,I,2,to tire
+863,يُغَادِرُ,غ د ر,III,2,to leave behind
+864,غَرَبَت,غ ر ب,I,2,to set
+865,أَغْرَيْ,غ ر و,IV,2,"to overpower, to arouse"
+866,ٱسْتَغْشَ,غ ش و,X,2,to cover
+867,ٱغْلُظْ,غ ل ظ,I,2,to be stern
+868,تَغْلُو,غ ل و,I,2,to exceed
+869,غَنِمْ,غ ن م,I,2,to take as war booty
+870,غِيضَ,غ ي ض,I,2,"to subside, to fall short"
+871,يَفْجُرَ,ف ج ر,I,2,to give lie
+872,فَرَغْ,ف ر غ,I,2,to finish
+873,يَفْسَحِ,ف س ح,I,2,to make room
+874,تَفْقِدُ,ف ق د,I,2,to miss
+875,تَفِيضُ,ف ي ض,I,2,to overflow
+876,قَدِمْ,ق د م,I,2,"to precede, to proceed"
+877,تَقَدَّمَ,ق د م,V,2,"to precede, to proceed"
+878,قَسَمْ,ق س م,I,2,to distribute
+879,يَقْنُتْ,ق ن ت,I,2,to be obedient
+880,تَقَوَّلَ,ق و ل,V,2,"to fabricate, to make up"
+881,قَيَّضْ,ق ي ض,II,2,"to appoint, to destine"
+882,يَتَكَبَّرُ,ك ب ر,V,2,to be arrogant
+883,كَثُرَ,ك ث ر,I,2,"to be many, to be numerous"
+884,أَكْثَرُ,ك ث ر,IV,2,"to be many, to be frequent"
+885,كَرَّمْ,ك ر م,II,2,to honor
+886,أَكْمَلْ,ك م ل,IV,2,"to perfect, to complete"
+887,كَالُ,ك ي ل,I,2,to measure
+888,ٱكْتَالُ,ك ي ل,VIII,2,to measure
+889,ٱسْتَكَانُ,ك ي ن,X,2,"to give in, to submit"
+890,لَّجُّ,ل ج ج,I,2,to persist
+891,يَلْحَقُ,ل ح ق,I,2,to join
+892,يَلْتَفِتْ,ل ف ت,VIII,2,to look back
+893,ٱلْتَقَطَ,ل ق ط,VIII,2,to pick
+894,لُمَّ,ل م م,I,2,"to bring forward, to come"
+895,يَلْهَثْ,ل ه ث,I,2,to loll the tongue
+896,لِن,ل ي ن,I,2,"to deal gently, to relax"
+897,يُمَحِّصَ,م ح ص,II,2,"to purify, to purge"
+898,يَمْحَقُ,م ح ق,I,2,to destroy
+899,ٱمْتَحَنَ,م ح ن,VIII,2,"to test, to examine"
+900,مَرَجَ,م ر ج,I,2,to release
+901,مُزِّقْ,م ز ق,II,2,"to disintegrate, to disperse"
+902,يَتَمَآسَّ,م س س,VI,2,to touch
+903,يُمَنِّي,م ن ي,II,2,to arouse desire
+904,مَهِّلِ,م ه ل,II,2,to give respite
+905,تَمُورُ,م و ر,I,2,"to shake, to sway"
+906,يَمِيزَ,م ي ز,I,2,"to sepearte, to distinguish, to stand apart"
+907,ٱنتَبَذَتْ,ن ب ذ,VIII,2,to withdraw
+908,نَجَا,ن ج و,I,2,"to save, to escape"
+909,يُنزَفُ,ن ز ف,IV,2,to be intoxicated
+910,يَنسَخُ,ن س خ,I,2,"to abolish, to abrogate"
+911,يَنسِلُ,ن س ل,I,2,"to descend, to hasten"
+912,ٱنشُزُ,ن ش ز,I,2,to rise
+913,نُصِبَتْ,ن ص ب,I,2,"to be fixed, to labour"
+914,أَنصِتُ,ن ص ت,IV,2,"to listen, to play attention"
+915,ٱسْتَنصَرَ,ن ص ر,X,2,to seek help
+916,أَنطَقَ,ن ط ق,IV,2,to make speak
+917,نَافَقُ,ن ف ق,III,2,to be hypocritical
+918,نَكَصَ,ن ك ص,I,2,to turn
+919,تَنْهَرْ,ن ه ر,I,2,to repel
+920,يُهْرَعُ,ه ر ع,I,2,"to rush, to hasten"
+921,هَزَمُ,ه ز م,I,2,to defeat
+922,أَهَٰنَ,ه و ن,IV,2,to humiliate
+923,يُهَيِّئْ,ه ي ا,II,2,to facilitate
+924,يَهِيجُ,ه ي ج,I,2,"to wither, to dry"
+925,وَجَّهْ,و ج ه,II,2,"to direct, to turn"
+926,وَرَدَ,و ر د,I,2,to come
+927,تَوَارَتْ,و ر ي,VI,2,to hide
+928,أَوْزِعْ,و ز ع,IV,2,to grant power
+929,أَوْعَىٰٓ,و ع ي,IV,2,"to hoard, to keep"
+930,وُكِّلَ,و ك ل,II,2,"to entrust, to put in charge"
+931,ٱسْتَيْـَٔسَ,ي ا س,X,2,"to despair, to give up hope"
+932,تَيَسَّرَ,ي س ر,V,2,to be easy
+933,ٱسْتَيْسَرَ,ي س ر,X,2,to obtain with ease
+934,ٱسْتَيْقَنَتْ,ي ق ن,X,2,"to be convinced, to be certain"
+935,أَبَقَ,ا ب ق,I,1,"to run away, to flee"
+936,يُؤْثَرُ,ا ث ر,I,1,"to transmit, to be related"
+937,تَأْجُرَ,ا ج ر,I,1,to work for recompense
+938,آزَرَ,ا ز ر,IV,1,to strengthen
+939,تَؤُزُّ,ا ز ز,I,1,to incite
+940,أَزِفَتِ,ا ز ف,I,1,to approach
+941,تَأْسِرُ,ا س ر,I,1,to take captive
+942,ءَاسَفُ,ا س ف,IV,1,to anger
+943,أَلَتْ,ا ل ت,I,1,to deprive
+944,يَأْلُ,ا ل و,I,1,to spare
+945,يُؤْلُ,ا ل و,IV,1,"to swear, to vow"
+946,يَأْتَلِ,ا ل و,VIII,1,to swear
+947,ٱؤْتُمِنَ,ا م ن,VIII,1,to be entrusted
+948,تَسْتَأْنِسُ,ا ن س,X,1,to ask permission
+949,يَأْنِ,ا ن ي,I,1,to come (time)
+950,أَوِّبِ,ا و ب,II,1,to repeat
+951,يَـُٔودُ,ا و د,I,1,to tire
+952,يُبَتِّكُ,ب ت ك,II,1,to cut off
+953,تَبَتَّلْ,ب ت ل,V,1,to devote
+954,ٱنۢبَجَسَتْ,ب ج س,VII,1,"to gush, to flow"
+955,يَبْحَثُ,ب ح ث,I,1,"to search, to scratch"
+956,ٱبْتَدَعُ,ب د ع,VIII,1,to innovate
+957,تُبَذِّرْ,ب ذ ر,II,1,"to squander, to waste"
+958,نَّبْرَأَ,ب ر ا,I,1,to bring into existence
+959,تَبَرَّجْ,ب ر ج,V,1,to display
+960,بَرِقَ,ب ر ق,I,1,"to be dazzled, to be frightened"
+961,أَبْرَمُ,ب ر م,IV,1,"to determine, to conclude"
+962,بَسَرَ,ب س ر,I,1,"to scowl, to frown"
+963,بُسَّتِ,ب س س,I,1,"to crumble, to crush"
+964,تَبَسَّمَ,ب س م,V,1,to smile
+965,أَبْشِرُ,ب ش ر,IV,1,to receive glad tidings
+966,يُبَصَّرُ,ب ص ر,II,1,to be made to see
+967,يُبَطِّئَ,ب ط ا,II,1,to lag behind
+968,بَطِرَتْ,ب ط ر,I,1,to take lightly
+969,بَطَلَ,ب ط ل,I,1,to become futile
+970,ٱنۢبَعَثَ,ب ع ث,VII,1,to send forth
+971,بَٰعِدْ,ب ع د,III,1,to lengthen
+972,تُبْقِى,ب ق ي,IV,1,"to spare, to remain"
+973,أَبْكَىٰ,ب ك ي,IV,1,to make weep
+974,يُبْلِسُ,ب ل س,IV,1,to despair
+975,ٱبْلَعِ,ب ل ع,I,1,to swallow
+976,نَبْتَهِلْ,ب ه ل,VIII,1,to pray humbly
+977,يَبِيتُ,ب ي ت,I,1,to spend the night
+978,تَبِيدَ,ب ي د,I,1,to be perished
+979,تَبَايَعْ,ب ي ع,VI,1,to make commercial transaction
+980,يُبِينُ,ب ي ن,IV,1,to explain
+981,تَسْتَبِينَ,ب ي ن,X,1,to make clear
+982,أَتْقَنَ,ت ق ن,IV,1,to perfect
+983,تَلَّ,ت ل ل,I,1,to put down
+984,يَتِيهُ,ت ي ه,I,1,to wander
+985,ٱثْبُتُ,ث ب ت,I,1,to be firm
+986,ثَبَّطَ,ث ب ط,II,1,to make lag behind
+987,أَثْقَلَت,ث ق ل,IV,1,to be heavy
+988,ٱثَّاقَلْ,ث ق ل,VI,1,to be heavy
+989,يَثْنُ,ث ن ي,I,1,to fold up
+990,يَسْتَثْنُ,ث ن ي,X,1,to except
+991,ثُوِّبَ,ث و ب,II,1,to reward
+992,يُجْبَىٰٓ,ج ب ي,I,1,"to bring, to gather"
+993,ٱجْتُثَّتْ,ج ث ث,VIII,1,to uproot
+994,جَرَحْ,ج ر ح,I,1,to commit
+995,ٱجْتَرَحُ,ج ر ح,VIII,1,to commit
+996,يَجُرُّ,ج ر ر,I,1,to drag
+997,يَتَجَرَّعُ,ج ر ع,V,1,to sip
+998,جَزِعْ,ج ز ع,I,1,"to show intolerance, to be perturbed"
+999,نُجَٰزِىٓ,ج ز ي,III,1,to recompense
+1000,تَجَسَّسُ,ج س س,V,1,to spy
+1001,تَتَجَافَىٰ,ج ف و,I,1,to forsake
+1002,أَجْلِبْ,ج ل ب,IV,1,to raise
+1003,يَجْمَحُ,ج م ح,I,1,to run wild
+1004,ٱجْنُبْ,ج ن ب,I,1,to keep away
+1005,يُجَنَّبُ,ج ن ب,II,1,to remove from
+1006,يَتَجَنَّبُ,ج ن ب,V,1,to avoid
+1007,جَنَّ,ج ن ن,I,1,to cover
+1008,جَابُ,ج و ب,I,1,to carve
+1009,يُجَاوِرُ,ج و ر,III,1,to be neighbours
+1010,ٱسْتَجَارَ,ج و ر,X,1,to seek protection
+1011,نَتَجَاوَزُ,ج و ز,VI,1,to overlook
+1012,جَاسُ,ج و س,I,1,to enter
+1013,تَجُوعَ,ج و ع,I,1,to be hungry
+1014,حَبَّبَ,ح ب ب,II,1,to endear
+1015,حَجَّ,ح ج ج,I,1,"to perform pilgrimage, to argue"
+1016,يَتَحَآجُّ,ح ج ج,VI,1,to dispute
+1017,تَحْرُثُ,ح ر ث,I,1,to sow
+1018,ٱحْتَرَقَتْ,ح ر ق,VIII,1,to burn
+1019,تُحَرِّكْ,ح ر ك,II,1,to move
+1020,تَحَرَّ,ح ر ي,I,1,to seek
+1021,يَسْتَحْسِرُ,ح س ر,X,1,to tire
+1022,تَحُسُّ,ح س س,I,1,"to inquire, to kill"
+1023,تَحَسَّسُ,ح س س,V,1,to inquire
+1024,حَصْحَصَ,ح ص ح ص,I,1,to become manifest
+1025,حَصَد,ح ص د,I,1,to reap
+1026,حُصِّلَ,ح ص ل,II,1,to make apparent
+1027,تَحَٰٓضُّ,ح ض ض,VI,1,to feel the urge
+1028,يَحْطِمَ,ح ط م,I,1,to crush
+1029,ٱسْتُحْفِظُ,ح ف ظ,X,1,to be entrusted
+1030,حَفَفْ,ح ف ف,I,1,to border
+1031,يُحْفِ,ح ف و,IV,1,to press
+1032,يَتَحَاكَمُ,ح ك م,VI,1,to judge
+1033,تَحْلِقُ,ح ل ق,I,1,to shave
+1034,يُحْمَدُ,ح م د,I,1,to praise
+1035,يُحْمَىٰ,ح م ي,I,1,to heat
+1036,تَحْنَثْ,ح ن ث,I,1,to break oath
+1037,أَحْتَنِكَ,ح ن ك,VIII,1,to destroy
+1038,يَحُورَ,ح و ر,I,1,to return
+1039,تَحِيدُ,ح ي د,I,1,to avoid
+1040,يَحِضْ,ح ي ض,I,1,to menstruate
+1041,يَحِيفَ,ح ي ف,I,1,to be unjust
+1042,خَبُثَ,خ ب ث,I,1,to be bad
+1043,يَتَخَبَّطُ,خ ب ط,V,1,to confound
+1044,خَبَتْ,خ ب و,I,1,to subside
+1045,يَخْذُلْ,خ ذ ل,I,1,to forsake
+1046,يُخْرِبُ,خ ر ب,IV,1,to destroy
+1047,نَخْزَىٰ,خ ز ي,I,1,to be disgraced
+1048,ٱخْسَـُٔ,خ س ا,I,1,to be despised
+1049,تَخْضَعْ,خ ض ع,I,1,to be soft
+1050,تَخُطُّ,خ ط ط,I,1,to write
+1051,تُخَافِتْ,خ ف ت,III,1,to be silent
+1052,خَلَصُ,خ ل ص,I,1,to seclude
+1053,أَسْتَخْلِصْ,خ ل ص,X,1,to select
+1054,خَلَطُ,خ ل ط,I,1,to mix
+1055,تُخَالِطُ,خ ل ط,III,1,to associate
+1056,ٱخْلَعْ,خ ل ع,I,1,to remove
+1057,خُلِّفُ,خ ل ف,II,1,to leave behind
+1058,يَتَخَلَّفُ,خ ل ف,V,1,to remain behind
+1059,خَلُّ,خ ل و,II,1,to leave
+1060,تَخَلَّتْ,خ ل و,V,1,to become empty
+1061,يُخَيَّلُ,خ ي ل,II,1,to seem
+1062,دَحَىٰ,د ح و,I,1,to spread
+1063,ٱدَّٰرَْٰٔ,د ر ا,VI,1,to dispute
+1064,يَدُسُّ,د س س,I,1,to bury
+1065,دَسَّىٰ,د س و,I,1,to bury
+1066,يُدَٰفِعُ,د ف ع,III,1,to defend
+1067,تَدَلَّىٰ,د ل و,I,1,to come down
+1068,دَمْدَمَ,د م د م,I,1,to destroy
+1069,يَدْمَغُ,د م غ,I,1,to break
+1070,تَدُورُ,د و ر,I,1,to revolve
+1071,تُدِيرُ,د و ر,IV,1,to carry out
+1072,نُدَاوِلُ,د و ل,III,1,to alternate
+1073,يَدِينُ,د ي ن,I,1,to acknowledge
+1074,تَدَايَن,د ي ن,VI,1,to contract
+1075,تَدَّخِرُ,ذ خ ر,VIII,1,to store
+1076,تَذْرُو,ذ ر و,I,1,to scatter
+1077,ٱدَّكَرَ,ذ ك ر,VIII,1,to remember
+1078,ذَكَّيْ,ذ ك و,II,1,to slaughter
+1079,نَّذِلَّ,ذ ل ل,I,1,to humiliate
+1080,تُذِلُّ,ذ ل ل,IV,1,to humiliate
+1081,تَذْهَلُ,ذ ه ل,I,1,to forget
+1082,تَذُودَ,ذ و د,I,1,to keep back
+1083,أَذَاعُ,ذ ي ع,IV,1,to spread
+1084,رَبِحَت,ر ب ح,I,1,to profit
+1085,رَابِطُ,ر ب ط,III,1,to be constant
+1086,يَرْتَعْ,ر ت ع,I,1,to enjoy
+1087,رُجَّتِ,ر ج ج,I,1,to shake
+1088,يَتَرَاجَعَ,ر ج ع,VI,1,to return
+1089,يَتَرَدَّدُ,ر د د,V,1,to waver
+1090,رَدِفَ,ر د ف,I,1,to be close behind
+1091,تَرْدَىٰ,ر د ي,I,1,to perish
+1092,تَرَدَّىٰٓ,ر د ي,V,1,to fall
+1093,أَرْسَىٰ,ر س و,I,1,to make
+1094,يَرْشُدُ,ر ش د,I,1,to be led aright
+1095,يُرْضِعْ,ر ض ع,I,1,to suckle
+1096,تَسْتَرْضِعُ,ر ض ع,X,1,to suckle
+1097,تَرْقَىٰ,ر ق ي,I,1,to ascend
+1098,يَرْتَقُ,ر ق ي,VIII,1,to ascend
+1099,رَكَّبَ,ر ك ب,II,1,to assemble
+1100,يَرْكُمَ,ر ك م,I,1,to heap
+1101,تُرْهِبُ,ر ه ب,IV,1,to terrify
+1102,ٱسْتَرْهَبُ,ر ه ب,X,1,to terrify
+1103,تُرِيحُ,ر و ح,IV,1,to bring
+1104,رَانَ,ر ي ن,I,1,to cover
+1105,ٱزْدُجِرَ,ز ج ر,VIII,1,to repell
+1106,زُحْزِحَ,ز ح ز ح,I,1,to draw away
+1107,تَزْدَرِىٓ,ز ر ي,VIII,1,to look down
+1108,يَزِفُّ,ز ف ف,I,1,to hasten
+1109,زَكَىٰ,ز ك و,I,1,to purify
+1110,يُزْلِقُ,ز ل ق,IV,1,to make slip
+1111,أَزَلَّ,ز ل ل,IV,1,to make slip
+1112,ٱسْتَزَلَّ,ز ل ل,X,1,to make slip
+1113,تَزَوَّدُ,ز و د,V,1,to take provision
+1114,زُرْ,ز و ر,I,1,to visit
+1115,تَّزَٰوَرُ,ز و ر,VI,1,to incline away
+1116,زَيَّلْ,ز ي ل,II,1,to seperate
+1117,تَزَيَّلُ,ز ي ل,V,1,to be apart
+1118,ٱزَّيَّنَتْ,ز ي ن,V,1,to beautify
+1119,يَسْبِتُ,س ب ت,I,1,to have Sabbath
+1120,أَسْبَغَ,س ب غ,IV,1,to bestow
+1121,سَابِقُ,س ب ق,III,1,to race
+1122,تَسْتَتِرُ,س ت ر,VIII,1,to cover
+1123,يُسْجَرُ,س ج ر,I,1,to burn
+1124,سُجِّرَتْ,س ج ر,II,1,to overflow
+1125,سَجَىٰ,س ج و,I,1,to cover with darkness
+1126,يُسْحِتَ,س ح ت,IV,1,to destroy
+1127,يَسْتَسْخِرُ,س خ ر,X,1,to mock
+1128,أَسْخَطَ,س خ ط,IV,1,to anger
+1129,تَسْرَحُ,س ر ح,I,1,to take out
+1130,تَسُرُّ,س ر ر,I,1,to please
+1131,ٱسْتَرَقَ,س ر ق,VIII,1,to steal
+1132,يَسْرِ,س ر ي,I,1,"to pass, to set out"
+1133,سُطِحَتْ,س ط ح,I,1,to spread out
+1134,يَسْطُرُ,س ط ر,I,1,to write
+1135,يَسْطُ,س ط و,I,1,to attack
+1136,سُعِدُ,س ع د,I,1,to be glad
+1137,سُعِّرَتْ,س ع ر,II,1,to set ablaze
+1138,أَسْفَرَ,س ف ر,IV,1,to brighten
+1139,نَسْفَعًۢ,س ف ع,I,1,to drag
+1140,سَفِهَ,س ف ه,I,1,to fool
+1141,تُسَٰقِطْ,س ق ط,III,1,to drop
+1142,سَكَتَ,س ك ت,I,1,to calm
+1143,سُكِّرَتْ,س ك ر,II,1,to dazzle
+1144,يَسْلُبْ,س ل ب,I,1,to snatch away
+1145,نَسْلَخُ,س ل خ,I,1,to withdraw
+1146,سَلَقُ,س ل ق,I,1,to smite
+1147,يَتَسَلَّلُ,س ل ل,V,1,to slip away
+1148,يَسَّمَّعُ,س م ع,V,1,to listen
+1149,يُسْمِنُ,س م ن,IV,1,to nourish
+1150,يَتَسَنَّهْ,س ن ه,V,1,to change with time
+1151,سَاهَمَ,س ه م,III,1,to draw
+1152,تَسَوَّرُ,س و ر,V,1,to climb over
+1153,يُسِيغُ,س و غ,IV,1,to swallow
+1154,تُسِيمُ,س و م,IV,1,to pasture
+1155,تُسَوَّىٰ,س و ي,I,1,to level
+1156,سَاوَىٰ,س و ي,III,1,to level
+1157,سِيحُ,س ي ح,I,1,to move about
+1158,سَالَتْ,س ي ل,I,1,to flow
+1159,أَسَلْ,س ي ل,IV,1,to cause flow
+1160,شُبِّهَ,ش ب ه,II,1,to make appear
+1161,شَجَرَ,ش ج ر,I,1,to arise
+1162,تَشْخَصُ,ش خ ص,I,1,to stare
+1163,ٱشْتَدَّتْ,ش د د,VIII,1,to blow furiously
+1164,أُشْرِبُ,ش ر ب,IV,1,to make drink
+1165,شَرِّدْ,ش ر د,II,1,to disperse
+1166,أَشْرَقَتِ,ش ر ق,IV,1,to shine
+1167,شَارِكْ,ش ر ك,III,1,to be a partner
+1168,تُشْطِطْ,ش ط ط,IV,1,to be unjust
+1169,ٱشْتَعَلَ,ش ع ل,VIII,1,to flare
+1170,شَغَفَ,ش غ ف,I,1,to impassion
+1171,شَغَلَتْ,ش غ ل,I,1,to keep busy
+1172,أَشْكُوا۟,ش ك و,I,1,to complain
+1173,تَشْتَكِىٓ,ش ك و,VIII,1,to complain
+1174,تُشْمِتْ,ش م ت,IV,1,to rejoice
+1175,ٱشْمَأَزَّتْ,ش م ز,VIII,1,to shrink with aversion
+1176,شَاوِرْ,ش و ر,III,1,to consult
+1177,أَشَارَتْ,ش و ر,IV,1,to point
+1178,يَشْوِى,ش و ي,I,1,to scald
+1179,تَشِيعَ,ش ي ع,I,1,to spread
+1180,صَبَّحَ,ص ب ح,II,1,to seize in the morning
+1181,صَابِرُ,ص ب ر,III,1,to be patient
+1182,أَصْبُ,ص ب و,I,1,to incline
+1183,يُصْحَبُ,ص ح ب,I,1,to protect
+1184,صُدُّ,ص د د,II,1,to hinder
+1185,يَصْدُرُ,ص د ر,I,1,to proceed
+1186,يُصْدِرَ,ص د ر,IV,1,to take away
+1187,ٱصْدَعْ,ص د ع,I,1,to proclaim
+1188,يُصَدَّعُ,ص د ع,II,1,to have headache
+1189,يَصَّدَّعُ,ص د ع,V,1,to be divided
+1190,تَصَدَّىٰ,ص د ي,V,1,to give attention
+1191,يَصْطَرِخُ,ص ر خ,VIII,1,to cry
+1192,يَسْتَصْرِخُ,ص ر خ,X,1,to cry for help
+1193,ٱنصَرَفُ,ص ر ف,VII,1,to turn away
+1194,يَصْرِمُ,ص ر م,I,1,to pluck
+1195,يَصْعَدُ,ص ع د,I,1,to ascend
+1196,تُصْعِدُ,ص ع د,IV,1,to run uphill
+1197,يَصَّعَّدُ,ص ع د,V,1,to climb
+1198,تُصَعِّرْ,ص ع ر,II,1,to turn
+1199,صَكَّتْ,ص ك ك,I,1,to strike
+1200,صَلُّ,ص ل ي,II,1,to burn
+1201,أَصَمَّ,ص م م,IV,1,to make deaf
+1202,ٱصْطَنَعْ,ص ن ع,VIII,1,to choose
+1203,يُصْهَرُ,ص ه ر,I,1,to melt
+1204,صُرْ,ص و ر,I,1,to incline
+1205,ٱصْطَادُ,ص ي د,VIII,1,to hunt
+1206,تَصِيرُ,ص ي ر,I,1,to reach
+1207,أَضْحَكَ,ض ح ك,IV,1,to make laugh
+1208,تَضْحَىٰ,ض ح و,I,1,to expose
+1209,تَضَرَّعُ,ض ر ع,I,1,to humble
+1210,يُضَٰهِـُٔ,ض ه ا,III,1,to imitate
+1211,يُضَيِّفُ,ض ي ف,II,1,to offer hospitality
+1212,تُضَيِّقُ,ض ي ق,II,1,to distress
+1213,طَحَىٰ,ط ح و,I,1,to spread
+1214,ٱطْرَحُ,ط ر ح,I,1,to cast
+1215,ٱسْتَطْعَمَ,ط ع م,X,1,to ask for food
+1216,طَعَنُ,ط ع ن,I,1,to defame
+1217,أَطْغَيْ,ط غ ي,IV,1,to make transgress
+1218,يَطْلُبُ,ط ل ب,I,1,to seek
+1219,يُطْلِعَ,ط ل ع,IV,1,to inform
+1220,يَطْهُرْ,ط ه ر,I,1,to purify
+1221,طَوَّعَتْ,ط و ع,II,1,to prompt
+1222,يُطَوَّقُ,ط و ق,II,1,to encircle the neck
+1223,يُطِيقُ,ط و ق,IV,1,to afford
+1224,تَطَاوَلَ,ط و ل,VI,1,to prolong
+1225,نَطْوِى,ط و ي,I,1,to fold
+1226,يَطِيرُ,ط ي ر,I,1,to fly
+1227,أَظْفَرَ,ظ ف ر,IV,1,to give victory
+1228,أَظْلَمَ,ظ ل م,IV,1,to darken
+1229,تَظْمَؤُا۟,ظ م ا,I,1,to suffer from thirst
+1230,يَعْبَؤُا۟,ع ب ا,I,1,to care
+1231,تَعْبَثُ,ع ب ث,I,1,to be amused
+1232,عَبَّد,ع ب د,II,1,to enslave
+1233,تَعْبُرُ,ع ب ر,I,1,to interpret
+1234,ٱعْتَبِرُ,ع ب ر,VIII,1,to learn a lesson
+1235,ٱعْتِلُ,ع ت ل,I,1,to drag
+1236,عُثِرَ,ع ث ر,I,1,to discover
+1237,أَعْثَرْ,ع ث ر,IV,1,to make known
+1238,عَجَزْ,ع ج ز,I,1,to be unable
+1239,أَعْجَلَ,ع ج ل,IV,1,to make hasten
+1240,تَعَجَّلَ,ع ج ل,V,1,to hurry
+1241,عَدَّدَ,ع د د,II,1,to count
+1242,تَعْتَدُّ,ع د د,VIII,1,to count
+1243,عَادَيْ,ع د و,III,1,to be enemies
+1244,عَرَّضْ,ع ر ض,II,1,to hint
+1245,ٱعْتَرَىٰ,ع ر و,VIII,1,to seize
+1246,تَعْرَىٰ,ع ر ي,I,1,to unclothe
+1247,عَزَّ,ع ز ز,I,1,to overpower
+1248,عَزَّزْ,ع ز ز,II,1,to strengthen
+1249,تُعِزُّ,ع ز ز,IV,1,to honor
+1250,عَزَلْ,ع ز ل,I,1,to set aside
+1251,تَعَاسَرْ,ع س ر,VI,1,to disagree
+1252,عَسْعَسَ,ع س ع س,I,1,to depart
+1253,عَاشِرُ,ع ش ر,III,1,to live
+1254,يَعْشُ,ع ش و,I,1,to turn away
+1255,ٱسْتَعْصَمَ,ع ص م,X,1,to save
+1256,عُطِّلَتْ,ع ط ل,II,1,to leave untended
+1257,تَعَاطَىٰ,ع ط و,I,1,to take
+1258,يُعْظِمْ,ع ظ م,IV,1,to make great
+1259,أَعْقَبَ,ع ق ب,IV,1,to penalize
+1260,عَقَدَتْ,ع ق د,I,1,to pledge
+1261,عَقَّد,ع ق د,II,1,to contract
+1262,يَعْكُفُ,ع ك ف,I,1,to devote
+1263,ٱسْتَعْلَىٰ,ع ل و,X,1,to overcome
+1264,تَعَمَّدَتْ,ع م د,V,1,to intend
+1265,ٱعْتَمَرَ,ع م ر,VIII,1,to perform Umrah
+1266,ٱسْتَعْمَرَ,ع م ر,X,1,to settle
+1267,عُمِّيَتْ,ع م ي,II,1,to obscure
+1268,أَعْنَتَ,ع ن ت,IV,1,to put into difficulty
+1269,عَنَتِ,ع ن و,I,1,to be humbled
+1270,أُعِيذُ,ع و ذ,IV,1,to seek refuge
+1271,تَعُولُ,ع و ل,I,1,to oppress
+1272,أَعِيبَ,ع ي ب,I,1,to cause defect
+1273,ٱغْتَرَفَ,غ ر ف,VIII,1,to take
+1274,ٱغْسِلُ,غ س ل,I,1,to wash
+1275,تَغْتَسِلُ,غ س ل,VIII,1,to bathe
+1276,تَغَشَّىٰ,غ ش و,V,1,to cover
+1277,أَغْطَشَ,غ ط ش,IV,1,to darken
+1278,تَغْفُلُ,غ ف ل,I,1,to neglect
+1279,أَغْفَلْ,غ ف ل,IV,1,to make heedless
+1280,ٱسْتَغْلَظَ,غ ل ظ,X,1,to become thick
+1281,غَلَّقَتِ,غ ل ق,II,1,to close
+1282,يَغْلِى,غ ل ي,I,1,to boil
+1283,يَتَغَامَزُ,غ م ز,VI,1,to wink
+1284,تُغْمِضُ,غ م ض,IV,1,to close
+1285,يُغَاثُ,غ و ث,IV,1,to be relieved
+1286,يَغُوصُ,غ و ص,I,1,to dive
+1287,يَغْتَب,غ ي ب,VIII,1,to backbite
+1288,يُغَاثُ,غ ي ث,IV,1,to be given rain
+1289,يَتَغَيَّرْ,غ ي ر,V,1,to change
+1290,تَفْتَؤُا۟,ف ت ا,I,1,to cease
+1291,تُفَتَّحُ,ف ت ح,II,1,to open
+1292,يَفْتُرُ,ف ت ر,I,1,to invent
+1293,يُفَتَّرُ,ف ت ر,II,1,to subside
+1294,فَتَقْ,ف ت ق,I,1,to part
+1295,يَتَفَجَّرُ,ف ج ر,V,1,to gush forth
+1296,ٱنفَجَرَتْ,ف ج ر,VII,1,to gush forth
+1297,فَدَيْ,ف د ي,I,1,to ransom
+1298,تُفَٰدُ,ف د ي,III,1,to ransom
+1299,فُرِجَتْ,ف ر ج,I,1,to be cleft asunder
+1300,فَرَشْ,ف ر ش,I,1,to spread
+1301,يَفْرُطَ,ف ر ط,I,1,to hasten
+1302,فَارِقُ,ف ر ق,III,1,to part
+1303,يَفْتَرِي,ف ر ي,I,1,to invent
+1304,فُزِّعَ,ف ز ع,II,1,to remove fear
+1305,تَفَسَّحُ,ف س ح,V,1,to make room
+1306,تَفْضَحُ,ف ض ح,I,1,to shame
+1307,يَتَفَضَّلَ,ف ض ل,V,1,to assert superiority
+1308,أَفْضَىٰ,ف ض و,IV,1,to go
+1309,ٱنفَطَرَتْ,ف ط ر,VII,1,to be cleft asunder
+1310,تَفَقَّدَ,ف ق د,V,1,to inspect
+1311,يَتَفَقَّهُ,ف ق ه,V,1,to obtain understanding
+1312,فَكَّرَ,ف ك ر,II,1,to think
+1313,تَفَكَّهُ,ف ك ه,V,1,to wonder
+1314,ٱنفَلَقَ,ف ل ق,VII,1,to part
+1315,تُفَنِّدُ,ف ن د,II,1,to weaken in mind
+1316,فَهَّمْ,ف ه م,II,1,to give understanding
+1317,أُفَوِّضُ,ف و ض,II,1,to entrust
+1318,أَفَاقَ,ف و ق,IV,1,to recover
+1319,يَتَفَيَّؤُا۟,ف ي ا,V,1,to incline
+1320,أَقْبَرَ,ق ب ر,IV,1,to provide a grave
+1321,نَقْتَبِسْ,ق ب س,VIII,1,to acquire
+1322,يَقْتُرُ,ق ت ر,I,1,to be stingy
+1323,ٱقْتَحَمَ,ق ح م,VIII,1,to attempt
+1324,نُقَدِّسُ,ق د س,II,1,to sanctify
+1325,ٱقْتَدِهْ,ق د و,VIII,1,to follow
+1326,نُقْرِئُ,ق ر ا,IV,1,to make recite
+1327,ٱسْتَقَرَّ,ق ر ر,X,1,to remain
+1328,تَّقْرِضُ,ق ر ض,I,1,to pass
+1329,قَاسَمَ,ق س م,III,1,to swear
+1330,تَقَاسَمُ,ق س م,VI,1,to distribute
+1331,تَسْتَقْسِمُ,ق س م,X,1,to seek division
+1332,تَقْشَعِرُّ,ق ش ع ر,IV,1,to shiver
+1333,ٱقْصِدْ,ق ص د,I,1,to be moderate
+1334,تَقْصُرُ,ق ص ر,I,1,to shorten
+1335,يُقْصِرُ,ق ص ر,IV,1,to cease
+1336,قَصَمْ,ق ص م,I,1,to shatter
+1337,يَنقَضَّ,ق ض ض,VII,1,to collapse
+1338,تَقْفُ,ق ف و,I,1,to pursue
+1339,تُقْلَبُ,ق ل ب,I,1,to return
+1340,تَتَقَلَّبُ,ق ل ب,V,1,to turn around
+1341,أَقْلِعِ,ق ل ع,IV,1,to withhold
+1342,قَلَّ,ق ل ل,I,1,to be little
+1343,يُقَلِّلُ,ق ل ل,II,1,to make few
+1344,أَقَلَّتْ,ق ل ل,IV,1,to carry
+1345,قَلَىٰ,ق ل ي,I,1,to be displeased
+1346,تَقْهَرْ,ق ه ر,I,1,to oppress
+1347,كُبَّتْ,ك ب ب,I,1,to cast
+1348,أَكْبَرْ,ك ب ر,IV,1,to admire greatly
+1349,كُبْكِبُ,ك ب ك ب,I,1,to overturn
+1350,كَاتِبُ,ك ت ب,III,1,to give writing
+1351,ٱكْتَتَبَ,ك ت ب,VIII,1,to write
+1352,كَثَّرَ,ك ث ر,II,1,to increase
+1353,ٱنكَدَرَتْ,ك د ر,VII,1,to fall and lose luster
+1354,أَكْدَىٰٓ,ك د ي,IV,1,to withhold
+1355,كَرَّهَ,ك ر ه,II,1,to make hateful
+1356,كُشِطَتْ,ك ش ط,I,1,to strip away
+1357,أَكْفَرَ,ك ف ر,IV,1,"to be ngrateful, to deny"
+1358,كَفَّلَ,ك ف ل,II,1,to put in care
+1359,أَكْفِلْ,ك ف ل,IV,1,to entrust
+1360,يَكْلَؤُ,ك ل ا,I,1,to protect
+1361,تُكْوَىٰ,ك و ي,I,1,to brand
+1362,تَلَذُّ,ل ذ ذ,I,1,to delight
+1363,يَتَلَطَّفْ,ل ط ف,V,1,to be cautious
+1364,تَلَظَّىٰ,ل ظ ي,I,1,to blaze
+1365,ٱلْغَ,ل غ و,I,1,to make noise
+1366,تَلْفِتَ,ل ف ت,I,1,to turn away
+1367,تَلْفَحُ,ل ف ح,I,1,to burn
+1368,يَلْفِظُ,ل ف ظ,I,1,to utter
+1369,ٱلْتَفَّتِ,ل ف ف,VIII,1,to wind
+1370,ٱلْتَقَمَ,ل ق م,VIII,1,to swallow
+1371,ٱلْتَمِسُ,ل م س,VIII,1,to seek
+1372,أَلْهَمَ,ل ه م,IV,1,to inspire
+1373,تَلَهَّىٰ,ل ه و,I,1,"to distract, to divert"
+1374,لَاتَ,ل و ت,I,1,to not be
+1375,يَتَلَٰوَمُ,ل و م,VI,1,to blame
+1376,لَوَّ,ل و ي,II,1,to turn aside
+1377,يَلِتْ,ل ي ت,I,1,to deprive
+1378,أَلَ,ل ي ن,IV,1,to make pliable
+1379,تَمَثَّلَ,م ث ل,V,1,to assume a likeness
+1380,تَمْرَحُ,م ر ح,I,1,to be insolent
+1381,مَرَدُ,م ر د,I,1,to persist
+1382,مَرِضْ,م ر ض,I,1,to be ill
+1383,تُمَارِ,م ر ي,III,1,to argue
+1384,مَسَخْ,م س خ,I,1,to transform
+1385,يُمَسِّكُ,م س ك,II,1,to hold fast
+1386,تُمْسُ,م س و,IV,1,to reach evening
+1387,يَتَمَطَّىٰٓ,م ط و,V,1,to swagger
+1388,أَمْكَنَ,م ك ن,IV,1,to give power
+1389,ٱمْتَلَأْ,م ل ا,VIII,1,to fill
+1390,يَمْهَدُ,م ه د,I,1,to prepare
+1391,مَهَّد,م ه د,II,1,to spread
+1392,أَمْهِلْ,م ه ل,IV,1,to give respite
+1393,يَمُوجُ,م و ج,I,1,to surge
+1394,نَمِيرُ,م ي ر,I,1,to get provision
+1395,تَمَيَّزُ,م ي ز,V,1,to burst
+1396,ٱمْتَٰزُ,م ي ز,VIII,1,to stand apart
+1397,يَسْتَنۢبِـُٔ,ن ب ا,X,1,to ask to inform
+1398,تَنۢبُتُ,ن ب ت,I,1,to produce
+1399,تَنَابَزُ,ن ب ز,VI,1,to call
+1400,يَسْتَنۢبِطُ,ن ب ط,X,1,to draw correct conclusion
+1401,نَتَقْ,ن ت ق,I,1,to raise
+1402,ٱنتَثَرَتْ,ن ث ر,VIII,1,to scatter
+1403,نَٰجَيْ,ن ج و,III,1,to consult privately
+1404,ٱنْحَرْ,ن ح ر,I,1,to sacrifice
+1405,تَنَادَ,ن د و,I,1,to call
+1406,يُنَٰزِعُ,ن ز ع,III,1,to dispute
+1407,نَسْتَنسِخُ,ن س خ,X,1,to transcribe
+1408,يُنَشَّؤُا۟,ن ش ا,II,1,to bring up
+1409,نُنشِزُ,ن ش ز,IV,1,to raise
+1410,تَنَاصَرُ,ن ص ر,VI,1,to help
+1411,نَضِجَتْ,ن ض ج,I,1,to roast
+1412,يَنْعِقُ,ن ع ق,I,1,to shout
+1413,نَعَّمَ,ن ع م,II,1,to favor
+1414,يُنْغِضُ,ن غ ض,IV,1,to shake
+1415,تَنَفَّسَ,ن ف س,V,1,to breathe
+1416,يَتَنَافَسِ,ن ف س,VI,1,to aspire
+1417,نَفَشَتْ,ن ف ش,I,1,to pasture
+1418,يُنفَ,ن ف ي,I,1,to exile
+1419,نَقَّبُ,ن ق ب,II,1,to explore
+1420,يَسْتَنقِذُ,ن ق ذ,X,1,to take back
+1421,نُقِرَ,ن ق ر,I,1,to blow
+1422,أَنقَضَ,ن ق ض,IV,1,to weigh
+1423,يَسْتَنكِحَ,ن ك ح,X,1,to marry
+1424,نَكِرَ,ن ك ر,I,1,to feel unfamiliar
+1425,نَكِّرُ,ن ك ر,II,1,to disguise
+1426,نُكِسُ,ن ك س,I,1,to turn
+1427,نُنَكِّسْ,ن ك س,II,1,to reverse
+1428,يَتَنَاهَ,ن ه ي,VI,1,to forbid
+1429,تَنُوٓأُ,ن و ا,I,1,to burden
+1430,تَهَجَّدْ,ه ج د,V,1,to arise from sleep for prayer
+1431,يَهْجَعُ,ه ج ع,I,1,to sleep
+1432,هُدِّمَتْ,ه د م,II,1,to demolish
+1433,هُزِّ,ه ز ز,I,1,to shake
+1434,أَهُشُّ,ه ش ش,I,1,to bring down leaves
+1435,أَهَمَّتْ,ه م م,IV,1,to worry
+1436,ٱنْهَارَ,ه و ر,VII,1,to collapse
+1437,ٱسْتَهْوَتْ,ه و ي,X,1,to entice
+1438,هَيْتَ,ه ي ت,I,1,to Come on
+1439,يَهِيمُ,ه ي م,I,1,to roam
+1440,يُوبِقْ,و ب ق,IV,1,to destroy
+1441,يَتِرَ,و ت ر,I,1,to deprive
+1442,وَاثَقَ,و ث ق,III,1,to bound
+1443,يُوثِقُ,و ث ق,IV,1,to bind
+1444,وَجَبَتْ,و ج ب,I,1,to be down
+1445,أَوْجَفْ,و ج ف,IV,1,to make expedition
+1446,تَوَجَّهَ,و ج ه,V,1,to turn
+1447,دَعْ,و د ع,I,1,to disregard
+1448,وَدَّعَ,و د ع,II,1,to forsake
+1449,أَوْرَدَ,و ر د,IV,1,to lead
+1450,تُورُ,و ر ي,IV,1,to ignite
+1451,وَسَطْ,و س ط,I,1,to penetrate the center
+1452,وَسَقَ,و س ق,I,1,to envelops
+1453,ٱتَّسَقَ,و س ق,VIII,1,to be full
+1454,نَسِمُ,و س م,I,1,to brand
+1455,وَصَّلْ,و ص ل,II,1,to convey
+1456,يُوصِي,و ص ي,I,1,to make
+1457,أَوْضَعُ,و ض ع,IV,1,to be active
+1458,يُوَاطِـُٔ,و ط ا,III,1,to adjust
+1459,تُوعِدُ,و ع د,IV,1,to threaten
+1460,تَوَاعَد,و ع د,VI,1,to make an appointment
+1461,تَعِيَ,و ع ي,I,1,to be conscious
+1462,يُوفِضُ,و ف ض,IV,1,to hasten
+1463,يُوَفِّقِ,و ف ق,II,1,to cause reconciliation
+1464,يَسْتَوْفُ,و ف ي,X,1,to take in full
+1465,وَقَبَ,و ق ب,I,1,to spread
+1466,أُقِّتَتْ,و ق ت,II,1,to be gathered to an appointed time
+1467,ٱسْتَوْقَدَ,و ق د,X,1,to kindle
+1468,تُوَقِّرُ,و ق ر,II,1,to respect
+1469,يُوقِعَ,و ق ع,IV,1,to cause
+1470,أَتَوَكَّؤُا۟,و ك ا,V,1,to lean
+1471,يَتَّكِـُٔ,و ك ا,VIII,1,to recline
+1472,وَكَزَ,و ك ز,I,1,to strike
+1473,يَلُ,و ل ي,I,1,to be close
+1474,تَنِيَ,و ن ي,I,1,to slacken

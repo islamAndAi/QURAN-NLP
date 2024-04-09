@@ -1,0 +1,3358 @@
+,lemma,buckwalter,frequency,part_of_speech
+0,مِن,min,3226,Preposition
+1,ٱللَّه,{ll~ah,2699,Proper noun
+2,مَا,maA,2177,"Relative pronoun (1266), Negative particle (704), Interogative particle (92), Subordinating conjunction (79), Conditional particle (23), Supplemental particle (13)"
+3,فِى,fiY,1701,Preposition
+4,لَا,laA,1691,"Negative particle (1364), Prohibition particle (327)"
+5,إِنّ,<in~,1682,Accusative particle
+6,ٱلَّذِى,{l~a*iY,1464,"Relative pronoun (1442), Conditional particle (22)"
+7,عَلَىٰ,EalaY`,1445,Preposition
+8,رَبّ,rab~,975,Noun
+9,مَن,man,824,"Relative pronoun (606), Conditional particle (184), Interogative particle (34)"
+10,إِلَىٰ,<ilaY`,742,Preposition
+11,إِن,<in,697,"Conditional particle (578), Negative particle (114), Particle of certainty (5)"
+12,إِلَّا,<il~aA,663,"Restriction particle (558), Exceptive particle (102), Particle of certainty (3)"
+13,أَن,>an,625,"Subordinating conjunction (578), Particle of interpretation (47)"
+14,ذَٰلِك,*a`lik,520,Demonstrative pronoun
+15,عَن,Ean,465,Preposition
+16,أَرْض,>aroD,461,Noun
+17,إِذَا,<i*aA,409,"Time adverb (405), Surprise particle (3), Conditional particle (1)"
+18,قَد,qad,406,Particle of certainty
+19,يَوْم,yawom,405,"Noun (325), Time adverb (80)"
+20,قَوْم,qawom,383,Noun
+21,ءَايَة,'aAyap,382,Noun
+22,أَنّ,>an~,362,Accusative particle
+23,كُلّ,kul~,359,"Noun (358), Time adverb (1)"
+24,لَم,lam,353,Negative particle
+25,ثُمّ,vum~,338,Coordinating conjunction
+26,رَسُول,rasuwl,332,Noun
+27,عَذَاب,Ea*aAb,322,Noun
+28,هَٰذَا,ha`*aA,318,"Demonstrative pronoun (317), Relative pronoun (1)"
+29,سَمَآء,samaA^',310,Noun
+30,نَفْس,nafos,295,Noun
+31,شَىْء,$aYo',283,Noun
+32,أَو,>aw,280,Coordinating conjunction
+33,بَيْن,bayon,266,"Location adverb (243), Noun (23)"
+34,كِتَٰب,kita`b,260,Noun
+35,حَقّ,Haq~,247,"Noun (242), Adjective (5)"
+36,قَبْل,qabol,242,"Noun (197), Time adverb (45)"
+37,نَّاس,n~aAs,241,Noun
+38,إِذ,<i*,239,Time adverb
+39,أُولَٰٓئِك,>uwla`^}ik,204,Demonstrative pronoun
+40,مُؤْمِن,mu&omin,202,"Noun (195), Adjective (7)"
+41,لَو,law,200,"Conditional particle (184), Subordinating conjunction (16)"
+42,بَعْد,baEod,199,"Noun (133), Time adverb (66)"
+43,عِند,Eind,197,"Location adverb (160), Noun (37)"
+44,خَيْر,xayor,178,"Noun (148), Adjective (30)"
+45,سَبِيل,sabiyl,176,Noun
+46,أَمْر,>amor,166,Noun
+47,عَلِيم,Ealiym,163,"Adjective (101), Noun (62)"
+48,مَع,maE,159,Location adverb
+49,بَعْض,baEoD,157,Noun
+50,لَمَّا,lam~aA,156,Time adverb
+51,آخِر,A^xir,155,"Noun (133), Adjective (21), Time adverb (1)"
+52,أَيُّهَا,>ay~uhaA,153,Noun
+53,إِلَٰه,<ila`h,147,Noun
+54,جَنَّة,jan~ap,147,"Noun (96), Proper noun (51)"
+55,غَيْر,gayor,147,"Noun (144), Adjective (3)"
+56,نَار,naAr,145,Noun
+57,دُون,duwn,144,"Noun (135), Location adverb (9)"
+58,حَتَّىٰ,Hat~aY`,142,"Preposition (95), Inceptive particle (47)"
+59,أَم,>am,137,Coordinating conjunction
+60,مُوسَىٰ,muwsaY`,136,Proper noun
+61,قَلْب,qalob,132,Noun
+62,عَبْد,Eabod,131,Noun
+63,ظَالِم,ZaAlim,129,"Noun (105), Adjective (24)"
+64,كَٰفِرُون,ka`firuwn,129,"Noun (119), Adjective (10)"
+65,أَهْل,>ahol,127,Noun
+66,بَل,bal,127,"Retraction particle (122), Inceptive particle (4), Coordinating conjunction (1)"
+67,لَعَلّ,laEal~,123,Accusative particle
+68,عَظِيم,EaZiym,120,"Adjective (104), Noun (16)"
+69,يَد,yad,120,Noun
+70,مُّبِين,m~ubiyn,119,"Noun (72), Adjective (47)"
+71,رَّحِيم,r~aHiym,116,"Adjective (112), Noun (4)"
+72,دُّنْيَا,d~unoyaA,115,"Adjective (74), Noun (41)"
+73,رَحْمَة,raHomap,114,Noun
+74,أَجْر,>ajor,105,Noun
+75,عِلْم,Eilom,105,Noun
+76,لَن,lan,104,Negative particle
+77,عَزِيز,Eaziyz,101,"Noun (63), Adjective (38)"
+78,حَكِيم,Hakiym,97,"Adjective (84), Noun (13)"
+79,ذُو,*uw,93,"Noun (90), Location adverb (2), Adjective (1)"
+80,هَل,hal,93,Interogative particle
+81,دِين,diyn,92,Noun
+82,قَوْل,qawol,92,Noun
+83,غَفُور,gafuwr,91,"Noun (62), Adjective (29)"
+84,شَيْطَٰن,$ayoTa`n,88,"Proper noun (80), Noun (8)"
+85,مَثَل,maval,88,"Noun (87), Adjective (1)"
+86,مَلَك,malak,88,Noun
+87,مَال,maAl,86,Noun
+88,وَلِىّ,waliY~,86,Noun
+89,هُدًى,hudFY,85,Noun
+90,فَضْل,faDol,84,Noun
+91,لَيْل,layol,84,"Noun (82), Time adverb (2)"
+92,صَلَوٰة,Salaw`p,83,Noun
+93,كَيْف,kayof,83,"Interogative particle (80), Noun (3)"
+94,أَوَّل,>aw~al,82,"Noun (61), Adjective (19), Time adverb (2)"
+95,أَكْثَر,>akovar,80,"Noun (78), Adjective (2)"
+96,بُنَىّ,bunaY~,80,Noun
+97,أَصْحَٰب,>aSoHa`b,78,Noun
+98,جَهَنَّم,jahan~am,77,Proper noun
+99,حَيَوٰة,Hayaw`p,76,Noun
+100,ذِكْر,*ikor,76,Noun
+101,زَوْج,zawoj,76,Noun
+102,أَخ,>ax,75,Noun
+103,لَوْلَآ,lawolaA^,75,"Exhortation particle (40), Conditional particle (35)"
+104,مِثْل,mivol,75,Noun
+105,نَّبِىّ,n~abiY~,75,Noun
+106,أَحَد,>aHad,74,Noun
+107,خَٰلِد,xa`lid,74,Noun
+108,فِرْعَوْن,firoEawon,74,Proper noun
+109,عَٰلَمِين,Ea`lamiyn,73,Noun
+110,لَٰكِن,la`kin,73,"Amendment particle (65), Accusative particle (8)"
+111,أَلِيم,>aliym,72,Adjective
+112,وَجْه,wajoh,72,"Noun (71), Time adverb (1)"
+113,إِنسَٰن,<insa`n,71,Noun
+114,بَيِّنَة,bay~inap,71,"Noun (55), Adjective (16)"
+115,عَمَل,Eamal,71,Noun
+116,آخَر,A^xar,70,"Noun (44), Adjective (26)"
+117,قُرْءَان,quro'aAn,70,"Proper noun (68), Noun (2)"
+118,قَلِيل,qaliyl,70,"Noun (43), Adjective (27)"
+119,قِيَٰمَة,qiya`map,70,Noun
+120,يَوْمَئِذ,yawoma}i*,70,Time adverb
+121,إِبْرَاهِيم,<iboraAhiym,69,Proper noun
+122,بَيْت,bayot,65,Noun
+123,صَٰلِح,Sa`liH,65,"Noun (60), Adjective (5)"
+124,يَمِين,yamiyn,65,Noun
+125,آبَاء,A^baA',64,Noun
+126,أُمَّة,>um~ap,64,Noun
+127,ٱبْن,{bon,63,Noun
+128,كَثِير,kaviyr,63,"Noun (42), Adjective (21)"
+129,مَآء,maA^',63,Noun
+130,صَّٰلِحَٰت,S~a`liHa`t,62,Noun
+131,أَىّ,>aY~,60,"Interogative particle (35), Noun (24), Conditional particle (1)"
+132,صَادِق,SaAdiq,59,Noun
+133,نِسَآء,nisaA^',59,Noun
+134,نَذِير,na*iyr,58,Noun
+135,رَّحْمَٰن,r~aHoma`n,57,"Noun (45), Adjective (12)"
+136,عَيْن,Eayon,57,Noun
+137,قَرْيَة,qaroyap,57,Noun
+138,لَٰكِنّ,la`kin~,57,Accusative particle
+139,نَهَار,nahaAr,57,"Noun (56), Time adverb (1)"
+140,شَدِيد,$adiyd,56,"Adjective (36), Noun (20)"
+141,شَهِيد,$ahiyd,56,"Noun (40), Adjective (16)"
+142,وَلَد,walad,56,Noun
+143,أَمَّا,>am~aA,55,"Explanation particle (44), Conditional particle (11)"
+144,رِزْق,rizoq,55,Noun
+145,نَهَر,nahar,54,Noun
+146,جَمِيع,jamiyE,53,Noun
+147,أَجَل,>ajal,52,Noun
+148,خَلْق,xaloq,52,Noun
+149,مُجْرِم,mujorim,52,"Noun (44), Adjective (8)"
+150,بَصِير,baSiyr,51,"Noun (31), Adjective (20)"
+151,تَحْت,taHot,51,"Noun (48), Location adverb (3)"
+152,سُوٓء,suw^',50,Noun
+153,عَدُوّ,Eaduw~,50,"Noun (49), Adjective (1)"
+154,مَوْت,mawot,50,Noun
+155,نِعْمَة,niEomap,50,Noun
+156,أَعْلَم,>aEolam,49,"Noun (33), Adjective (16)"
+157,غَيْب,gayob,49,Noun
+158,مُتَّقِين,mut~aqiyn,49,Noun
+159,وَعْد,waEod,49,Noun
+160,بَصَر,baSar,48,Noun
+161,دَار,daAr,48,Noun
+162,سَاعَة,saAEap,48,"Noun (47), Time adverb (1)"
+163,مُلْك,mulok,48,Noun
+164,سَمِيع,samiyE,47,"Noun (39), Adjective (8)"
+165,أَبٌ,>abN,46,Noun
+166,أُولِى,>uwliY,45,Noun
+167,إِيمَٰن,<iyma`n,45,Noun
+168,خَبِير,xabiyr,45,"Adjective (23), Noun (22)"
+169,صِرَٰط,Sira`T,45,Noun
+170,قَدِير,qadiyr,45,"Noun (44), Adjective (1)"
+171,صَدْر,Sador,44,Noun
+172,مُشْرِك,mu$orik,44,Noun
+173,إِسْرَائِيل,<isoraA}iyl,43,Proper noun
+174,حَمْد,Hamod,43,Noun
+175,نُوح,nuwH,43,Proper noun
+176,نُور,nuwr,43,Noun
+177,جَزَآء,jazaA^',42,Noun
+178,سَلَٰم,sala`m,42,"Noun (41), Adjective (1)"
+179,سَوْف,sawof,42,Future particle
+180,بَحْر,baHor,41,Noun
+181,سُبْحَٰن,suboHa`n,41,Noun
+182,فَوْق,fawoq,41,"Noun (25), Location adverb (16)"
+183,شَرِيك,$ariyk,40,Noun
+184,كَبِير,kabiyr,40,"Adjective (32), Noun (8)"
+185,وَيْل,wayol,40,Noun
+186,إِذْن,<i*on,39,Noun
+187,ٱسْم,{som,39,Noun
+188,أَلَآ,>alaA^,39,Inceptive particle
+189,جَبَل,jabal,39,Noun
+190,حِسَاب,HisaAb,39,"Noun (38), Adjective (1)"
+191,مُسْلِم,musolim,39,"Noun (24), Proper noun (14), Adjective (1)"
+192,ضَلَٰل,Dala`l,38,Noun
+193,مُحْسِن,muHosin,38,Noun
+194,مَّعْرُوف,m~aEoruwf,38,"Noun (34), Adjective (4)"
+195,مَّيِّت,m~ay~it,38,"Noun (34), Adjective (4)"
+196,بَشَر,ba$ar,37,Noun
+197,ذَنب,*anb,37,Noun
+198,سُلْطَٰن,suloTa`n,37,Noun
+199,فَاسِق,faAsiq,37,"Noun (24), Adjective (13)"
+200,كُفْر,kufor,37,Noun
+201,مُّسْتَقِيم,m~usotaqiym,37,"Noun (23), Adjective (14)"
+202,أَحْسَن,>aHosan,36,"Noun (35), Adjective (1)"
+203,سَيِّـَٔات,say~i_#aAt,36,Noun
+204,إِثْم,<ivom,35,Noun
+205,حِين,Hiyn,35,"Noun (31), Time adverb (4)"
+206,مَتَٰع,mata`E,35,Noun
+207,مُّرْسَل,m~urosal,35,"Noun (34), Adjective (1)"
+208,نَصِير,naSiyr,35,"Noun (34), Adjective (1)"
+209,أُمّ,>um~,34,Noun
+210,فِتْنَة,fitonap,34,Noun
+211,مَرْيَم,maroyam,34,Proper noun
+212,ءَالَآء,'aAlaA^',34,Noun
+213,حَرَام,HaraAm,33,"Adjective (17), Noun (16)"
+214,شَمْس,$amos,33,Noun
+215,فَرِيق,fariyq,33,Noun
+216,كَذِب,ka*ib,33,Noun
+217,كَلَّا,kal~aA,33,Aversion particle
+218,نَّعَم,n~aEam,33,Noun
+219,خَٰسِرِين,xa`siriyn,32,Noun
+220,زَكَوٰة,zakaw`p,32,Noun
+221,عَٰقِبَة,Ea`qibap,32,Noun
+222,كَٰذِب,ka`*ib,32,"Noun (31), Adjective (1)"
+223,إِذًا,<i*FA,31,"Surprise particle (18), Answer particle (13)"
+224,أَشَدّ,>a$ad~,31,"Noun (28), Adjective (3)"
+225,وَٰحِدَة,wa`Hidap,31,"Noun (22), Adjective (9)"
+226,حُكْم,Hukom,30,Noun
+227,شَرّ,$ar~,30,Noun
+228,قُوَّة,quw~ap,30,Noun
+229,كَرِيم,kariym,30,"Adjective (28), Noun (2)"
+230,مَلَأ,mala>,30,Noun
+231,وَٰحِد,wa`Hid,30,"Adjective (24), Noun (6)"
+232,جُند,jund,29,Noun
+233,حَيْث,Hayov,29,"Noun (16), Location adverb (13)"
+234,رَجُل,rajul,29,Noun
+235,رِيح,riyH,29,Noun
+236,عَرْش,Earo$,29,Noun
+237,عَهْد,Eahod,29,Noun
+238,كَأَنّ,ka>an~,29,Accusative particle
+239,نَبَأ,naba>,29,Noun
+240,أَبَدًا,>abadFA,28,Time adverb
+241,أَنَّىٰ,>an~aY`,28,"Interogative particle (27), Noun (1)"
+242,حَدِيث,Hadiyv,28,Noun
+243,حَسَنَة,Hasanap,28,"Noun (25), Adjective (3)"
+244,ذُرِّيَّة,*ur~iy~ap,28,Noun
+245,رِجَال,rijaAl,28,Noun
+246,سِحْر,siHor,28,Noun
+247,كَلِمَة,kalimap,28,Noun
+248,مَسْجِد,masojid,28,Noun
+249,مَصِير,maSiyr,28,Noun
+250,مَّغْفِرَة,m~agofirap,28,Noun
+251,بَاب,baAb,27,Noun
+252,سَوَآء,sawaA^',27,"Noun (26), Adjective (1)"
+253,غَٰفِل,ga`fil,27,Noun
+254,قَمَر,qamar,27,Noun
+255,كَافِر,kaAfir,27,Noun
+256,لُوط,luwT,27,Proper noun
+257,مَّكَان,m~akaAn,27,"Noun (25), Location adverb (2)"
+258,مُنَٰفِقُون,muna`fiquwn,27,Noun
+259,يُوسُف,yuwsuf,27,Proper noun
+260,أَجْمَعِين,>ajomaEiyn,26,Noun
+261,ٱمْرَأَت,{mora>at,26,Noun
+262,بَٰطِل,ba`Til,26,Noun
+263,ثَمُود,vamuwd,26,Proper noun
+264,جَحِيم,jaHiym,26,Noun
+265,خَوْف,xawof,26,Noun
+266,قَرِيب,qariyb,26,"Adjective (15), Noun (11)"
+267,كَيْد,kayod,26,Noun
+268,مَاذَا,maA*aA,26,Interogative particle
+269,ءَال,'aAl,26,Noun
+270,آدَم,A^dam,25,Proper noun
+271,بَأْس,ba>os,25,Noun
+272,بَعِيد,baEiyd,25,"Adjective (20), Noun (5)"
+273,جُنَاح,junaAH,25,Noun
+274,عِيسَى,EiysaY,25,Proper noun
+275,لِسَان,lisaAn,25,Noun
+276,مِّيثَٰق,m~iyva`q,25,Noun
+277,أَكْبَر,>akobar,24,"Noun (13), Adjective (11)"
+278,أُنثَىٰ,>unvaY`,24,Noun
+279,إِيَّا,<iy~aA,24,Personal pronoun
+280,حَيّ,Hay~,24,"Noun (23), Adjective (1)"
+281,طَآئِفَة,TaA^}ifap,24,"Noun (23), Adjective (1)"
+282,طَعَام,TaEaAm,24,Noun
+283,عَاد,EaAd2,24,Proper noun
+284,غَنِىّ,ganiY~,24,"Noun (20), Adjective (4)"
+285,لِقَآء,liqaA^',24,Noun
+286,وَرَآء,waraA^',24,"Location adverb (12), Noun (12)"
+287,وَكِيل,wakiyl,24,Noun
+288,إِمَّا,<im~aA,23,"Explanation particle (22), Conditional particle (1)"
+289,ذَا,*aA,23,"Noun (18), Demonstrative pronoun (5)"
+290,ذِكْرَىٰ,*ikoraY`,23,Noun
+291,سَاجِد,saAjid,23,"Noun (18), Adjective (5)"
+292,سَبْع,saboE,23,"Noun (22), Time adverb (1)"
+293,شَهَٰدَة,$aha`dap,23,Noun
+294,ظُلُمَٰت,Zuluma`t,23,"Noun (22), Adjective (1)"
+295,فُلْك,fulok,23,Noun
+296,قَرْن,qaron,23,Noun
+297,مِسْكِين,misokiyn,23,"Noun (22), Adjective (1)"
+298,يَتِيم,yatiym,23,"Noun (21), Adjective (2)"
+299,بَرّ,bar~,22,"Noun (21), Adjective (1)"
+300,بَلَىٰ,balaY`,22,Answer particle
+301,جِنّ,jin~,22,Noun
+302,خَلْف,xalof,22,"Noun (17), Location adverb (5)"
+303,دُعَآء,duEaA^',22,Noun
+304,سَٰحِر,sa`Hir,22,Noun
+305,سَمْع,samoE,22,Noun
+306,سَيِّئَة,say~i}ap,22,"Noun (21), Adjective (1)"
+307,مَأْوَىٰ,ma>owaY`,22,Noun
+308,مُّؤْمِنَٰت,m~u&omina`t,22,"Noun (18), Adjective (4)"
+309,نَصْر,naSor,22,Noun
+310,أَعْمَىٰ,>aEomaY`,21,"Noun (18), Adjective (3)"
+311,حَسَن,Hasan,21,"Adjective (20), Noun (1)"
+312,رُوح,ruwH,21,Noun
+313,شَاهِد,$aAhid,21,"Noun (19), Adjective (2)"
+314,شَهْر,$ahor,21,Noun
+315,طَيِّبَٰت,Tay~iba`t,21,Noun
+316,ظَنّ,Zan~,21,Noun
+317,كَم,kam,21,"Interogative particle (20), Noun (1)"
+318,مُّسَمًّى,m~usam~FY,21,"Noun (16), Adjective (5)"
+319,مُفْسِد,mufosid,21,Noun
+320,مُّكَذِّبِين,m~uka*~ibiyn,21,Noun
+321,نَصِيب,naSiyb,21,Noun
+322,حِزْب,Hizob,20,Noun
+323,حِكْمَة,Hikomap,20,Noun
+324,حَمِيم,Hamiym,20,"Noun (14), Adjective (6)"
+325,صَابِر,SaAbir,20,"Noun (19), Adjective (1)"
+326,ظُلْم,Zulom,20,Noun
+327,عِقَاب,EiqaAb,20,Noun
+328,لَدَي,laday,20,Location adverb
+329,هَٰرُون,ha`ruwn,20,Proper noun
+330,أَقْرَب,>aqorab,19,"Noun (17), Adjective (2)"
+331,أَيْن,>ayon,19,"Interogative particle (12), Location adverb (4), Conditional particle (3)"
+332,زِينَة,ziynap,19,Noun
+333,شَجَرَة,$ajarap,19,Noun
+334,ضُرّ,Dur~,19,Noun
+335,طَيْر,Tayor,19,Noun
+336,فَوْز,fawoz,19,Noun
+337,مَرَّة,mar~ap,19,Noun
+338,مُصَدِّق,muSad~iq,19,"Noun (15), Adjective (4)"
+339,مُّعْرِضُون,m~uEoriDuwn,19,Noun
+340,مَكْر,makor,19,Noun
+341,أُذُنٌ,>u*unN,18,Noun
+342,إِنس,<ins,18,Noun
+343,تَّوْرَىٰة,t~aworaY`p,18,Proper noun
+344,دَآبَّة,daA^b~ap,18,Noun
+345,دُبُر,dubur,18,Noun
+346,دَرَجَة,darajap,18,Noun
+347,ذَكَر,*akar,18,Noun
+348,رَأْس,ra>os,18,Noun
+349,رَيْب,rayob,18,Noun
+350,عَٰلِم,Ea`lim,18,Noun
+351,لَّدُن,l~adun,18,"Noun (17), Time adverb (1)"
+352,مُنكَر,munkar,18,Noun
+353,مَوْلَىٰ,mawolaY`,18,Noun
+354,إِسْحَاق,<isoHaAq,17,Proper noun
+355,أَهْوَآء,>ahowaA^',17,Noun
+356,بَطْن,baTon,17,Noun
+357,بَنَات,banaAt,17,Noun
+358,تَأْوِيل,ta>owiyl,17,Noun
+359,تُرَاب,turaAb,17,Noun
+360,تَقْوَى,taqowaY,17,Noun
+361,حُسْنَىٰ,HusonaY`,17,"Noun (10), Adjective (7)"
+362,حَمِيد,Hamiyd,17,"Adjective (16), Noun (1)"
+363,حَوْل,Hawol,17,"Noun (13), Location adverb (3), Time adverb (1)"
+364,سُلَيْمَٰن,sulayoma`n,17,Proper noun
+365,فَٰحِشَة,fa`Hi$ap,17,Noun
+366,قَآئِم,qaA^}im,17,Noun
+367,مُّهْتَدُون,m~uhotaduwn,17,Noun
+368,نَعِيم,naEiym,17,Noun
+369,أَظْلَم,>aZolam,16,Noun
+370,أَلْبَٰب,>aloba`b,16,Noun
+371,ثَمَرَٰت,vamara`t,16,Noun
+372,دَاوُد,daAwud,16,Proper noun
+373,سَعِير,saEiyr,16,Noun
+374,سُنَّة,sun~ap,16,Noun
+375,طَيِّب,Tay~ib,16,"Adjective (8), Noun (8)"
+376,فُؤَاد,fu&aAd,16,Noun
+377,قُرْبَىٰ,qurobaY`,16,Noun
+378,مَرْجِع,marojiE,16,Noun
+379,مِيزَان,miyzaAn,16,Noun
+380,يَعْقُوب,yaEoquwb,16,Proper noun
+381,بُشْرَىٰ,bu$oraY`,15,Noun
+382,بَلَٰغ,bala`g,15,Noun
+383,تَنزِيل,tanziyl,15,Noun
+384,حَرَج,Haraj,15,"Noun (14), Adjective (1)"
+385,حَلِيم,Haliym,15,"Adjective (11), Noun (4)"
+386,رِجْل,rijol,15,Noun
+387,شَكّ,$ak~,15,Noun
+388,صَبْر,Sabor,15,Noun
+389,ظَهْر,Zahor,15,Noun
+390,قِسْط,qisoT,15,Noun
+391,كُلَّمَا,kul~amaA,15,Time adverb
+392,مُسْرِف,musorif,15,"Noun (12), Adjective (3)"
+393,مَلِك,malik,15,"Noun (13), Adjective (2)"
+394,مِلَّة,mil~ap,15,Noun
+395,مُنذِر,mun*ir,15,Noun
+396,نَصْرَانِيّ,naSoraAniy~,15,Proper noun
+397,يَسِير,yasiyr,15,"Adjective (10), Noun (5)"
+398,ٱبْتِغَآء,{botigaA^',14,Noun
+399,أَثَر,>avar,14,Noun
+400,أُخْت,>uxot,14,Noun
+401,إِذَا,<i*aA2,14,Surprise particle
+402,أَلْف,>alof,14,Noun
+403,أَمِين,>amiyn,14,Adjective
+404,بَلَد,balad,14,Noun
+405,حُدُود,Huduwd,14,Noun
+406,خَاشِع,xaA$iE,14,Noun
+407,شَاكِر,$aAkir,14,Noun
+408,صِدْق,Sidoq,14,Noun
+409,ضَآلّ,DaA^l~,14,"Noun (11), Adjective (3)"
+410,ظِلّ,Zil~,14,Noun
+411,عَدْل,Eadol,14,Noun
+412,غَضَب,gaDab,14,Noun
+413,قَادِر,qaAdir,14,Noun
+414,كَلِمَٰت,kalima`t,14,Noun
+415,لَعْنَة,laEonap,14,Noun
+416,لَيْت,layot,14,Accusative particle
+417,مَدِينَة,madiynap,14,"Noun (10), Proper noun (4)"
+418,مَقَام,maqaAm,14,Noun
+419,مُّهِين,m~uhiyn,14,"Adjective (7), Noun (7)"
+420,وَالِد,waAlid,14,Noun
+421,ٱثْنَيْن,{vonayon,13,Noun
+422,بَغْتَة,bagotap,13,Noun
+423,ثَلَٰثَة,vala`vap,13,"Noun (12), Time adverb (1)"
+424,ثَوَاب,vawaAb,13,Noun
+425,جَمْع,jamoE,13,Noun
+426,حَٰفِظ,Ha`fiZ,13,Noun
+427,حَرْث,Harov,13,Noun
+428,حُسْن,Huson,13,Noun
+429,رِضْوَٰن,riDowa`n,13,Noun
+430,شَفَٰعَة,$afa`Eap,13,Noun
+431,صَيْحَة,SayoHap,13,Noun
+432,غَالِب,gaAlib,13,Noun
+433,غُلَٰم,gula`m,13,Noun
+434,قِتَال,qitaAl,13,Noun
+435,مَثْوًى,mavowFY,13,Noun
+436,مَّرَض,m~araD,13,Noun
+437,مُفْلِحُون,mufoliHuwn,13,Noun
+438,نَّجْم,n~ajom,13,Noun
+439,إِحْسَٰن,<iHosa`n,12,Noun
+440,أَدْنَىٰ,>adonaY`,12,"Noun (10), Adjective (1), Time adverb (1)"
+441,أَرْحَام,>aroHaAm,12,Noun
+442,إِسْمَاعِيل,<isomaAEiyl,12,Proper noun
+443,أَصَمّ,>aSam~,12,Noun
+444,أَفْوَٰه,>afowa`h,12,Noun
+445,إِمَام,<imaAm,12,Noun
+446,إِنجِيل,<injiyl,12,Proper noun
+447,بَرِىٓء,bariY^',12,"Noun (11), Adjective (1)"
+448,تَوَّاب,taw~aAb,12,"Noun (11), Adjective (1)"
+449,حَفِيظ,HafiyZ,12,"Noun (7), Adjective (5)"
+450,حَنِيف,Haniyf,12,Noun
+451,خَٰلِق,xa`liq,12,"Noun (11), Adjective (1)"
+452,سِنِين,siniyn,12,"Noun (11), Time adverb (1)"
+453,طِين,Tiyn,12,Noun
+454,عَٰمِل,Ea`mil,12,Noun
+455,فَتْح,fatoH,12,Noun
+456,فَقِير,faqiyr,12,"Noun (10), Adjective (2)"
+457,كَفُور,kafuwr,12,"Adjective (6), Noun (6)"
+458,لَحْم,laHom,12,Noun
+459,مَسْكَن,masokan,12,Noun
+460,مُعْجِز,muEojiz,12,Noun
+461,مَّوْعِد,m~awoEid,12,Noun
+462,نُّطْفَة,n~uTofap,12,Noun
+463,وِزْر,wizor,12,Noun
+464,إِبْلِيس,<iboliys,11,Proper noun
+465,إِحْدَى,<iHodaY,11,Noun
+466,أَوْلَىٰ,>awolaY`,11,"Noun (9), Adjective (2)"
+467,بَغْي,bagoy,11,Noun
+468,ثَمَن,vaman,11,Noun
+469,حَسْب,Hasob,11,Noun
+470,خِزْى,xizoY,11,Noun
+471,رَءُوف,ra'uwf,11,"Noun (10), Adjective (1)"
+472,سِرّ,sir~,11,Noun
+473,شَرَاب,$araAb,11,Noun
+474,شُعَيْب,$uEayob,11,Proper noun
+475,شِيعَة,$iyEap,11,Noun
+476,ضِعْف,DiEof,11,"Noun (7), Adjective (4)"
+477,عَابِد,EaAbid,11,"Noun (10), Adjective (1)"
+478,عَدْن,Eadon,11,Proper noun
+479,عِدَّة,Eid~ap,11,Noun
+480,عَرَبِيّ,Earabiy~,11,"Adjective (10), Noun (1)"
+481,عِزَّة,Eiz~ap,11,Noun
+482,عَلِيّ,Ealiy~,11,"Noun (8), Adjective (3)"
+483,عِنَب,Einab,11,Noun
+484,فَٰكِهَة,fa`kihap,11,Noun
+485,فَسَاد,fasaAd,11,Noun
+486,قَدَر,qadar,11,Noun
+487,قَوِىّ,qawiY~,11,"Noun (9), Adjective (2)"
+488,كَثِيرَة,kaviyrap,11,Adjective
+489,مَجْنُون,majonuwn,11,Noun
+490,مُخْلِص,muxoliS,11,Noun
+491,مَسِيح,masiyH,11,Proper noun
+492,مَشْرِق,ma$oriq,11,Noun
+493,مَّعْلُوم,m~aEoluwm,11,"Noun (9), Adjective (2)"
+494,نَاصِر,naASir,11,Noun
+495,نَجْوَىٰٓ,najowaY`^,11,Noun
+496,نَخْل,naxol,11,Noun
+497,نَفْع,nafoE,11,Noun
+498,هُزُو,huzuw,11,Noun
+499,هَوَآء,hawaA^',11,Noun
+500,أَحَقّ,>aHaq~,10,"Noun (5), Adjective (5)"
+501,أَعْرَاب,>aEoraAb,10,Noun
+502,جَاهِل,jaAhil,10,Noun
+503,جَبَّار,jab~aAr,10,"Adjective (5), Noun (5)"
+504,جِنَّة,jin~ap,10,Noun
+505,حِجَارَة,HijaArap,10,Noun
+506,خَيْرَٰت,xayora`t,10,Noun
+507,دَم,dam,10,Noun
+508,رِجْس,rijos,10,Noun
+509,رَوَٰسِى,rawa`siY,10,Noun
+510,زَرْع,zaroE,10,Noun
+511,سَرِيع,sariyE,10,"Noun (8), Adjective (2)"
+512,سَعْي,saEoy,10,Noun
+513,سُورَة,suwrap,10,Noun
+514,شَفِيع,$afiyE,10,"Noun (9), Adjective (1)"
+515,شَكُور,$akuwr,10,"Adjective (9), Noun (1)"
+516,صَاحِب,SaAHib,10,Noun
+517,صُّور,S~uwr,10,Noun
+518,ضَرّ,Dar~,10,Noun
+519,طُور,Tuwr,10,Noun
+520,عِجْل,Eijol,10,Noun
+521,عَشِىّ,Ea$iY~,10,"Noun (8), Time adverb (2)"
+522,عَصَا,EaSaA2,10,Noun
+523,فِئَة,fi}ap,10,Noun
+524,قَتْل,qatol,10,Noun
+525,كَى,kaY,10,"Subordinating conjunction (7), Negative particle (3)"
+526,كَيْل,kayol,10,Noun
+527,لِبَاس,libaAs,10,Noun
+528,لَهْو,lahow,10,Noun
+529,مِائَة,miA}ap,10,Noun
+530,مُّحْضَر,m~uHoDar,10,Noun
+531,مُّخْتَلِف,m~uxotalif,10,Noun
+532,مَدْيَن,madoyan,10,Proper noun
+533,مَّرِيض,m~ariyD,10,Noun
+534,مُسْتَقَرّ,musotaqar~,10,Noun
+535,مُّصِيبَة,m~uSiybap,10,Noun
+536,مَغْرِب,magorib,10,Noun
+537,مُّقِيم,m~uqiym,10,"Noun (8), Adjective (2)"
+538,وَٰلِدَي,wa`liday,10,Noun
+539,ءَامِنِين,'aAminiyn,10,Noun
+540,آتِي,A^tiy,9,Noun
+541,أَذًى,>a*FY,9,Noun
+542,أَرْبَعَة,>arobaEap,9,Noun
+543,أَسَٰطِير,>asa`Tiyr,9,Noun
+544,أَضَلّ,>aDal~,9,Noun
+545,أَعْلَىٰ,>aEolaY`,9,"Noun (6), Adjective (3)"
+546,إِفْك,<ifok,9,Noun
+547,بَشِير,ba$iyr,9,"Noun (7), Adjective (2)"
+548,تِجَٰرَة,tija`rap,9,Noun
+549,تَذْكِرَة,ta*okirap,9,Noun
+550,جَانِب,jaAnib,9,"Noun (8), Location adverb (1)"
+551,جُلُود,juluwd,9,Noun
+552,حُبّ,Hub~,9,Noun
+553,حَجّ,Haj~,9,Noun
+554,خَبِيث,xabiyv,9,Noun
+555,خَلِيفَة,xaliyfap,9,Noun
+556,رِجْز,rijoz,9,Noun
+557,رَقَبَة,raqabap,9,Noun
+558,سَبَب,sabab,9,Noun
+559,سَحَاب,saHaAb,9,Noun
+560,سَوْء,sawo',9,Noun
+561,صَٰلِح,Sa`liH2,9,Proper noun
+562,صِيَام,SiyaAm,9,Noun
+563,ضَرَّآء,Dar~aA^',9,Noun
+564,ضَلَٰلَة,Dala`lap,9,Noun
+565,طُغْيَٰن,Tugoya`n,9,Noun
+566,طَيِّبَة,Tay~ibap,9,Adjective
+567,عَام,EaAm,9,Noun
+568,عِبَادَت,EibaAdat,9,Noun
+569,عُنُق,Eunuq,9,Noun
+570,عِوَج,Eiwaj,9,Noun
+571,غُرُور,guruwr,9,Noun
+572,غِلّ,gil~,9,Noun
+573,غَلِيظ,galiyZ,9,"Adjective (8), Noun (1)"
+574,فَاعِل,faAEil,9,Noun
+575,فَصْل,faSol,9,"Noun (8), Adjective (1)"
+576,قَرَار,qaraAr,9,Noun
+577,لَغْو,lagow,9,Noun
+578,لَوْن,lawon,9,Noun
+579,مُبَشِّر,muba$~ir,9,Noun
+580,مَّبْعُوثُون,m~aboEuwvuwn,9,Noun
+581,مَتَىٰ,mataY`,9,Interogative particle
+582,مُحِيط,muHiyT,9,Noun
+583,مُخْلَص,muxolaS,9,"Adjective (8), Noun (1)"
+584,مَّوْعِظَة,m~awoEiZap,9,Noun
+585,مَـَٔاب,ma_#aAb,9,Noun
+586,نَبَات,nabaAt,9,Noun
+587,هُنَالِك,hunaAlik,9,"Time adverb (8), Location adverb (1)"
+588,وَٰسِع,wa`siE,9,Noun
+589,يَهُودِيّ,yahuwdiy~,9,Proper noun
+590,أَبْيَض,>aboyaD,8,"Noun (5), Adjective (3)"
+591,إِسْلَٰم,<isola`m,8,"Proper noun (6), Noun (2)"
+592,أَشُدّ,>a$ud~,8,Noun
+593,بِرّ,bir~,8,Noun
+594,بُرْهَٰن,buroha`n,8,Noun
+595,ثَلَٰث,vala`v,8,"Noun (7), Time adverb (1)"
+596,ثِيَاب,viyaAb,8,Noun
+597,جَدِيد,jadiyd,8,Adjective
+598,جَنب,janb,8,Noun
+599,خَزَآئِن,xazaA^}in,8,Noun
+600,خَشْيَة,xa$oyap,8,Noun
+601,خَطِيٓـَٔة,xaTiy^_#ap,8,Noun
+602,خِلَٰل,xila`l,8,Noun
+603,ذَهَب,*ahab,8,Noun
+604,رَاكِع,raAkiE,8,Noun
+605,شِّمَال,$~imaAl,8,Noun
+606,صَاعِقَة,SaAEiqap,8,Noun
+607,صُحُف,SuHuf,8,Noun
+608,صَدَقَٰت,Sadaqa`t,8,Noun
+609,صَوْت,Sawot,8,Noun
+610,ضَعِيف,DaEiyf,8,"Noun (7), Adjective (1)"
+611,طَّٰغُوت,T~a`guwt,8,Noun
+612,ظَٰهِر,Za`hir,8,Noun
+613,عُدْوَٰن,Eudowa`n,8,Noun
+614,عَقِب,Eaqib,8,Noun
+615,فَرْج,faroj,8,Noun
+616,قَانِت,qaAnit,8,Noun
+617,قَدَم,qadam,8,Noun
+618,قَرِين,qariyn,8,Noun
+619,لَعِب,laEib,8,Noun
+620,لَيْلَة,layolap,8,"Noun (7), Time adverb (1)"
+621,مُبَارَك,mubaArak,8,"Noun (6), Adjective (2)"
+622,مُتَّكِـِٔين,mut~aki_#iyn,8,Noun
+623,مِثْقَال,mivoqaAl,8,Noun
+624,مُحْصَنَٰت,muHoSana`t,8,Noun
+625,مُدْبِر,mudobir,8,Noun
+626,مُشْفِقُون,mu$ofiquwn,8,Noun
+627,مُقَرَّبُون,muqar~abuwn,8,"Noun (7), Adjective (1)"
+628,مَنَٰفِع,mana`fiE,8,Noun
+629,مَّوَدَّة,m~awad~ap,8,Noun
+630,مِيقَٰت,miyqa`t,8,Noun
+631,نُزُل,nuzul,8,Noun
+632,وَصِيَّة,waSiy~ap,8,Noun
+633,يَقِين,yaqiyn,8,"Noun (6), Adjective (2)"
+634,يَمّ,yam~,8,Noun
+635,ـَٰٔن,_#a`n,8,Time adverb
+636,أَبْقَىٰٓ,>aboqaY`^,7,Noun
+637,أَبَوَان,>abawaAn,7,Noun
+638,ٱثْنَتَيْن,{vonatayon,7,Noun
+639,أَثِيم,>aviym,7,Adjective
+640,ٱخْتِلَٰف,{xotila`f,7,Noun
+641,إِخْوَةٌ,<ixowapN,7,Noun
+642,أَرْبَع,>arobaE,7,"Noun (6), Time adverb (1)"
+643,إِصْلَٰح,<iSola`H,7,Noun
+644,أَصِيل,>aSiyl,7,"Time adverb (4), Noun (3)"
+645,أُكُل,>ukul,7,Noun
+646,أَهْدَىٰ,>ahodaY`,7,Noun
+647,بَصِيرَة,baSiyrap,7,Noun
+648,بُعْد,buEod,7,Noun
+649,بُكْرَة,bukorap,7,"Time adverb (6), Noun (1)"
+650,بُنْيَٰن,bunoya`n,7,Noun
+651,بَيْع,bayoE,7,Noun
+652,تَبْدِيل,tabodiyl,7,Noun
+653,تَوْبَة,tawobap,7,Noun
+654,جَآنّ,jaA^n~,7,Noun
+655,جَمِيل,jamiyl,7,Adjective
+656,جَنَاح,janaAH,7,Noun
+657,جَهْر,jahor,7,Noun
+658,حَبّ,Hab~,7,Noun
+659,حَبْل,Habol,7,Noun
+660,حِجَاب,HijaAb,7,Noun
+661,حُجَّة,Huj~ap,7,Noun
+662,حَسْرَة,Hasorap,7,Noun
+663,حَظّ,HaZ~,7,Noun
+664,حَمْل,Hamol,7,Noun
+665,ذِلَّة,*il~ap,7,Noun
+666,رِّبَوٰا,r~ibaw`A,7,Noun
+667,رُّءْيَا,r~u'oyaA,7,Noun
+668,زُبُر,zubur,7,Noun
+669,زَكَرِيَّا,zakariy~aA,7,Proper noun
+670,سَآئِل,saA^}il,7,Noun
+671,سَابِق,saAbiq,7,Noun
+672,سِتَّة,sit~ap,7,Noun
+673,سَفَر,safar,7,Noun
+674,سَفِيه,safiyh,7,Noun
+675,سَنَة,sanap,7,Noun
+676,شَجَر,$ajar,7,Noun
+677,شِقَاق,$iqaAq,7,Noun
+678,صَفّ,Saf~,7,Noun
+679,عَاكِف,EaAkif,7,Noun
+680,عَشْر,Ea$or,7,"Noun (5), Time adverb (1), Adjective (1)"
+681,عُمُر,Eumur,7,Noun
+682,غَٰبِرِين,ga`biriyn,7,Noun
+683,فَحْشَآء,faHo$aA^',7,Noun
+684,فُرْقَان,furoqaAn,7,Noun
+685,قَاعِد,qaAEid,7,Noun
+686,قِبْلَة,qibolap,7,Noun
+687,قَدْر,qador,7,Noun
+688,كَٰرِهُون,ka`rihuwn,7,Noun
+689,كَأَيِّن,ka>ay~in,7,Noun
+690,كُبْرَىٰ,kuboraY`,7,"Adjective (6), Noun (1)"
+691,كَبِيرَة,kabiyrap,7,Noun
+692,لَطِيف,laTiyf,7,"Adjective (4), Noun (3)"
+693,مُتَكَبِّر,mutakab~ir,7,"Noun (6), Adjective (1)"
+694,مُرِيب,muriyb,7,Noun
+695,مَّطَر,m~aTar,7,Noun
+696,مَفْعُول,mafoEuwl,7,Noun
+697,مُّنِيب,m~uniyb,7,"Noun (6), Adjective (1)"
+698,مُهَاجِر,muhaAjir,7,"Noun (6), Adjective (1)"
+699,مِهَٰد,miha`d,7,Noun
+700,نَاقَة,naAqap,7,Noun
+701,نَّخِيل,n~axiyl,7,Noun
+702,نِصْف,niSof,7,"Noun (6), Time adverb (1)"
+703,هَاد,haAd,7,Noun
+704,هَدْي,hadoy,7,Noun
+705,هُود,huwd,7,Proper noun
+706,وَاد,waAd,7,Noun
+707,وَارِث,waAriv,7,Noun
+708,وَلِيد,waliyd,7,Noun
+709,يُسْر,yusor,7,Noun
+710,أَبْكَم,>abokam,6,Noun
+711,أَخْذ,>axo*,6,Noun
+712,إِخْرَاج,<ixoraAj,6,Noun
+713,أَسْفَل,>asofal,6,"Noun (3), Location adverb (2), Adjective (1)"
+714,أُمْنِيَّت,>umoniy~at,6,Noun
+715,أُمِّىّ,>um~iY~,6,"Noun (4), Adjective (2)"
+716,أُنثَيَيْن,>unvayayon,6,Noun
+717,أَندَاد,>andaAd,6,Noun
+718,أَوَّاب,>aw~aAb,6,"Noun (5), Adjective (1)"
+719,أَيَّان,>ay~aAn,6,"Interogative particle (5), Time adverb (1)"
+720,بَٰلِغ,ba`lig,6,Noun
+721,بَعْل,baEol,6,Noun
+722,بَلَآء,balaA^',6,Noun
+723,بُهْتَٰن,buhota`n,6,Noun
+724,تَحِيَّة,taHiy~ap,6,Noun
+725,ثَّقَلَان,v~aqalaAn,6,Noun
+726,ثُّلُث,v~uluv,6,"Noun (5), Time adverb (1)"
+727,جَاعِل,jaAEil,6,Noun
+728,حَدِيد,Hadiyd,6,Noun
+729,حَلَٰل,Hala`l,6,Noun
+730,حُلُم,Hulum,6,Noun
+731,خِلَٰف,xila`f,6,Noun
+732,خَلَٰق,xala`q,6,Noun
+733,خُلْد,xulod,6,Noun
+734,خَمْر,xamor,6,Noun
+735,خِيفَة,xiyfap,6,Noun
+736,دَعْوَة,daEowap,6,Noun
+737,ذَرَّة,*ar~ap,6,Noun
+738,رَّٰحِمِين,r~a`Himiyn,6,Noun
+739,رَّٰزِقِين,r~a`ziqiyn,6,Noun
+740,رَجِيم,rajiym,6,"Adjective (4), Noun (2)"
+741,رِسَٰلَٰت,risa`la`t,6,Noun
+742,رُشْد,ru$od,6,Noun
+743,سَّبْت,s~abot,6,Noun
+744,سِّجْن,s~ijon,6,Noun
+745,سُّجُود,s~ujuwd,6,"Noun (4), Adjective (2)"
+746,سُرُر,surur,6,Noun
+747,سَعَة,saEap,6,Noun
+748,سَكِينَة,sakiynap,6,Noun
+749,سِيمَٰ,siyma`,6,Noun
+750,ضُحًى,DuHFY,6,"Noun (4), Time adverb (2)"
+751,طَٰغِين,Ta`giyn,6,"Noun (4), Adjective (2)"
+752,طَرْف,Tarof,6,Noun
+753,ظُلَّة,Zul~ap,6,Noun
+754,ظَهِير,Zahiyr,6,"Noun (4), Adjective (2)"
+755,عَاد,EaAd,6,Noun
+756,عِبْرَة,Eiborap,6,Noun
+757,عَدَٰوَة,Eada`wap,6,Noun
+758,عَدَد,Eadad,6,"Noun (5), Adjective (1)"
+759,عَرَض,EaraD,6,Noun
+760,عُقْبَى,EuqobaY,6,Noun
+761,غَٰوِين,ga`wiyn,6,Noun
+762,غَمّ,gam~,6,Noun
+763,غَيْظ,gayoZ,6,Noun
+764,فَاطِر,faATir,6,Noun
+765,فَجْر,fajor,6,Noun
+766,فَرِح,fariH,6,Noun
+767,فَرِيضَة,fariyDap,6,Noun
+768,فِضَّة,fiD~ap,6,Noun
+769,قَبْر,qabor,6,Noun
+770,قَرْض,qaroD,6,Noun
+771,قَصَص,qaSaS,6,Noun
+772,قَمِيص,qamiyS,6,Noun
+773,قَهَّار,qah~aAr,6,Adjective
+774,كَاتِب,kaAtib,6,"Noun (5), Adjective (1)"
+775,كَأْس,ka>os,6,Noun
+776,كِبَر,kibar,6,Noun
+777,كَرَّة,kar~ap,6,Noun
+778,كَنز,kanz,6,Noun
+779,كَهْف,kahof,6,Noun
+780,لَّعَلّ,l~aEal~,6,Accusative particle
+781,لُؤْلُؤ,lu&olu&,6,Noun
+782,مُتَشَٰبِه,muta$a`bih,6,"Noun (5), Adjective (1)"
+783,مُّدَّكِر,m~ud~akir,6,Noun
+784,مَرَدّ,marad~,6,Noun
+785,مُسْتَكْبِر,musotakobir,6,Noun
+786,مُعْتَدِين,muEotadiyn,6,Noun
+787,مَّعْدُودَة,m~aEoduwdap,6,"Adjective (5), Noun (1)"
+788,مَقْت,maqot,6,Noun
+789,مَنّ,man~,6,Noun
+790,مُنتَظِرُون,muntaZiruwn,6,Noun
+791,مُنظَرُون,munZaruwn,6,Noun
+792,مُّنِير,m~uniyr,6,"Noun (5), Adjective (1)"
+793,مَوْج,mawoj,6,Noun
+794,مُّؤْمِنَة,m~u&ominap,6,"Adjective (4), Noun (2)"
+795,مَيْتَة,mayotap,6,"Noun (5), Adjective (1)"
+796,مِّيعَاد,m~iyEaAd,6,Noun
+797,نَاصِح,naASiH,6,Noun
+798,هَٰمَٰن,ha`ma`n,6,Proper noun
+799,وَاقِع,waAqiE,6,"Noun (5), Adjective (1)"
+800,وَحْد,waHod,6,Noun
+801,وَحْى,waHoY,6,Noun
+802,وَعِيد,waEiyd,6,Noun
+803,وَقْر,waqor,6,Noun
+804,ءَامِن,'aAmin,6,"Noun (4), Adjective (2)"
+805,أَرَآئِك,>araA^}ik,5,Noun
+806,أَسَاوِر,>asaAwir,5,Noun
+807,أَسْبَاط,>asobaAT,5,Noun
+808,أَصْنَام,>aSonaAm,5,Noun
+809,ٱللَّهُمَّ,{ll~ahum~a,5,Proper noun
+810,ٱمْرِئ,{mori},5,Noun
+811,أَمْن,>amon,5,Noun
+812,بَرْق,baroq,5,Noun
+813,بِضَٰعَة,biDa`Eap,5,Noun
+814,بَغْضَآء,bagoDaA^',5,Noun
+815,بَلْدَة,balodap,5,Noun
+816,تَحْرِير,taHoriyr,5,Noun
+817,تِسْع,tisoE,5,Noun
+818,تَفْصِيل,tafoSiyl,5,Noun
+819,تَقْدِير,taqodiyr,5,Noun
+820,تَقَلُّب,taqal~ub,5,Noun
+821,ثَقِيل,vaqiyl,5,"Adjective (4), Noun (1)"
+822,ثَمَر,vamar,5,Noun
+823,جَٰثِمِين,ja`vimiyn,5,Noun
+824,جَرَم,jaram,5,Noun
+825,جَهْد,jahod,5,Noun
+826,حَٰكِمِين,Ha`kimiyn,5,Noun
+827,حَبَّة,Hab~ap,5,Noun
+828,حِجْر,Hijor,5,"Noun (4), Adjective (1)"
+829,حَرِيق,Hariyq,5,Noun
+830,حِلّ,Hil~,5,Noun
+831,حِمَار,HimaAr,5,Noun
+832,حَوَارِيُّون,HawaAriy~uwn,5,Noun
+833,حُوت,Huwt,5,Noun
+834,خَٰطِـِٔين,xa`Ti_#iyn,5,Noun
+835,خَالِصَة,xaAliSap,5,Noun
+836,خَاوِيَة,xaAwiyap,5,"Noun (4), Adjective (1)"
+837,خُرُوج,xuruwj,5,Noun
+838,خَصِيم,xaSiym,5,Noun
+839,خُضْر,xuDor,5,"Noun (4), Adjective (1)"
+840,خَطْب,xaTob,5,Noun
+841,خُطُوَٰت,xuTuwa`t,5,Noun
+842,خِنزِير,xinziyr,5,Noun
+843,خَيْل,xayol,5,Noun
+844,دَيْن,dayon,5,Noun
+845,رَشَد,ra$ad,5,Noun
+846,رُعْب,ruEob,5,Noun
+847,رَقِيب,raqiyb,5,Noun
+848,زَّيْتُون,z~ayotuwn,5,Noun
+849,سَلَم,salam,5,Noun
+850,سَوِيّ,sawiy~,5,"Adjective (3), Noun (2)"
+851,سَوْءَٰت,sawo'a`t,5,Noun
+852,شَّٰرِبِين,$~a`ribiyn,5,Noun
+853,شَاعِر,$aAEir,5,Noun
+854,شُحّ,$uH~,5,"Noun (3), Adjective (2)"
+855,شِرْك,$irok,5,Noun
+856,شَطْر,$aTor,5,Location adverb
+857,صَٰغِرُون,Sa`giruwn,5,Noun
+858,صُبْح,SuboH,5,"Noun (4), Time adverb (1)"
+859,صَدَقَة,Sadaqap,5,Noun
+860,صِدِّيق,Sid~iyq,5,Noun
+861,صَيْد,Sayod,5,Noun
+862,ضَيْف,Dayof,5,Noun
+863,طَٰٓئِر,Ta`^}ir,5,Noun
+864,طَرَف,Taraf,5,Noun
+865,طَرِيقَة,Tariyqap,5,Noun
+866,ظَلَّٰم,Zal~a`m,5,Noun
+867,عَجَب,Eajab,5,"Adjective (3), Noun (2)"
+868,عَزْم,Eazom,5,Noun
+869,عُسْر,Eusor,5,Noun
+870,عَطَآء,EaTaA^',5,Noun
+871,عَفُوّ,Eafuw~,5,Noun
+872,عَلَقَة,Ealaqap,5,Noun
+873,غَد,gad,5,Noun
+874,غُدُوّ,guduw~,5,Noun
+875,غُرْفَة,gurofap,5,Noun
+876,غَفَّار,gaf~aAr,5,"Adjective (3), Noun (2)"
+877,غَفْلَة,gafolap,5,Noun
+878,فَوْج,fawoj,5,Noun
+879,قَآئِل,qaA^}il,5,Noun
+880,قَآئِمَة,qaA^}imap,5,"Noun (4), Adjective (1)"
+881,قَارِعَة,qaAriEap,5,Noun
+882,قَيِّم,qay~im,5,Adjective
+883,كَآفَّة,kaA^f~ap,5,Noun
+884,كَذَّاب,ka*~aAb,5,"Adjective (3), Noun (2)"
+885,كَرْه,karoh,5,Noun
+886,كَفَّار,kaf~aAr,5,"Adjective (4), Noun (1)"
+887,كَلْب,kalob,5,Noun
+888,كَوْكَب,kawokab,5,Noun
+889,لَوْح,lawoH,5,Noun
+890,مُبْطِلُون,muboTiluwn,5,Noun
+891,مُتْرَفِين,mutorafiyn,5,Noun
+892,مَّحِيص,m~aHiyS,5,Noun
+893,مُخْرَج,muxoraj,5,Noun
+894,مَرْضَات,maroDaAt,5,Noun
+895,مِرْيَة,miroyap,5,Noun
+896,مُّسْتَضْعَفُون,m~usotaDoEafuwn,5,"Noun (4), Adjective (1)"
+897,مَسْـُٔول,maso_#uwl,5,Noun
+898,مُصْبِحِين,muSobiHiyn,5,Noun
+899,مِصْر,miSor,5,"Proper noun (4), Noun (1)"
+900,مُصْلِح,muSoliH,5,Noun
+901,مُّطَهَّرَة,m~uTah~arap,5,Adjective
+902,مَع,maE2,5,Preposition
+903,مَكَانَت,makaAnat,5,Noun
+904,مُّكْرَمُون,m~ukoramuwn,5,"Noun (4), Adjective (1)"
+905,مَلُوم,maluwm,5,Noun
+906,مُنَٰفِقَٰت,muna`fiqa`t,5,Noun
+907,مُنذَرِين,mun*ariyn,5,Noun
+908,مُنزِلِين,munziliyn,5,Noun
+909,مَهْد,mahod,5,Noun
+910,مُهْلِك,muholik,5,Noun
+911,مُّوقِنِين,m~uwqiniyn,5,Noun
+912,مَّيْت,m~ayot,5,"Adjective (4), Noun (1)"
+913,نَٰدِمِين,na`dimiyn,5,Noun
+914,نَٰظِرِين,na`Ziriyn,5,Noun
+915,نُّبُوَّة,n~ubuw~ap,5,Noun
+916,نُشُور,nu$uwr,5,Noun
+917,نُفُور,nufuwr,5,Noun
+918,نِكَاح,nikaAH,5,Noun
+919,وَازِرَة,waAzirap,5,Noun
+920,وُسْع,wusoE,5,Noun
+921,يَحْيَىٰ,yaHoyaY`,5,Proper noun
+922,أَحْبَار,>aHobaAr,4,Noun
+923,أَخْسَرِين,>axosariyn,4,Noun
+924,أَذِلَّة,>a*il~ap,4,"Noun (2), Adjective (2)"
+925,أَرْحَم,>aroHam,4,Noun
+926,أَرْذَل,>aro*al,4,Noun
+927,أَزْكَىٰ,>azokaY`,4,Noun
+928,إِسْتَبْرَق,<isotaboraq,4,Noun
+929,أَسْلِحَت,>asoliHat,4,Noun
+930,أَسِير,>asiyr,4,Noun
+931,أَطْهَر,>aTohar,4,Noun
+932,أَقْوَم,>aqowam,4,Noun
+933,أَكْل,>akol,4,Noun
+934,أَكِنَّة,>akin~ap,4,Noun
+935,أَكْوَاب,>akowaAb,4,Noun
+936,ٱلَّٰٓـِٔى,{l~a`^_#iY,4,Relative pronoun
+937,أَمَٰنَٰت,>ama`na`t,4,Noun
+938,أَمَد,>amad,4,Noun
+939,أَمْس,>amos,4,Noun
+940,ٱنتِقَام,{ntiqaAm,4,Noun
+941,أُولَآء,>uwlaA^',4,"Relative pronoun (2), Demonstrative pronoun (2)"
+942,أَيْكَة,>ayokap,4,Noun
+943,أَيُّوب,>ay~uwb,4,Proper noun
+944,بَأْسَآء,ba>osaA^',4,Noun
+945,بَٰسِط,ba`siT,4,Noun
+946,بَال,baAl,4,Noun
+947,بُرُوج,buruwj,4,Noun
+948,بَعْث,baEov,4,Noun
+949,بَقَرَة,baqarap,4,Noun
+950,تَقِيّ,taqiy~,4,Noun
+951,ثُبُور,vubuwr,4,Noun
+952,ثَمّ,vam~,4,Location adverb
+953,ثَمَٰنِيَة,vama`niyap,4,"Noun (3), Time adverb (1)"
+954,جَسَد,jasad,4,"Noun (3), Adjective (1)"
+955,جُنُب,junub,4,"Noun (3), Adjective (1)"
+956,جِهَاد,jihaAd,4,Noun
+957,جَهَٰلَة,jaha`lap,4,Noun
+958,جَوَاب,jawaAb,4,Noun
+959,جُوع,juwE,4,Noun
+960,حَاصِب,HaASib,4,Noun
+961,حَرْب,Harob,4,Noun
+962,حَسِيب,Hasiyb,4,"Noun (3), Adjective (1)"
+963,حَصِيد,HaSiyd,4,Noun
+964,حِلْيَة,Hiloyap,4,Noun
+965,حُور,Huwr,4,Noun
+966,خَبِيثَة,xabiyvap,4,Noun
+967,خَزَنَت,xazanat,4,Noun
+968,خَلِيل,xaliyl,4,Noun
+969,دَأْب,da>ob,4,Noun
+970,دَابِر,daAbir,4,Noun
+971,دَٰخِرُون,da`xiruwn,4,Noun
+972,دَاعِى,daAEiY,4,Noun
+973,دَعْوَىٰ,daEowaY`,4,Noun
+974,ذُرِّيَّٰت,*ur~iy~a`t,4,Noun
+975,رَٰجِعُون,ra`jiEuwn,4,Noun
+976,رَاضِيَة,raADiyap,4,"Adjective (2), Noun (2)"
+977,رَّجْفَة,r~ajofap,4,Noun
+978,رِسَالَة,risaAlap,4,Noun
+979,زُخْرُف,zuxoruf,4,Noun
+980,زُلْفَىٰٓ,zulofaY`^,4,Noun
+981,زُّور,z~uwr,4,Noun
+982,سَاق,saAq,4,Noun
+983,سَبْعَة,saboEap,4,Noun
+984,سَدّ,sad~,4,Noun
+985,سِرَاج,siraAj,4,Noun
+986,سَفِينَة,safiynap,4,Noun
+987,سَقَر,saqar,4,Proper noun
+988,سَقْف,saqof,4,Noun
+989,سَمَّٰعُون,sam~a`Euwn,4,Noun
+990,سُّوق,s~uwq,4,Noun
+991,سَيِّئ,say~i},4,"Adjective (3), Noun (1)"
+992,شَأْن,$a>on,4,Noun
+993,شَعَٰٓئِر,$aEa`^}ir,4,Noun
+994,شِفَآء,$ifaA^',4,Noun
+995,شَقِيّ,$aqiy~,4,"Noun (2), Adjective (2)"
+996,شِهَاب,$ihaAb,4,Noun
+997,شَيْخ,$ayox,4,"Adjective (3), Noun (1)"
+998,صَٰحِبَة,Sa`Hibap,4,Noun
+999,صَبَّار,Sab~aAr,4,Adjective
+1000,صَرْح,SaroH,4,Noun
+1001,صَعِيد,SaEiyd,4,Noun
+1002,صَلْصَٰل,SaloSa`l,4,Noun
+1003,ضَعْف,DaEof,4,Noun
+1004,طَآئِف,TaA^}if,4,Noun
+1005,طَبَق,Tabaq,4,"Adjective (2), Noun (2)"
+1006,طَرِيق,Tariyq,4,Noun
+1007,طِفْل,Tifol,4,Noun
+1008,طَلْع,TaloE,4,Noun
+1009,طَمَع,TamaE,4,Noun
+1010,طَوْع,TawoE,4,Noun
+1011,ظَالِمَة,ZaAlimap,4,Noun
+1012,عَالِي,EaAliy,4,Noun
+1013,عَجُوز,Eajuwz,4,Noun
+1014,عَرْض,EaroD,4,Noun
+1015,عَشَر,Ea$ar,4,Noun
+1016,عُصْبَة,EuSobap,4,Noun
+1017,عُقْدَة,Euqodap,4,Noun
+1018,عَقِيم,Eaqiym,4,"Adjective (3), Noun (1)"
+1019,عَلَّٰم,Eal~a`m,4,"Noun (2), Adjective (2)"
+1020,عَلَانِيَة,EalaAniyap,4,Noun
+1021,عُلُوّ,Euluw~,4,Noun
+1022,عَنِيد,Eaniyd,4,"Adjective (3), Noun (1)"
+1023,عَوْرَة,Eaworap,4,Noun
+1024,عِين,Eiyn,4,"Noun (3), Adjective (1)"
+1025,غَمَٰم,gama`m,4,Noun
+1026,غَيّ,gay~,4,Noun
+1027,غُيُوب,guyuwb,4,Noun
+1028,فَآئِزُون,faA^}izuwn,4,Noun
+1029,فُجَّار,fuj~aAr,4,"Noun (3), Adjective (1)"
+1030,فَخُور,faxuwr,4,Adjective
+1031,فِرَار,firaAr,4,Noun
+1032,فُسُوق,fusuwq,4,Noun
+1033,قَٰرُون,qa`ruwn,4,Proper noun
+1034,قِبَل,qibal,4,"Location adverb (2), Noun (2)"
+1035,قُدُس,qudus,4,Noun
+1036,قِصَاص,qiSaAS,4,Noun
+1037,قَصْر,qaSor,4,Noun
+1038,قُعُود,quEuwd,4,Noun
+1039,قَلَم,qalam,4,Noun
+1040,قِيل,qiyl,4,Noun
+1041,كَرْب,karob,4,Noun
+1042,كِسَف,kisaf,4,Noun
+1043,كَفَّٰرَة,kaf~a`rap,4,Noun
+1044,كِفْل,kifol,4,Noun
+1045,كَلَٰم,kala`m,4,Noun
+1046,كَلِم,kalim,4,Noun
+1047,مُّبَٰرَكَة,m~uba`rakap,4,"Noun (3), Adjective (1)"
+1048,مُبْصِر,muboSir,4,Noun
+1049,مُبْلِسُون,mubolisuwn,4,Noun
+1050,مُّتَقَٰبِلِين,m~utaqa`biliyn,4,Noun
+1051,مُتَوَكِّلُون,mutawak~iluwn,4,Noun
+1052,مُجَٰهِدِين,muja`hidiyn,4,Noun
+1053,مَّجِيد,m~ajiyd,4,Adjective
+1054,مِحْرَاب,miHoraAb,4,Noun
+1055,مُحَرَّم,muHar~am,4,Noun
+1056,مَحْرُوم,maHoruwm,4,Noun
+1057,مُحَمَّد,muHam~ad,4,Proper noun
+1058,مُخَلَّفُون,muxal~afuwn,4,Noun
+1059,مُرْسِل,murosil,4,Noun
+1060,مَرْء,maro',4,Noun
+1061,مَّسْحُور,m~asoHuwr,4,Noun
+1062,مِصْبَاح,miSobaAH,4,Noun
+1063,مُعَذِّب,muEa*~ib,4,Noun
+1064,مُعَذَّبِين,muEa*~abiyn,4,Noun
+1065,مَّعِين,m~aEiyn,4,"Noun (3), Adjective (1)"
+1066,مَغَانِم,magaAnim,4,Noun
+1067,مُّغْرَقُون,m~ugoraquwn,4,Noun
+1068,مُّقْتَدِر,m~uqotadir,4,Noun
+1069,مَقْعَد,maqoEad,4,Noun
+1070,مَّكْنُون,m~akonuwn,4,"Noun (3), Adjective (1)"
+1071,مَّكِين,m~akiyn,4,"Adjective (3), Noun (1)"
+1072,مُّلَٰقُوا,m~ula`quwA,4,Noun
+1073,مَلَكُوت,malakuwt,4,Noun
+1074,مُمْتَرِين,mumotariyn,4,Noun
+1075,مَمْنُون,mamonuwn,4,Noun
+1076,مَنَام,manaAm,4,Noun
+1077,مُّنتَصِر,m~untaSir,4,Noun
+1078,مَنسَك,mansak,4,Noun
+1079,مَّهِين,m~ahiyn,4,"Adjective (3), Noun (1)"
+1080,نَصَب,naSab,4,Noun
+1081,نَعْجَة,naEojap,4,Noun
+1082,نَعَم,naEam,4,Answer particle
+1083,نَكِير,nakiyr,4,Noun
+1084,هُنَا,hunaA,4,Demonstrative pronoun
+1085,هَنِيٓـٔ,haniy^_#,4,"Adjective (2), Noun (2)"
+1086,هُون,huwn,4,"Noun (3), Adjective (1)"
+1087,وَٰسِعَة,wa`siEap,4,"Noun (3), Adjective (1)"
+1088,وَبَال,wabaAl,4,Noun
+1089,وَقُود,waquwd,4,Noun
+1090,يُونُس,yuwnus,4,Proper noun
+1091,آثِم,A^vim,3,Noun
+1092,آخِذ,A^xi*,3,Noun
+1093,أَتْرَاب,>atoraAb,3,"Noun (2), Adjective (1)"
+1094,أُجَاج,>ujaAj,3,Noun
+1095,أَجْدَاث,>ajodaAv,3,Noun
+1096,أَحَبّ,>aHab~,3,"Adjective (2), Noun (1)"
+1097,أَخْبَار,>axobaAr,3,Noun
+1098,أَذْقَان,>a*oqaAn,3,Noun
+1099,أُسْوَة,>usowap,3,Noun
+1100,أَشْقَى,>a$oqaY,3,Noun
+1101,إِصْر,<iSor,3,Noun
+1102,أَصْل,>aSol,3,Noun
+1103,إِطْعَٰم,<iToEa`m,3,Noun
+1104,أَعْجَمِىّ,>aEojamiY~,3,"Noun (2), Adjective (1)"
+1105,أَعَزّ,>aEaz~,3,Noun
+1106,أَعْظَم,>aEoZam,3,"Noun (2), Adjective (1)"
+1107,أُفّ,>uf~,3,Noun
+1108,أُفُق,>ufuq,3,Noun
+1109,أَقْصَا,>aqoSaA,3,"Noun (2), Adjective (1)"
+1110,إِلْيَاس,<iloyaAs,3,Proper noun
+1111,أَوْتَاد,>awotaAd,3,Noun
+1112,أَوْثَٰن,>awova`n,3,Noun
+1113,إِيتَاءٌ,<iytaA'N,3,Noun
+1114,أَيْمَن,>ayoman,3,Adjective
+1115,بَارِئ,baAri},3,"Noun (2), Adjective (1)"
+1116,بَاطِن,baATin,3,Noun
+1117,بَاغ,baAg,3,Noun
+1118,بَٰلِغَة,ba`ligap,3,"Adjective (2), Noun (1)"
+1119,بَرْزَخ,barozax,3,Noun
+1120,بَرَكَٰت,baraka`t,3,Noun
+1121,بُشْر,bu$or,3,Noun
+1122,بَطْش,baTo$,3,Noun
+1123,بَقَر,baqar,3,Noun
+1124,بَقِيَّت,baqiy~at,3,Noun
+1125,بِكْر,bikor,3,"Adjective (2), Noun (1)"
+1126,بَهِيمَة,bahiymap,3,Noun
+1127,بَيَٰت,baya`t,3,"Noun (2), Time adverb (1)"
+1128,بَيَان,bayaAn,3,Noun
+1129,تَابِع,taAbiE,3,Noun
+1130,تَارِك,taArik,3,Noun
+1131,تَحْوِيل,taHowiyl,3,Noun
+1132,تَسْلِيم,tasoliym,3,Noun
+1133,تَضَرُّع,taDar~uE,3,Noun
+1134,تِلْقَآء,tiloqaA^',3,"Noun (2), Location adverb (1)"
+1135,ثُلَّة,vul~ap,3,Noun
+1136,جَار,jaAr,3,Noun
+1137,جَالُوت,jaAluwt,3,Proper noun
+1138,جَامِع,jaAmiE,3,Noun
+1139,جَٰهِلِيَّة,ja`hiliy~ap2,3,Proper noun
+1140,جِبْرِيل,jiboriyl,3,Proper noun
+1141,جِذْع,ji*oE,3,Noun
+1142,جُزْء,juzo',3,Noun
+1143,جَهْرَة,jahorap,3,Noun
+1144,جَوَار,jawaAr,3,"Adjective (2), Noun (1)"
+1145,جَيْب,jayob,3,Noun
+1146,حَآقَّة,HaA^q~ap,3,Noun
+1147,حَاجَة,HaAjap,3,Noun
+1148,حَٰشِرِين,Ha`$iriyn,3,Noun
+1149,حَدَآئِق,HadaA^}iq,3,Noun
+1150,حِذْر,Hi*or,3,Noun
+1151,حَرّ,Har~,3,Noun
+1152,حَرِير,Hariyr,3,Noun
+1153,حَزَن,Hazan,3,Noun
+1154,حُسْبَان,HusobaAn,3,Noun
+1155,حَسَنَٰت,Hasana`t,3,Noun
+1156,حُطَٰم,HuTa`m,3,Noun
+1157,حِفْظ,HifoZ,3,Noun
+1158,حَكَم,Hakam,3,Noun
+1159,حَمَإ,Hama<,3,Noun
+1160,حِمْل,Himol,3,Noun
+1161,خَآئِف,xaA^}if,3,Noun
+1162,خَآئِنِين,xaA^}iniyn,3,Noun
+1163,خَارِج,xaArij,3,Noun
+1164,خَاسِئ,xaAsi},3,"Adjective (2), Noun (1)"
+1165,خَٰلَٰت,xa`la`t,3,Noun
+1166,خَسَار,xasaAr,3,Noun
+1167,خُسْرَان,xusoraAn,3,Noun
+1168,خَصْم,xaSom,3,Noun
+1169,خِطَاب,xiTaAb,3,Noun
+1170,خَمْسَة,xamosap,3,Noun
+1171,دَآئِرَة,daA^}irap,3,Noun
+1172,دَّاع,d~aAE,3,Noun
+1173,دَانِيَة,daAniyap,3,"Noun (2), Adjective (1)"
+1174,دَكّ,dak~,3,Noun
+1175,ذَآئِقَة,*aA^}iqap,3,Noun
+1176,ذَرْع,*aroE,3,Noun
+1177,ذُّلّ,*~ul~,3,Noun
+1178,ذِّئْب,*~i}ob,3,Noun
+1179,رَآدّ,raA^d~,3,Noun
+1180,رَاغِب,raAgib,3,Noun
+1181,رَبَّٰنِيِّن,rab~a`niy~in,3,Noun
+1182,رَجْع,rajoE,3,Noun
+1183,رَحْل,raHol,3,Noun
+1184,رَّشِيد,r~a$iyd,3,"Adjective (2), Noun (1)"
+1185,رَغَد,ragad,3,"Adjective (2), Noun (1)"
+1186,رُّمَّان,r~um~aAn,3,Noun
+1187,رُهْبَٰن,ruhoba`n,3,Noun
+1188,رَهْط,rahoT,3,Noun
+1189,رَّوْح,r~awoH,3,Noun
+1190,رِئَآء,ri}aA^',3,Noun
+1191,زَان,zaAn,3,Noun
+1192,زَانِيَة,zaAniyap,3,Noun
+1193,زَبَد,zabad,3,Noun
+1194,زَبُور,zabuwr,3,Proper noun
+1195,زَفِير,zafiyr,3,Noun
+1196,زَقُّوم,zaq~uwm,3,Proper noun
+1197,سَّارِق,s~aAriq,3,Noun
+1198,سَافِل,saAfil,3,Noun
+1199,سَّامِرِىّ,s~aAmiriY~,3,Proper noun
+1200,سِجِّيل,sij~iyl,3,Noun
+1201,سُّحْت,s~uHot,3,Noun
+1202,سَحَر,saHar,3,Noun
+1203,سُّدُس,s~udus,3,Noun
+1204,سَرَٰبِيل,sara`biyl,3,Noun
+1205,سُكَٰرَىٰ,suka`raY`,3,Noun
+1206,سَكَن,sakan,3,Noun
+1207,سِلْسِلَة,silosilap,3,Noun
+1208,سَّلْوَىٰ,s~alowaY`,3,Noun
+1209,سَمُوم,samuwm,3,Noun
+1210,سَمِين,samiyn,3,Adjective
+1211,سُندُس,sundus,3,Noun
+1212,سَيَّارَة,say~aArap,3,Noun
+1213,سَيِّد,say~id,3,Noun
+1214,شَتَّىٰ,$at~aY`,3,"Noun (2), Adjective (1)"
+1215,شِرْب,$irob,3,Noun
+1216,شَهَٰدَٰت,$aha`da`t,3,Noun
+1217,شَّهَوَٰت,$~ahawa`t,3,Noun
+1218,صَٰٓفَّٰت,Sa`^f~a`t,3,Noun
+1219,صَّٰبِـِٔين,S~a`bi_#iyn,3,Proper noun
+1220,صَرْصَر,SaroSar,3,Adjective
+1221,صَغِير,Sagiyr,3,Noun
+1222,صُورَة,Suwrap,3,Noun
+1223,ضَرْب,Darob,3,Noun
+1224,ضِغْث,Digov,3,Noun
+1225,ضِيَآء,DiyaA^',3,Noun
+1226,طَاعَة,TaAEap,3,Noun
+1227,طَوْل,Tawol,3,Noun
+1228,عَاجِلَةٌ,EaAjilapN,3,Noun
+1229,عَاصِم,EaASim,3,Noun
+1230,عَاقِر,EaAqir,3,Noun
+1231,عَشْرَة,Ea$orap,3,Noun
+1232,عَشِيرَت,Ea$iyrat,3,Noun
+1233,عُلْيَا,EuloyaA,3,"Adjective (2), Noun (1)"
+1234,عَمَّٰت,Eam~a`t,3,Noun
+1235,عَمَد,Eamad,3,Noun
+1236,عِمْرَٰن,Eimora`n,3,Proper noun
+1237,عِير,Eiyr,3,Noun
+1238,غَآئِبِين,gaA^}ibiyn,3,Noun
+1239,غَٰشِيَة,ga`$iyap,3,Noun
+1240,غَرُور,garuwr,3,Noun
+1241,غَمْرَة,gamorap,3,Noun
+1242,غَنَم,ganam,3,Noun
+1243,غَيْث,gayov,3,Noun
+1244,فَٰكِهِين,fa`kihiyn,3,Noun
+1245,فَتَىٰ,fataY`,3,Noun
+1246,فَتِيل,fatiyl,3,Noun
+1247,فِتْيَة,fitoyap,3,Noun
+1248,فَجّ,faj~,3,"Noun (2), Adjective (1)"
+1249,فِدْيَة,fidoyap,3,Noun
+1250,فُرَات,furaAt,3,Adjective
+1251,فِرَٰش,fira`$,3,Noun
+1252,فَرْد,farod,3,Noun
+1253,فِسْق,fisoq,3,Noun
+1254,فِصَال,fiSaAl,3,Noun
+1255,فَوَٰكِه,fawa`kih,3,Noun
+1256,قَٰسِيَة,qa`siyap,3,Noun
+1257,قَٰصِرَٰت,qa`Sira`t,3,Noun
+1258,قَٰنِتَٰت,qa`nita`t,3,"Noun (2), Adjective (1)"
+1259,قَاهِر,qaAhir,3,Noun
+1260,قُبُل,qubul,3,Noun
+1261,قَدِيم,qadiym,3,Adjective
+1262,قُرْبَان,qurobaAn,3,Noun
+1263,قَرْح,qaroH,3,Noun
+1264,قِرَدَة,qiradap,3,Noun
+1265,قُرَّة,qur~ap,3,Noun
+1266,قِسْمَة,qisomap,3,Noun
+1267,قِنطَار,qinTaAr,3,Noun
+1268,قَوَارِيرَا,qawaAriyraA,3,Noun
+1269,قَوَاعِد,qawaAEid,3,Noun
+1270,قَوَّٰمِين,qaw~a`miyn,3,Noun
+1271,قَيُّوم,qay~uwm,3,Adjective
+1272,كَاشِف,kaA$if,3,Noun
+1273,كُرْه,kuroh,3,Noun
+1274,كَظِيم,kaZiym,3,Noun
+1275,كُفُور,kufuwr,3,Noun
+1276,لَٰعِبِين,la`Eibiyn,3,Noun
+1277,لَّمَّا,l~am~aA,3,"Exceptive particle (2), Negative particle (1)"
+1278,لَهَب,lahab,3,Noun
+1279,مَٰلِك,ma`lik,3,Noun
+1280,مُبَدِّل,mubad~il,3,Noun
+1281,مُبْصِرَة,muboSirap,3,Noun
+1282,مُّبَيِّنَٰت,m~ubay~ina`t,3,"Adjective (2), Noun (1)"
+1283,مُّبَيِّنَة,m~ubay~inap,3,"Adjective (2), Noun (1)"
+1284,مُتَّخِذ,mut~axi*,3,Noun
+1285,مُّتَرَبِّص,m~utarab~iS,3,Noun
+1286,مَتِين,matiyn,3,"Noun (2), Adjective (1)"
+1287,مَثْنَىٰ,mavonaY`,3,Noun
+1288,مَحِلّ,maHil~,3,Noun
+1289,مَحِيض,maHiyD,3,Noun
+1290,مُخْتَال,muxotaAl,3,"Adjective (2), Noun (1)"
+1291,مُخْرِج,muxorij,3,Noun
+1292,مَدَآئِن,madaA^}in,3,Noun
+1293,مَّدْحُور,m~adoHuwr,3,Noun
+1294,مُّدْخَل,m~udoxal,3,Noun
+1295,مِّدْرَار,m~idoraAr,3,Noun
+1296,مَذْمُوم,ma*omuwm,3,Noun
+1297,مُرْسَىٰ,murosaY`,3,Noun
+1298,مَّرْفُوعَة,m~arofuwEap,3,"Adjective (2), Noun (1)"
+1299,مِزَاج,mizaAj,3,Noun
+1300,مُّسْتَقِرّ,m~usotaqir~,3,Noun
+1301,مُسَخَّرَٰت,musax~ara`t,3,Noun
+1302,مَسْطُور,masoTuwr,3,Noun
+1303,مُّسَلَّمَة,m~usal~amap,3,Adjective
+1304,مَّسْنُون,m~asonuwn,3,Noun
+1305,مُّسَوَّمَة,m~usaw~amap,3,"Noun (2), Adjective (1)"
+1306,مَشْحُون,ma$oHuwn,3,Noun
+1307,مَّشْرَب,m~a$orab,3,Noun
+1308,مُشْرِكَٰت,mu$orika`t,3,Noun
+1309,مَشْهُود,ma$ohuwd,3,Noun
+1310,مَشْـَٔمَة,ma$o_#amap,3,Noun
+1311,مُصْفَرّ,muSofar~,3,Noun
+1312,مُصَلِّين,muSal~iyn,3,Noun
+1313,مَضَاجِع,maDaAjiE,3,Noun
+1314,مُضْغَة,muDogap,3,Noun
+1315,مُّضِلّ,m~uDil~,3,Noun
+1316,مُعَٰجِزِين,muEa`jiziyn,3,Noun
+1317,مُعْتَد,muEotad,3,"Noun (2), Adjective (1)"
+1318,مَعْذِرَة,maEo*irap,3,Noun
+1319,مَعْشَر,maEo$ar,3,Noun
+1320,مَعِيشَة,maEiy$ap,3,Noun
+1321,مَّغْرَم,m~agoram,3,Noun
+1322,مَفَاتِح,mafaAtiH,3,Noun
+1323,مُقَام,muqaAm,3,Noun
+1324,مِقْدَار,miqodaAr,3,Noun
+1325,مُّقَرَّنِين,m~uqar~aniyn,3,"Noun (2), Adjective (1)"
+1326,مُقْسِطِين,muqosiTiyn,3,Noun
+1327,مَّلْجَإ,m~aloja<,3,Noun
+1328,مُّلْقُون,m~uloquwn,3,Noun
+1329,مَمَات,mamaAt,3,Noun
+1330,مُنتَقِمُون,muntaqimuwn,3,Noun
+1331,مُنتَهَىٰ,muntahaY`,3,Noun
+1332,مُنقَلِبُون,munqalibuwn,3,Noun
+1333,مُنكِرُون,munkiruwn,3,Noun
+1334,مُّهْتَد,m~uhotad,3,Noun
+1335,مُهْطِعِين,muhoTiEiyn,3,Noun
+1336,مُهْل,muhol,3,Noun
+1337,مَّوَاضِع,m~awaADiE,3,Noun
+1338,مَوْتَت,mawotat,3,Noun
+1339,مُؤْتَفِكَة,mu&otafikap,3,Noun
+1340,مَّوْثِق,m~awoviq,3,Noun
+1341,مَوْلُود,mawoluwd,3,Noun
+1342,مَيْسِر,mayosir,3,Noun
+1343,مَيْمَنَة,mayomanap,3,Noun
+1344,نَاصِيَة,naASiyap,3,Noun
+1345,نَسَب,nasab,3,Noun
+1346,نَّشْأَة,n~a$o>ap,3,Noun
+1347,نُصُب,nuSub,3,Noun
+1348,نِفَاق,nifaAq,3,Noun
+1349,نَفَر,nafar,3,Noun
+1350,نَكَٰل,naka`l,3,Noun
+1351,نُّكْر,n~ukor,3,Adjective
+1352,نَوْم,nawom,3,Noun
+1353,هُود,huwd2,3,Proper noun
+1354,هَيِّن,hay~in,3,Noun
+1355,وَابِل,waAbil,3,Noun
+1356,وَارِد,waArid,3,Noun
+1357,وَاق,waAq,3,Noun
+1358,وَزْن,wazon,3,Noun
+1359,وِعَآء,wiEaA^',3,Noun
+1360,وَقْت,waqot,3,Noun
+1361,وَهَّاب,wah~aAb,3,"Noun (2), Adjective (1)"
+1362,يَـُٔوس,ya_#uws,3,Noun
+1363,ءَاكِلُون,'aAkiluwn,3,Noun
+1364,ءَانَآء,'aAnaA^',3,"Noun (2), Time adverb (1)"
+1365,أَبْرَص,>aboraS,2,Noun
+1366,إِبْكَٰر,<iboka`r,2,Noun
+1367,إِبِل,<ibil,2,Noun
+1368,ٱبْنَت,{bonat,2,Noun
+1369,ٱتِّبَاع,{t~ibaAE,2,Noun
+1370,أَتْقَى,>atoqaY,2,Noun
+1371,أَثَٰث,>ava`v,2,Noun
+1372,أَحْكَم,>aHokam,2,Noun
+1373,أَخْدَان,>axodaAn,2,Noun
+1374,إِدْرِيس,<idoriys,2,Proper noun
+1375,أَذَلّ,>a*al~,2,Noun
+1376,أَزْلَٰم,>azola`m,2,Noun
+1377,ٱسْتِكْبَار,{sotikobaAr,2,Noun
+1378,إِسْرَار,<isoraAr,2,Noun
+1379,إِسْرَاف,<isoraAf,2,Noun
+1380,أَسْرَع,>asoraE,2,Noun
+1381,أَسِف,>asif,2,Noun
+1382,أَسَف,>asaf,2,Noun
+1383,أَسْفَار,>asofaAr,2,Noun
+1384,أَسْوَأ,>asowa>,2,Noun
+1385,أَشْتَات,>a$otaAt,2,Noun
+1386,أَشِر,>a$ir,2,Adjective
+1387,أَصَٰبِع,>aSa`biE,2,Noun
+1388,أَصْدَق,>aSodaq,2,Noun
+1389,أَصْغَر,>aSogar,2,Noun
+1390,أَصْفَاد,>aSofaAd,2,Noun
+1391,أَضْعَف,>aDoEaf,2,Noun
+1392,أَضْغَٰن,>aDoga`n,2,Noun
+1393,أَعْجَاز,>aEojaAz,2,Noun
+1394,إِعْرَاض,<iEoraAD,2,Noun
+1395,أَعْرَاف,>aEoraAf,2,Noun
+1396,أَعْرَج,>aEoraj,2,Noun
+1397,أَعْلَٰم,>aEola`m,2,Noun
+1398,أَعْلَوْن,>aEolawon,2,Noun
+1399,أَفَّاك,>af~aAk,2,Noun
+1400,ٱفْتِرَآء,{fotiraA^',2,Noun
+1401,إِقَام,<iqaAm,2,Noun
+1402,أَقْسَط,>aqosaT,2,Noun
+1403,أَقْطَار,>aqoTaAr,2,Noun
+1404,أَقَلّ,>aqal~,2,Noun
+1405,إِكْرَام,<ikoraAm,2,Noun
+1406,إِكْرَاه,<ikoraAh,2,Noun
+1407,أَكْرَم,>akoram,2,"Noun (1), Adjective (1)"
+1408,أَكْمَام,>akomaAm,2,Noun
+1409,أَكْمَه,>akomah,2,Noun
+1410,إِلّ,<il~,2,Noun
+1411,إِلَٰف,<ila`f,2,Noun
+1412,ٱلْيَسَعَ,{loyasaEa,2,Proper noun
+1413,أَمَٰنَت,>ama`nat,2,Noun
+1414,أَمَل,>amal,2,Noun
+1415,إِمْلَٰق,<imola`q,2,Noun
+1416,أَمَنَة,>amanap,2,Noun
+1417,أَمَة,>amap,2,Noun
+1418,أَنف,>anf,2,Noun
+1419,أَنفَال,>anfaAl,2,Noun
+1420,أَوَّٰه,>aw~a`h,2,Noun
+1421,أَوْدِيَة,>awodiyap,2,Noun
+1422,أَوْسَط,>awosaT,2,Noun
+1423,أَوْفَىٰ,>awofaY`2,2,"Noun (1), Adjective (1)"
+1424,أَيَّتُهَا,>ay~atuhaA,2,Noun
+1425,أَيْيد,>ayoyd,2,Noun
+1426,بَٰخِع,ba`xiE,2,Noun
+1427,بَارِد,baArid,2,Noun
+1428,بَٰقِيَٰت,ba`qiya`t,2,Noun
+1429,بَاقِين,baAqiyn,2,Noun
+1430,بَاقِيَة,baAqiyap,2,Noun
+1431,بَخْس,baxos,2,"Adjective (1), Noun (1)"
+1432,بُخْل,buxol,2,Noun
+1433,بَدِيع,badiyE,2,Noun
+1434,بَرَآءَة,baraA^'ap,2,Noun
+1435,بَرْد,barod,2,Noun
+1436,بَرِيَّة,bariy~ap,2,Noun
+1437,بَصطَة,baSTap,2,Noun
+1438,بِضْع,biDoE,2,Noun
+1439,بِطَانَة,biTaAnap,2,Noun
+1440,بَطْشَة,baTo$ap,2,Noun
+1441,بَعِير,baEiyr,2,Noun
+1442,بَغِيّ,bagiy~,2,Noun
+1443,بَقَرَٰت,baqara`t,2,Noun
+1444,بِنَآء,binaA^',2,Noun
+1445,بَنَان,banaAn,2,Noun
+1446,بَهِيج,bahiyj,2,Adjective
+1447,بُور,buwr,2,Adjective
+1448,تَّابُوت,t~aAbuwt,2,Noun
+1449,تَأْثِيم,ta>oviym,2,Noun
+1450,تَارَة,taArap,2,Noun
+1451,تُبَّع,tub~aE,2,Proper noun
+1452,تَبَع,tabaE,2,Noun
+1453,تَتْبِير,tatobiyr,2,Noun
+1454,تَثْبِيت,tavobiyt,2,Noun
+1455,تَدْمِير,tadomiyr,2,Noun
+1456,تَرَاض,taraAD,2,Noun
+1457,تَرْتِيل,tarotiyl,2,Noun
+1458,تَسْبِيح,tasobiyH,2,Noun
+1459,تِسْعَة,tisoEap,2,Noun
+1460,تَصْدِيق,taSodiyq,2,Noun
+1461,تَصْرِيف,taSoriyf,2,Noun
+1462,تَفْجِير,tafojiyr,2,Noun
+1463,تَفْضِيل,tafoDiyl,2,Noun
+1464,تَّكَاثُر,t~akaAvur,2,Noun
+1465,تِلْكُم,tilokum,2,Demonstrative pronoun
+1466,تَّمَاثِيل,t~amaAviyl,2,Noun
+1467,تَّنُّور,t~an~uwr,2,Noun
+1468,تَوْفِيق,tawofiyq,2,Noun
+1469,ثَابِت,vaAbit,2,Noun
+1470,ثَاقِب,vaAqib,2,"Noun (1), Adjective (1)"
+1471,ثَالِث,vaAliv,2,Noun
+1472,ثَانِى,vaAniY,2,Noun
+1473,ثُعْبَان,vuEobaAn,2,Noun
+1474,ثُلَٰث,vula`v,2,Noun
+1475,جَارِيَة,jaAriyap,2,"Noun (1), Adjective (1)"
+1476,جُبّ,jub~,2,Noun
+1477,جِبِلَّة,jibil~ap,2,Noun
+1478,جِثِيّ,jiviy~,2,Noun
+1479,جِدَار,jidaAr,2,Noun
+1480,جِدَال,jidaAl,2,Noun
+1481,جَدَل,jadal,2,Noun
+1482,جَرَاد,jaraAd,2,Noun
+1483,جُرُز,juruz,2,Adjective
+1484,جِسْم,jisom,2,Noun
+1485,جَلَٰل,jala`l,2,Noun
+1486,جَلْدَة,jalodap,2,Noun
+1487,جُنَّة,jun~ap,2,Noun
+1488,جَهَاز,jahaAz,2,Noun
+1489,حَٰسِبِين,Ha`sibiyn,2,Noun
+1490,حَٰش,Ha`$,2,Noun
+1491,حَاضِرَة,HaADirap,2,"Adjective (1), Noun (1)"
+1492,حَٰفِظَٰت,Ha`fiZa`t,2,Noun
+1493,حَامِيَة,HaAmiyap,2,Adjective
+1494,حَجَر,Hajar,2,Noun
+1495,حَذَر,Ha*ar,2,Noun
+1496,حُرّ,Hur~,2,Noun
+1497,حُرُمَٰت,Huruma`t,2,Noun
+1498,حُزْن,Huzon,2,Noun
+1499,حَشْر,Ha$or,2,Noun
+1500,حَطَب,HaTab,2,Noun
+1501,حُطَمَة,HuTamap,2,Noun
+1502,حِطَّة,HiT~ap,2,Noun
+1503,حَفِيّ,Hafiy~,2,Noun
+1504,حَمِيَّة,Hamiy~ap,2,Noun
+1505,حَنَاجِر,HanaAjir,2,Noun
+1506,حَيْث,Hayov2,2,Conditional particle
+1507,خَآئِنَة,xaA^}inap,2,Noun
+1508,خَاطِئَة,xaATi}ap,2,"Noun (1), Adjective (1)"
+1509,خَال,xaAl,2,Noun
+1510,خَالِص,xaAliS,2,Noun
+1511,خَٰمِدِين,xa`midiyn,2,Noun
+1512,خَٰمِسَة,xa`misap,2,Noun
+1513,خَبَال,xabaAl,2,Noun
+1514,خُبْر,xubor,2,Noun
+1515,خَبَر,xabar,2,Noun
+1516,خَبِيثَٰت,xabiyva`t,2,Noun
+1517,خَرْج,xaroj,2,Noun
+1518,خَرْدَل,xarodal,2,Noun
+1519,خُسْر,xusor,2,Noun
+1520,خَطِيٓـَٰٔت,xaTiy^_#a`t,2,Noun
+1521,خَطَـٔ,xaTa_#,2,Noun
+1522,خَفِىّ,xafiY~,2,Adjective
+1523,خَفِيف,xafiyf,2,"Adjective (1), Noun (1)"
+1524,خُفْيَة,xufoyap,2,Noun
+1525,خَلَّٰق,xal~a`q,2,Noun
+1526,خُلُق,xuluq,2,Noun
+1527,خَمْسِين,xamosiyn,2,Noun
+1528,خُوَار,xuwaAr,2,Noun
+1529,خَوَالِف,xawaAlif,2,Noun
+1530,خَوَّان,xaw~aAn,2,"Noun (1), Adjective (1)"
+1531,خَوْض,xawoD,2,Noun
+1532,خِيَانَة,xiyaAnap,2,Noun
+1533,خِيَرَة,xiyarap,2,Noun
+1534,خَيْط,xayoT,2,Noun
+1535,دَآئِم,daA^}im,2,Noun
+1536,دَٰخِلُون,da`xiluwn,2,Noun
+1537,دَافِع,daAfiE,2,Noun
+1538,دُخَان,duxaAn,2,Noun
+1539,دَخَل,daxal,2,Noun
+1540,دَفْع,dafoE,2,Noun
+1541,دَّمْع,d~amoE,2,Noun
+1542,دَّهْر,d~ahor,2,Noun
+1543,دِيَة,diyap,2,Noun
+1544,ذَآئِقُوا,*aA^}iquwA,2,Noun
+1545,ذَّٰكِرِين,*~a`kiriyn,2,Noun
+1546,ذُبَاب,*ubaAb,2,Noun
+1547,ذِرَاع,*iraAE,2,Noun
+1548,ذَلُول,*aluwl,2,"Adjective (1), Noun (1)"
+1549,ذِمَّة,*im~ap,2,Noun
+1550,ذَنُوب,*anuwb,2,Noun
+1551,رَابِع,raAbiE,2,Noun
+1552,رَّٰسِخُون,r~a`sixuwn,2,Noun
+1553,رَٰعُون,ra`Euwn,2,Noun
+1554,رَأْفَة,ra>ofap,2,Noun
+1555,رَأْى,ra>oY,2,Noun
+1556,رُبَٰع,ruba`E,2,Noun
+1557,رُّبُع,r~ubuE,2,Noun
+1558,رَبْوَة,rabowap,2,Noun
+1559,رَدّ,rad~,2,Noun
+1560,رَّسّ,r~as~,2,Noun
+1561,رَّشَاد,r~a$aAd,2,Noun
+1562,رَصَد,raSad,2,"Adjective (1), Noun (1)"
+1563,رَّضَاعَة,r~aDaAEap,2,Noun
+1564,رَعْد,raEod,2,Noun
+1565,رُفَٰت,rufa`t,2,Noun
+1566,رَفَث,rafav,2,Noun
+1567,رُكْن,rukon,2,Noun
+1568,رَمِيم,ramiym,2,Noun
+1569,رَهَق,rahaq,2,Noun
+1570,رَّيْحَان,r~ayoHaAn,2,Noun
+1571,زُجَاجَة,zujaAjap,2,Noun
+1572,زَجْرَة,zajorap,2,Noun
+1573,زَعْم,zaEom,2,Noun
+1574,زَعِيم,zaEiym,2,Noun
+1575,زِلْزَال,zilozaAl,2,Noun
+1576,زُلْفَة,zulofap,2,Noun
+1577,زُمَر,zumar,2,Noun
+1578,زِيَادَة,ziyaAdap,2,Noun
+1579,سَآئِغ,saA^}ig,2,Noun
+1580,سَادِس,saAdis,2,Noun
+1581,سَاهُون,saAhuwn,2,Noun
+1582,سَبَإ,saba<,2,Proper noun
+1583,سُبَات,subaAt,2,Noun
+1584,سَبْح,saboH,2,Noun
+1585,سِجِّين,sij~iyn,2,Noun
+1586,سِخْرِيّ,sixoriy~,2,Noun
+1587,سِدْر,sidor,2,Noun
+1588,سِدْرَة,sidorap,2,Noun
+1589,سَدِيد,sadiyd,2,Adjective
+1590,سَّرَّآء,s~ar~aA^',2,Noun
+1591,سَرَاب,saraAb,2,Noun
+1592,سَرَاح,saraAH,2,Noun
+1593,سِرَاع,siraAE,2,Noun
+1594,سَرْمَد,saromad,2,Noun
+1595,سُعُر,suEur,2,Noun
+1596,سَفَاهَة,safaAhap,2,Noun
+1597,سِقَايَة,siqaAyap,2,Noun
+1598,سَقِيم,saqiym,2,Noun
+1599,سَكْرَة,sakorap,2,Noun
+1600,سُلَٰلَة,sula`lap,2,Noun
+1601,سُلَّم,sul~am,2,Noun
+1602,سَّلْم,s~alom,2,Noun
+1603,سَلِيم,saliym,2,Noun
+1604,سَمِيّ,samiy~,2,Noun
+1605,سِّنّ,s~in~,2,Noun
+1606,سُنبُلَٰت,sunbula`t,2,Noun
+1607,سُنبُلَة,sunbulap,2,Noun
+1608,سَوْءَة,sawo'ap,2,Noun
+1609,سَيْر,sayor,2,Noun
+1610,سَيْل,sayol,2,Noun
+1611,شَٰفِعِين,$a`fiEiyn,2,Noun
+1612,شَطَط,$aTaT,2,Noun
+1613,شِّعْر,$~iEor,2,Noun
+1614,شَفَا,$afaA,2,Noun
+1615,شُكُور,$ukuwr,2,Noun
+1616,شَمَآئِل,$amaA^}il,2,Noun
+1617,شَنَـَٔان,$ana_#aAn,2,Noun
+1618,شَهْوَة,$ahowap,2,Noun
+1619,شَهِيق,$ahiyq,2,Noun
+1620,صَالُوا,SaAluwA,2,Noun
+1621,صِبْغَة,Sibogap,2,Noun
+1622,صَبِيّ,Sabiy~,2,Noun
+1623,صَخْرَة,Saxorap,2,Noun
+1624,صَدّ,Sad~,2,Noun
+1625,صَدِيق,Sadiyq,2,Noun
+1626,صَغِيرَة,Sagiyrap,2,"Adjective (1), Noun (1)"
+1627,صَفْح,SafoH,2,Noun
+1628,صُّلْب,S~ulob,2,Noun
+1629,صُلْح,SuloH,2,Noun
+1630,صُنْع,SunoE,2,Noun
+1631,صِنْوَان,SinowaAn,2,Noun
+1632,صَىٰحِب,SaY`Hib,2,Noun
+1633,ضَآرّ,DaA^r~,2,Noun
+1634,ضِرَار,DiraAr,2,Noun
+1635,ضَيِّق,Day~iq,2,"Noun (1), Adjective (1)"
+1636,ضَيْق,Dayoq,2,Noun
+1637,طَارِد,TaArid,2,Noun
+1638,طَّارِق,T~aAriq,2,Noun
+1639,طَاقَة,TaAqap,2,Noun
+1640,طَالُوت,TaAluwt,2,Proper noun
+1641,طَرِيّ,Tariy~,2,Adjective
+1642,طَّلَٰق,T~ala`q,2,Noun
+1643,طُلُوع,TuluwE,2,Noun
+1644,طَهُور,Tahuwr,2,Adjective
+1645,طُّوفَان,T~uwfaAn,2,Noun
+1646,طُوًى,TuwFY,2,Noun
+1647,طَوِيل,Tawiyl,2,Adjective
+1648,ظَالِمِىٓ,ZaAlimiY^,2,Noun
+1649,ظَٰهِرَة,Za`hirap,2,Noun
+1650,ظَلُوم,Zaluwm,2,Noun
+1651,ظَلِيل,Zaliyl,2,Adjective
+1652,عَارِض,EaAriD,2,Noun
+1653,عَاصِف,EaASif,2,"Adjective (1), Noun (1)"
+1654,عَالِين,EaAliyn,2,"Adjective (1), Noun (1)"
+1655,عَالِيَة,EaAliyap,2,Adjective
+1656,عُتُوّ,Eutuw~,2,Noun
+1657,عِتِيّ,Eitiy~,2,Noun
+1658,عَتِيد,Eatiyd,2,"Adjective (1), Noun (1)"
+1659,عَتِيق,Eatiyq,2,Adjective
+1660,عِجَاف,EijaAf,2,Adjective
+1661,عَجِيب,Eajiyb,2,Adjective
+1662,عَدّ,Ead~,2,Noun
+1663,عَدْو,Eadow,2,Noun
+1664,عُدْوَة,Eudowap,2,Noun
+1665,عَذْب,Ea*ob,2,Noun
+1666,عُذْر,Eu*or,2,Noun
+1667,عَرَآء,EaraA^',2,Noun
+1668,عُرْف,Eurof,2,Noun
+1669,عُرْوَة,Eurowap,2,Noun
+1670,عُسْرَة,Eusorap,2,Noun
+1671,عَسِير,Easiyr,2,Adjective
+1672,عِشَآء,Ei$aA^',2,Noun
+1673,عَشَرَة,Ea$arap,2,Noun
+1674,عَصْف,EaSof,2,Noun
+1675,عِصِيّ,EiSiy~,2,Noun
+1676,عَصِيّ,EaSiy~,2,"Adjective (1), Noun (1)"
+1677,عَضُد,EaDud,2,Noun
+1678,عَظْم,EaZom,2,Noun
+1679,عَفْو,Eafow,2,Noun
+1680,عَقَبَة,Eaqabap,2,Noun
+1681,عِلِّيِّين,Eil~iy~iyn,2,Noun
+1682,عَمّ,Eam~,2,Noun
+1683,عُمْرَة,Eumorap,2,Noun
+1684,عَمُون,Eamuwn,2,"Adjective (1), Noun (1)"
+1685,عَمًى,EamFY,2,Noun
+1686,عَنكَبُوت,Eankabuwt,2,Noun
+1687,عِهْن,Eihon,2,Noun
+1688,عِيشَة,Eiy$ap,2,Noun
+1689,غَآئِط,gaA^}iT,2,Noun
+1690,غَافِر,gaAfir,2,Noun
+1691,غُثَآء,guvaA^',2,Noun
+1692,غَدَوٰة,gadaw`p,2,Noun
+1693,غُرَاب,guraAb,2,Noun
+1694,غُرُوب,guruwb,2,Noun
+1695,غَسَّاق,gas~aAq,2,Noun
+1696,غِشَٰوَة,gi$a`wap,2,Noun
+1697,غَضْبَٰن,gaDoba`n,2,Noun
+1698,غِطَآء,giTaA^',2,Noun
+1699,غُلْف,gulof,2,Noun
+1700,غَوْر,gawor,2,Noun
+1701,غَيَٰبَت,gaya`bat,2,Noun
+1702,فَالِق,faAliq,2,Noun
+1703,فَتَيَٰت,fataya`t,2,Noun
+1704,فُرَٰدَىٰ,fura`daY`,2,Noun
+1705,فِرَاق,firaAq,2,Noun
+1706,فِرْدَوْس,firodawos,2,Proper noun
+1707,فَزَع,fazaE,2,Noun
+1708,فَعَّال,faE~aAl,2,Noun
+1709,فَلَك,falak,2,Noun
+1710,قَٰسِطُون,qa`siTuwn,2,Noun
+1711,قَبَس,qabas,2,Noun
+1712,قَبْضَة,qaboDap,2,Noun
+1713,قَبِيل,qabiyl,2,Noun
+1714,قُدُّوس,qud~uws,2,Adjective
+1715,قِرْطَاس,qiroTaAs,2,Noun
+1716,قِسْطَاس,qisoTaAs,2,Noun
+1717,قَسَم,qasam,2,Noun
+1718,قِطْر,qiTor,2,Noun
+1719,قِطَع,qiTaE,2,Noun
+1720,قِطْع,qiToE,2,Noun
+1721,قُطُوف,quTuwf,2,Noun
+1722,قَلَٰٓئِد,qala`^}id,2,Noun
+1723,قَيِّمَة,qay~imap,2,"Adjective (1), Noun (1)"
+1724,كَٰظِمِين,ka`Zimiyn,2,Noun
+1725,كَامِلَة,kaAmilap,2,"Adjective (1), Noun (1)"
+1726,كَاهِن,kaAhin,2,Noun
+1727,كِبْر,kibor,2,Noun
+1728,كِبْرِيَآء,kiboriyaA^',2,Noun
+1729,كَثْرَة,kavorap,2,Noun
+1730,كِذَّاب,ki*~aAb,2,Noun
+1731,كُرْسِيّ,kurosiy~,2,Noun
+1732,كُسَالَىٰ,kusaAlaY`,2,Noun
+1733,كِسْوَت,kisowat,2,Noun
+1734,كَعْبَة,kaEobap,2,Proper noun
+1735,كَفَّي,kaf~ay,2,Noun
+1736,كَلَٰلَة,kala`lap,2,Noun
+1737,كَهْل,kahol,2,Noun
+1738,لَّبَن,l~aban,2,Noun
+1739,لَدَى,ladaY,2,Location adverb
+1740,لَذَّة,la*~ap,2,Adjective
+1741,لِزَام,lizaAm,2,Noun
+1742,لُّغُوب,l~uguwb,2,Noun
+1743,لُقْمَٰن,luqoma`n,2,Proper noun
+1744,لَمْح,lamoH,2,Noun
+1745,مَآئِدَة,maA^}idap,2,Noun
+1746,مَأْجُوج,ma>ojuwj,2,Proper noun
+1747,مَّٰكِثِين,m~a`kiviyn,2,Noun
+1748,مَٰكِرِين,ma`kiriyn,2,Noun
+1749,مَالِـُٔون,maAli_#uwn,2,Noun
+1750,مُبْتَلِي,mubotaliy,2,Noun
+1751,مَتَاب,mataAb,2,Noun
+1752,مُّتَّبَعُون,m~ut~abaEuwn,2,Noun
+1753,مُتَتَابِعَيْن,mutataAbiEayon,2,Adjective
+1754,مُتَصَدِّقِين,mutaSad~iqiyn,2,Noun
+1755,مُّتَعَمِّد,m~utaEam~id,2,Noun
+1756,مَّثَانِى,m~avaAniY,2,Noun
+1757,مُّثْقَلُون,m~uvoqaluwn,2,Noun
+1758,مَثُوبَة,mavuwbap,2,Noun
+1759,مَجْمَع,majomaE,2,Noun
+1760,مَّجْمُوع,m~ajomuwE,2,Noun
+1761,مُّجِيب,m~ujiyb,2,Noun
+1762,مَّحْجُور,m~aHojuwr,2,Noun
+1763,مُحْدَث,muHodav,2,Noun
+1764,مُّحْصِنِين,m~uHoSiniyn,2,Noun
+1765,مَّحْفُوظ,m~aHofuwZ,2,"Noun (1), Adjective (1)"
+1766,مُحْى,muHoY,2,Noun
+1767,مَّحْيَا,m~aHoyaA,2,Noun
+1768,مُحِيطَة,muHiyTap,2,Noun
+1769,مُّخَلَّدُون,m~uxal~aduwn,2,"Noun (1), Adjective (1)"
+1770,مُخَلَّقَة,muxal~aqap,2,Noun
+1771,مَخْمَصَة,maxomaSap,2,Noun
+1772,مَدّ,mad~,2,Noun
+1773,مَدِينِين,madiyniyn,2,Noun
+1774,مُرْتَفَق,murotafaq,2,Noun
+1775,مَرْجَان,marojaAn,2,Noun
+1776,مَرَح,maraH,2,Noun
+1777,مَرْحَب,maroHab,2,Noun
+1778,مَرْدُود,maroduwd,2,Noun
+1779,مِرْصَاد,miroSaAd,2,Noun
+1780,مَرْعَىٰ,maroEaY`,2,Noun
+1781,مَّرْقُوم,m~aroquwm,2,Adjective
+1782,مَّرِيد,m~ariyd,2,Adjective
+1783,مَّزِيد,m~aziyd,2,Noun
+1784,مَسّ,mas~,2,Noun
+1785,مُسَٰفِحِين,musa`fiHiyn,2,Noun
+1786,مُسَبِّحُون,musab~iHuwn,2,Noun
+1787,مَسْبُوقِين,masobuwqiyn,2,Noun
+1788,مُسْتَعَان,musotaEaAn,2,Noun
+1789,مُّسْتَمِرّ,m~usotamir~,2,Noun
+1790,مُسْتَمِع,musotamiE,2,Noun
+1791,مُسْتَهْزِءُون,musotahozi'uwn,2,Noun
+1792,مُسْتَوْدَع,musotawodaE,2,Noun
+1793,مُسَحَّرِين,musaH~ariyn,2,Noun
+1794,مَسْرُور,masoruwr,2,Noun
+1795,مَسْكَنَة,masokanap,2,Noun
+1796,مُسْلِمَٰت,musolima`t,2,"Noun (1), Adjective (1)"
+1797,مُسْوَدّ,musowad~,2,Noun
+1798,مُشْتَرِكُون,mu$otarikuwn,2,Noun
+1799,مُّشْرِقِين,m~u$oriqiyn,2,Noun
+1800,مُشْرِكَة,mu$orikap,2,Noun
+1801,مَّشْكُور,m~a$okuwr,2,Noun
+1802,مُصْرِخ,muSorix,2,Noun
+1803,مَصْفُوفَة,maSofuwfap,2,"Noun (1), Adjective (1)"
+1804,مُصَيْطِر,muSayoTir,2,Noun
+1805,مُطَلَّقَٰت,muTal~aqa`t,2,Noun
+1806,مُطْمَئِنّ,muToma}in~,2,Noun
+1807,مُّطْمَئِنَّة,m~uToma}in~ap,2,"Noun (1), Adjective (1)"
+1808,مُظْلِم,muZolim,2,Noun
+1809,مَعَاذ,maEaA*,2,Noun
+1810,مَعَارِج,maEaArij,2,Noun
+1811,مَعَٰيِش,maEa`yi$,2,Noun
+1812,مَّعْرُوشَٰت,m~aEoruw$a`t,2,"Adjective (1), Noun (1)"
+1813,مَعْصِيَت,maEoSiyat,2,Noun
+1814,مَّعْلُومَٰت,m~aEoluwma`t,2,Adjective
+1815,مَغْلُولَة,magoluwlap,2,Noun
+1816,مُّغْنُون,m~ugonuwn,2,Noun
+1817,مَفَازَة,mafaAzap,2,Noun
+1818,مُفْتَرُون,mufotaruwn,2,Noun
+1819,مُّفْتَرًى,m~ufotarFY,2,Noun
+1820,مَّفْرُوض,m~aforuwD,2,Adjective
+1821,مَقَالِيد,maqaAliyd,2,Noun
+1822,مُّقْتَصِد,m~uqotaSid,2,Noun
+1823,مُقَدَّس,muqad~as,2,Adjective
+1824,مَّقْضِيّ,m~aqoDiy~,2,Adjective
+1825,مِكْيَال,mikoyaAl,2,Noun
+1826,مُلَٰقِي,mula`qiy,2,Noun
+1827,مُلْتَحَد,mulotaHad,2,Noun
+1828,مِلْح,miloH,2,Noun
+1829,مُلِيم,muliym,2,Noun
+1830,مَّمْدُود,m~amoduwd,2,Adjective
+1831,مُمَزَّق,mumaz~aq,2,Noun
+1832,مَنَازِل,manaAzil,2,Noun
+1833,مَّنَّاع,m~an~aAE,2,Adjective
+1834,مَّنثُور,m~anvuwr,2,"Noun (1), Adjective (1)"
+1835,مُنَجُّو,munaj~uw,2,Noun
+1836,مُنزَل,munzal,2,Noun
+1837,مَنشُور,man$uwr,2,Noun
+1838,مَنصُور,manSuwr,2,Noun
+1839,مَّنضُود,m~anDuwd,2,"Noun (1), Adjective (1)"
+1840,مُنقَلَب,munqalab,2,Noun
+1841,مَهْلِك,maholik,2,Noun
+1842,مُهَيْمِن,muhayomin,2,"Noun (1), Adjective (1)"
+1843,مَوَاخِر,mawaAxir,2,Noun
+1844,مَوَٰلِى,mawa`liY,2,Noun
+1845,مُؤَذِّن,mu&a*~in,2,Noun
+1846,مُوسِع,muwsiE,2,Noun
+1847,مُّؤْصَدَة,m~u&oSadap,2,"Adjective (1), Noun (1)"
+1848,مِيرَٰث,miyra`v,2,Noun
+1849,مَيْل,mayol,2,Noun
+1850,نَآئِمُون,naA^}imuwn,2,Noun
+1851,نَادِي,naAdiy,2,Noun
+1852,نَاظِرَة,naAZirap,2,Noun
+1853,نَافِلَة,naAfilap,2,Noun
+1854,نَجِيّ,najiy~,2,Noun
+1855,نَّخْلَة,n~axolap,2,Noun
+1856,نِدَآء,nidaA^',2,Noun
+1857,نَّدَامَة,n~adaAmap,2,Noun
+1858,نَّذْر,n~a*or,2,Noun
+1859,نَزْغ,nazog,2,Noun
+1860,نَسْف,nasof,2,Noun
+1861,نُسُك,nusuk,2,Noun
+1862,نَسْل,nasol,2,Noun
+1863,نُشُوز,nu$uwz,2,Noun
+1864,نَضْرَة,naDorap,2,Noun
+1865,نُّعَاس,n~uEaAs,2,Noun
+1866,نَّعْمَة,n~aEomap,2,Noun
+1867,نَفَقَة,nafaqap,2,Noun
+1868,نَقْص,naqoS,2,Noun
+1869,نَقْض,naqoD,2,Noun
+1870,نَقِير,naqiyr,2,Noun
+1871,نَّمْل,n~amol,2,Noun
+1872,نُّهَىٰ,n~uhaY`,2,Noun
+1873,هَادِي,haAdiy,2,Noun
+1874,هَٰذَٰن,ha`*a`n,2,Demonstrative pronoun
+1875,هَالِك,haAlik,2,Noun
+1876,هَبَآء,habaA^',2,Noun
+1877,هَدِيَّة,hadiy~ap,2,Noun
+1878,هَشِيم,ha$iym,2,Noun
+1879,هَيْهَات,hayohaAt,2,Noun
+1880,هَيْـَٔة,hayo_#ap,2,Noun
+1881,وَاصِب,waASib,2,Noun
+1882,وَاقِعَة,waAqiEap,2,Noun
+1883,وَٰلِدَة,wa`lidap,2,Noun
+1884,وَثَاق,wavaAq,2,Noun
+1885,وُثْقَىٰ,wuvoqaY`,2,Adjective
+1886,وَجِيه,wajiyh,2,Noun
+1887,وَدْق,wadoq,2,Noun
+1888,وَدُود,waduwd,2,"Adjective (1), Noun (1)"
+1889,وِرْد,wirod,2,Noun
+1890,وَرَق,waraq,2,Noun
+1891,وَزِير,waziyr,2,Noun
+1892,وَسِيلَة,wasiylap,2,Noun
+1893,وَطَر,waTar,2,Noun
+1894,وَلَٰيَت,wala`yat,2,Noun
+1895,وَهْن,wahon,2,Noun
+1896,وَيْكَأَنّ,wayoka>an~,2,Accusative particle
+1897,يَابِسَٰت,yaAbisa`t,2,Adjective
+1898,يَأْجُوج,ya>ojuwj,2,Proper noun
+1899,يُسْرَىٰ,yusoraY`,2,Noun
+1900,يَنبُوع,yanbuwE,2,Noun
+1901,ءَازِفَة,'aAzifap,2,Noun
+1902,ءَانِيَة,'aAniyap,2,"Noun (1), Adjective (1)"
+1903,آزَر,A^zar,1,Proper noun
+1904,آمِّين,A^m~iyn,1,Noun
+1905,أَبّ,>ab~,1,Noun
+1906,أَبَابِيل,>abaAbiyl,1,Adjective
+1907,أَبَارِيق,>abaAriyq,1,Noun
+1908,أَبْتَر,>abotar,1,Noun
+1909,ٱتِّخَاذ,{t~ixaA*,1,Noun
+1910,أَثَٰرَة,>ava`rap,1,Noun
+1911,أَثَام,>avaAm,1,Noun
+1912,أَثْل,>avol,1,Noun
+1913,أَجْدَر,>ajodar,1,Noun
+1914,إِجْرَام,<ijoraAm,1,Noun
+1915,أَجْل,>ajol,1,Noun
+1916,أَجِنَّة,>ajin~ap,1,Noun
+1917,أَحِبَّٰٓؤ,>aHib~a`^&,1,Noun
+1918,أَحْرَص,>aHoraS,1,Noun
+1919,أَحْصَىٰ,>aHoSaY`2,1,Noun
+1920,أَحْقَاب,>aHoqaAb,1,Time adverb
+1921,أَحْقَاف,>aHoqaAf,1,Proper noun
+1922,أَحْمَال,>aHomaAl,1,Noun
+1923,أَحْمَد,>aHomad,1,Proper noun
+1924,أَحْوَىٰ,>aHowaY`,1,Adjective
+1925,ٱخْتِلَٰق,{xotila`q,1,Noun
+1926,أُخْدُود,>uxoduwd,1,Noun
+1927,أَخْزَىٰ,>axozaY`,1,Noun
+1928,أَخْضَر,>axoDar,1,Adjective
+1929,أَخْفَى,>axofaY,1,Noun
+1930,إِدّ,<id~,1,Adjective
+1931,أَدَآء,>adaA^',1,Noun
+1932,إِدْبَٰر,<idoba`r,1,Noun
+1933,أَدْهَىٰ,>adohaY`,1,Adjective
+1934,أَذَٰن,>a*a`n,1,Noun
+1935,إِرْبَة,<irobap,1,Noun
+1936,أَرْجَآئ,>arojaA^},1,Noun
+1937,إِرْصَاد,<iroSaAd,1,Noun
+1938,إِرَم,<iram,1,Proper noun
+1939,أَزّ,>az~,1,Noun
+1940,أَزْر,>azor,1,Noun
+1941,ٱسْتِبْدَال,{sotibodaAl,1,Noun
+1942,ٱسْتِحْيَآء,{sotiHoyaA^',1,Noun
+1943,ٱسْتِعْجَال,{sotiEojaAl,1,Noun
+1944,ٱسْتِغْفَار,{sotigofaAr,1,Noun
+1945,أَسْر,>asor,1,Noun
+1946,أَسْوَد,>asowad,1,Adjective
+1947,أَشْرَاط,>a$oraAT,1,Noun
+1948,إِشْرَاق,<i$oraAq,1,Noun
+1949,أَشَقّ,>a$aq~,1,Adjective
+1950,إِصْبَاح,<iSobaAH,1,Noun
+1951,أَصْوَاف,>aSowaAf,1,Noun
+1952,أَطْغَىٰ,>aTogaY`,1,Noun
+1953,أَطْوَار,>aTowaAr,1,Noun
+1954,أَعْجَمِين,>aEojamiyn,1,Noun
+1955,إِعْصَار,<iEoSaAr,1,Noun
+1956,أَفْصَح,>afoSaH,1,Noun
+1957,أَفْنَان,>afonaAn,1,Noun
+1958,إِقَامَت,<iqaAmat,1,Noun
+1959,أَقَاوِيل,>aqaAwiyl,1,Noun
+1960,أَقْدَمُون,>aqodamuwn,1,Noun
+1961,أَقْفَال,>aqofaAl,1,Noun
+1962,أَقْنَىٰ,>aqonaY`,1,Noun
+1963,أَقْوَٰت,>aqowa`t,1,Noun
+1964,أَكَّٰلُون,>ak~a`luwn,1,Noun
+1965,أَكْنَٰن,>akona`n,1,Noun
+1966,إِلْحَاد,<iloHaAd,1,Noun
+1967,إِلْحَاف,<iloHaAf,1,Noun
+1968,أَلَدّ,>alad~,1,Noun
+1969,ٱلْعُزَّىٰ,{loEuz~aY`,1,Proper noun
+1970,أَلْفَاف,>alofaAf,1,Adjective
+1971,أَلْقَٰب,>aloqa`b,1,Noun
+1972,ٱللَّٰت,{ll~a`t,1,Proper noun
+1973,إِلَّم,<il~am,1,Conditional particle
+1974,أَمَّارَة,>am~aArap,1,Noun
+1975,أَمَام,>amaAm,1,Time adverb
+1976,أَمْت,>amot,1,Noun
+1977,أَمْثَل,>amoval,1,Noun
+1978,إِمْر,<imor,1,Adjective
+1979,أَمَرّ,>amar~,1,Noun
+1980,ٱمْرَأ,{mora>,1,Noun
+1981,ٱمْرُؤٌا,{moru&NA,1,Noun
+1982,إِمْسَاك,<imosaAk,1,Noun
+1983,أَمْشَاج,>amo$aAj,1,Adjective
+1984,أَمْعَآء,>amoEaA^',1,Noun
+1985,أَنَام,>anaAm,1,Noun
+1986,أَنَامِل,>anaAmil,1,Noun
+1987,ٱنبِعَاث,{nbiEaAv,1,Noun
+1988,إِنسِيّ,<insiy~,1,Noun
+1989,إِنشَآء,<in$aA^',1,Noun
+1990,إِنفَاق,<infaAq,1,Noun
+1991,ٱنفِصَام,{nfiSaAm,1,Noun
+1992,أَنكَٰث,>anka`v,1,Noun
+1993,أَنكَال,>ankaAl,1,Noun
+1994,أَنكَر,>ankar,1,Noun
+1995,إِنَىٰ,<inaY`,1,Noun
+1996,أَهِلَّة,>ahil~ap,1,Noun
+1997,أَهْوَن,>ahowan,1,Noun
+1998,أَوْبَار,>awobaAr,1,Noun
+1999,أَوْلَيَٰن,>awolaya`n,1,Noun
+2000,أَوْهَن,>awohan,1,Noun
+2001,إِى,<iY,1,Answer particle
+2002,إِيَاب,<iyaAb,1,Noun
+2003,أَيَٰمَىٰ,>aya`maY`,1,Noun
+2004,أَيْقَاظ,>ayoqaAZ,1,Noun
+2005,إِين,<iyn,1,Conditional particle
+2006,بَآئِس,baA^}is,1,Noun
+2007,بَابِل,baAbil,1,Proper noun
+2008,بَاد,baAd,1,Noun
+2009,بَادُون,baAduwn,1,Noun
+2010,بَادِى,baAdiY,1,Noun
+2011,بَٰرِزُون,ba`rizuwn,1,Noun
+2012,بَارِزَة,baArizap,1,Noun
+2013,بَازِغ,baAzig,1,Noun
+2014,بَازِغَة,baAzigap,1,Noun
+2015,بَاسِرَة,baAsirap,1,Noun
+2016,بَاسِقَٰت,baAsiqa`t,1,Noun
+2017,بَاطِنَة,baATinap,1,Noun
+2018,بَاق,baAq,1,Noun
+2019,بَثّ,bav~,1,Noun
+2020,بَحِيرَة,baHiyrap,1,Noun
+2021,بِدَار,bidaAr,1,Noun
+2022,بَدْر,bador,1,Proper noun
+2023,بِدْع,bidoE,1,Noun
+2024,بَدَل,badal,1,Adjective
+2025,بُدْن,budon,1,Noun
+2026,بَدَن,badan,1,Noun
+2027,بَدْو,badow,1,Noun
+2028,بَرَآء,baraA^',1,Noun
+2029,بَرَد,barad,1,Noun
+2030,بَسّ,bas~,1,Noun
+2031,بِسَاط,bisaAT,1,Noun
+2032,بَسْط,basoT,1,Noun
+2033,بَصَل,baSal,1,Noun
+2034,بَطَر,baTar,1,Noun
+2035,بَعْل,baEol2,1,Proper noun
+2036,بَعُوضَة,baEuwDap,1,Noun
+2037,بِغَآء,bigaA^',1,Noun
+2038,بِغَال,bigaAl,1,Noun
+2039,بُقْعَة,buqoEap,1,Noun
+2040,بَقْل,baqol,1,Noun
+2041,بُكِيّ,bukiy~,1,Noun
+2042,بَكَّة,bak~ap,1,Proper noun
+2043,بَلِيغ,baliyg,1,Adjective
+2044,بَنَّآء,ban~aA^',1,Noun
+2045,بَهْجَة,bahojap,1,Noun
+2046,بَوَار,bawaAr,1,Noun
+2047,بِئْر,bi}or,1,Noun
+2048,بَيْض,bayoD,1,Noun
+2049,بِيَع,biyaE,1,Noun
+2050,بَيِّن,bay~in,1,Adjective
+2051,بَـِٔيس,ba_#iys,1,Adjective
+2052,تَٰٓئِبَٰت,ta`^}iba`t,1,Adjective
+2053,تَّٰٓئِبُون,t~a`^}ibuwn,1,Noun
+2054,تَّٰلِيَٰت,t~a`liya`t,1,Noun
+2055,تَبَاب,tabaAb,1,Noun
+2056,تَبَار,tabaAr,1,Noun
+2057,تَبْتِيل,tabotiyl,1,Noun
+2058,تَبْذِير,tabo*iyr,1,Noun
+2059,تَبَرُّج,tabar~uj,1,Noun
+2060,تَبْصِرَة,taboSirap,1,Noun
+2061,تِبْيَٰن,tiboya`n,1,Noun
+2062,تَبِيع,tabiyE,1,Noun
+2063,تَتْبِيب,tatobiyb,1,Noun
+2064,تَتْرَا,tatoraA,1,Noun
+2065,تَثْرِيب,tavoriyb,1,Noun
+2066,تَحَاوُر,taHaAwur,1,Noun
+2067,تَحَصُّن,taHaS~un,1,Noun
+2068,تَحِلَّة,taHil~ap,1,Noun
+2069,تَخَاصُم,taxaASum,1,Noun
+2070,تَخْسِير,taxosiyr,1,Noun
+2071,تَخْفِيف,taxofiyf,1,Noun
+2072,تَخَوُّف,taxaw~uf,1,Noun
+2073,تَخْوِيف,taxowiyf,1,Noun
+2074,تَذْكِير,ta*okiyr,1,Noun
+2075,تَذْلِيل,ta*oliyl,1,Noun
+2076,تَّرَآئِب,t~araA^}ib,1,Noun
+2077,تُّرَاث,t~uraAv,1,Noun
+2078,تَّرَاقِى,t~araAqiY,1,Noun
+2079,تَرَبُّص,tarab~uS,1,Noun
+2080,تَسْرِيح,tasoriyH,1,Noun
+2081,تَسْمِيَة,tasomiyap,1,Noun
+2082,تَسْنِيم,tasoniym,1,Noun
+2083,تَشَاوُر,ta$aAwur,1,Noun
+2084,تَصْدِيَة,taSodiyap,1,Noun
+2085,تَصْلِيَة,taSoliyap,1,Noun
+2086,تَضْلِيل,taDoliyl,1,Noun
+2087,تَطْهِير,taTohiyr,1,Noun
+2088,تَعْس,taEos,1,Noun
+2089,تَّعَفُّف,t~aEaf~uf,1,Noun
+2090,تَّغَابُن,t~agaAbun,1,Noun
+2091,تَغَيُّظ,tagay~uZ,1,Noun
+2092,تَفَاخُر,tafaAxur,1,Noun
+2093,تَفَٰوُت,tafa`wut,1,Noun
+2094,تَفَث,tafav,1,Noun
+2095,تَفْرِيق,taforiyq,1,Noun
+2096,تَفْسِير,tafosiyr,1,Noun
+2097,تَقْتِيل,taqotiyl,1,Noun
+2098,تَقْوِيم,taqowiym,1,Noun
+2099,تُقَىٰة,tuqaY`p,1,Noun
+2100,تَكْبِير,takobiyr,1,Noun
+2101,تَكْذِيب,tako*iyb,1,Noun
+2102,تَكْلِيم,takoliym,1,Noun
+2103,تَّلَاق,t~alaAq,1,Noun
+2104,تِلَاوَت,tilaAwat,1,Noun
+2105,تَمَام,tamaAm,1,Noun
+2106,تَمْهِيد,tamohiyd,1,Noun
+2107,تَّنَاد,t~anaAd,1,Noun
+2108,تَّنَاوُش,t~anaAwu$,1,Noun
+2109,تَنكِيل,tankiyl,1,Noun
+2110,تَّهْلُكَة,t~aholukap,1,Noun
+2111,تَّوْب,t~awob,1,Noun
+2112,تَوْصِيَة,tawoSiyap,1,Noun
+2113,تَوْكِيد,tawokiyd,1,Noun
+2114,تِّين,t~iyn,1,Noun
+2115,ثَّالِثَة,v~aAlivap,1,Noun
+2116,ثَامِن,vaAmin,1,Noun
+2117,ثَاوِي,vaAwiy,1,Noun
+2118,ثُبَات,vubaAt,1,Noun
+2119,ثُبُوت,vubuwt,1,Noun
+2120,ثَجَّاج,vaj~aAj,1,Adjective
+2121,ثَّرَىٰ,v~araY`,1,Noun
+2122,ثَمَٰنِى,vama`niY,1,Noun
+2123,ثَمَٰنِين,vama`niyn,1,Noun
+2124,ثَمَرَة,vamarap,1,Noun
+2125,ثُّمُن,v~umun,1,Noun
+2126,ثَيِّبَٰت,vay~iba`t,1,Adjective
+2127,جَآئِر,jaA^}ir,1,Noun
+2128,جَاثِيَة,jaAviyap,1,Noun
+2129,جَٰرِيَٰت,ja`riya`t,1,Noun
+2130,جَاز,jaAz,1,Noun
+2131,جَامِدَة,jaAmidap,1,Noun
+2132,جَٰهِلِيَّة,ja`hiliy~ap,1,Noun
+2133,جِبَاه,jibaAh,1,Noun
+2134,جِبْت,jibot,1,Noun
+2135,جَبِين,jabiyn,1,Noun
+2136,جَدّ,jad~,1,Noun
+2137,جُدَد,judad,1,Noun
+2138,جُدُر,judur,1,Noun
+2139,جُذَٰذ,ju*a`*,1,Noun
+2140,جَذْوَة,ja*owap,1,Noun
+2141,جُرُف,juruf,1,Noun
+2142,جُرُوح,juruwH,1,Noun
+2143,جَزُوع,jazuwE,1,Noun
+2144,جِزْيَة,jizoyap,1,Noun
+2145,جُفَآء,jufaA^',1,Noun
+2146,جِفَان,jifaAn,1,Noun
+2147,جَلَآء,jalaA^',1,Noun
+2148,جَلَٰبِيب,jala`biyb,1,Noun
+2149,جَمّ,jam~,1,Adjective
+2150,جَمَال,jamaAl,1,Noun
+2151,جِمَٰلَت,jima`lat,1,Noun
+2152,جُمُعَة,jumuEap,1,Proper noun
+2153,جَمَل,jamal,1,Noun
+2154,جُمْلَة,jumolap,1,Noun
+2155,جَنَف,janaf,1,Noun
+2156,جَنِيّ,janiy~,1,Adjective
+2157,جَنَى,janaY,1,Noun
+2158,جِهَار,jihaAr,1,Noun
+2159,جُهْد,juhod,1,Noun
+2160,جَهُول,jahuwl,1,Adjective
+2161,جَوّ,jaw~,1,Noun
+2162,جَوَاب,jawaAb2,1,Noun
+2163,جَوَارِح,jawaAriH,1,Noun
+2164,جُودِىّ,juwdiY~,1,Proper noun
+2165,جَوْف,jawof,1,Noun
+2166,جِيَاد,jiyaAd,1,Adjective
+2167,جِيد,jiyd,1,Noun
+2168,حَآجّ,HaA^j~,1,Noun
+2169,حَآفِّين,HaA^f~iyn,1,Noun
+2170,حَاجِز,HaAjiz,1,Noun
+2171,حَٰجِزِين,Ha`jiziyn,1,Adjective
+2172,حَٰذِرُون,Ha`*iruwn,1,Noun
+2173,حَاسِد,HaAsid,1,Noun
+2174,حَاضِر,HaADir,1,Noun
+2175,حَاضِرِى,HaADiriY,1,Noun
+2176,حَافِرَة,HaAfirap,1,Noun
+2177,حَام,HaAm,1,Noun
+2178,حَٰمِدُون,Ha`miduwn,1,Noun
+2179,حَٰمِلَٰت,Ha`mila`t,1,Noun
+2180,حَٰمِلِين,Ha`miliyn,1,Noun
+2181,حُبُك,Hubuk,1,Noun
+2182,حَتْم,Hatom,1,Noun
+2183,حَثِيث,Haviyv,1,Noun
+2184,حِجّ,Hij~,1,Noun
+2185,حِجَج,Hijaj,1,Noun
+2186,حُجُرَٰت,Hujura`t,1,Noun
+2187,حُجُور,Hujuwr,1,Noun
+2188,حِدَاد,HidaAd,1,Noun
+2189,حَدَب,Hadab,1,Noun
+2190,حَرْد,Harod,1,Noun
+2191,حَرَس,Haras,1,Noun
+2192,حَرَض,HaraD,1,Noun
+2193,حَرْف,Harof,1,Noun
+2194,حَرُور,Haruwr,1,Noun
+2195,حَرِيص,HariyS,1,Noun
+2196,حَسَد,Hasad,1,Noun
+2197,حَسْرَت,Hasorat,1,Noun
+2198,حَسْرَتَىٰ,HasorataY`,1,Noun
+2199,حُسْنَيَيْن,Husonayayon,1,Adjective
+2200,حُسُوم,Husuwm,1,Adjective
+2201,حَسِير,Hasiyr,1,Noun
+2202,حَسِيس,Hasiys,1,Noun
+2203,حَصَاد,HaSaAd,1,Noun
+2204,حَصَب,HaSab,1,Noun
+2205,حَصُور,HaSuwr,1,Noun
+2206,حُصُون,HuSuwn,1,Noun
+2207,حَصِير,HaSiyr,1,Noun
+2208,حَفَدَة,Hafadap,1,Noun
+2209,حُفْرَة,Huforap,1,Noun
+2210,حُقُب,Huqub,1,Noun
+2211,حَقِيق,Haqiyq,1,Noun
+2212,حُكَّام,Huk~aAm,1,Noun
+2213,حَلَٰٓئِل,Hala`^}il,1,Noun
+2214,حَلَّاف,Hal~aAf,1,Noun
+2215,حُلْقُوم,Huloquwm,1,Noun
+2216,حُلِيّ,Huliy~,1,Noun
+2217,حَمَّالَة,Ham~aAlap,1,Noun
+2218,حُمْر,Humor,1,Noun
+2219,حَمُولَة,Hamuwlap,1,Noun
+2220,حَمِئَة,Hami}ap,1,Adjective
+2221,حَنَان,HanaAn,1,Noun
+2222,حِنث,Hinv,1,Noun
+2223,حَنِيذ,Haniy*,1,Adjective
+2224,حُنَيْن,Hunayon,1,Proper noun
+2225,حَوَايَآ,HawaAyaA^,1,Noun
+2226,حُوب,Huwb,1,Noun
+2227,حِوَل,Hiwal,1,Noun
+2228,حَيْرَان,HayoraAn,1,Noun
+2229,حِيلَة,Hiylap,1,Noun
+2230,حَيَوَان,HayawaAn,1,Noun
+2231,حَيَّة,Hay~ap,1,Noun
+2232,خَآصَّة,xaA^S~ap,1,Noun
+2233,خَآئِبِين,xaA^}ibiyn,1,Noun
+2234,خَآئِضِين,xaA^}iDiyn,1,Noun
+2235,خَاتَم,xaAtam,1,Noun
+2236,خَٰدِع,xa`diE,1,Noun
+2237,خَٰزِنِين,xa`ziniyn,1,Noun
+2238,خَاسِرَة,xaAsirap,1,Adjective
+2239,خَٰضِعِين,xa`DiEiyn,1,Noun
+2240,خَافِضَة,xaAfiDap,1,Noun
+2241,خَافِيَة,xaAfiyap,1,Noun
+2242,خَٰلِفِين,xa`lifiyn,1,Noun
+2243,خَالِيَة,xaAliyap,1,Adjective
+2244,خُبْز,xuboz,1,Noun
+2245,خَبْء,xabo',1,Noun
+2246,خَتَّار,xat~aAr,1,Adjective
+2247,خِتَٰم,xita`m,1,Noun
+2248,خَدّ,xad~,1,Noun
+2249,خَذُول,xa*uwl,1,Adjective
+2250,خَرَاب,xaraAb,1,Noun
+2251,خَرَاج,xaraAj,1,Noun
+2252,خَرَّٰصُون,xar~a`Suwn,1,Noun
+2253,خُرْطُوم,xuroTuwm,1,Noun
+2254,خُشُب,xu$ub,1,Noun
+2255,خُشُوع,xu$uwE,1,Noun
+2256,خَصَاصَة,xaSaASap,1,Noun
+2257,خَصِمُون,xaSimuwn,1,Adjective
+2258,خَضِر,xaDir,1,Noun
+2259,خِطْبَة,xiTobap,1,Noun
+2260,خَطْفَة,xaTofap,1,Noun
+2261,خِطْـٔ,xiTo_#,1,Noun
+2262,خُلَطَآء,xulaTaA^',1,Noun
+2263,خِلْفَة,xilofap,1,Noun
+2264,خُلُود,xuluwd,1,Noun
+2265,خُلَّة,xul~ap,1,Noun
+2266,خُمُر,xumur,1,Noun
+2267,خُمُس,xumus,1,Noun
+2268,خَمْط,xamoT,1,Adjective
+2269,خَنَّاس,xan~aAs,1,Adjective
+2270,خُنَّس,xun~as,1,Noun
+2271,خِيَاط,xiyaAT,1,Noun
+2272,خِيَام,xiyaAm,1,Noun
+2273,دَآئِبَيْن,daA^}ibayon,1,Noun
+2274,دَأَب,da>ab,1,Noun
+2275,دَاحِضَة,daAHiDap,1,Noun
+2276,دَافِق,daAfiq,1,Adjective
+2277,دَان,daAn,1,Noun
+2278,دُحُور,duHuwr,1,Noun
+2279,دِرَاسَت,diraAsat,1,Noun
+2280,دَرَٰهِم,dara`him,1,Noun
+2281,دَّرْك,d~arok,1,Noun
+2282,دَرَك,darak,1,Noun
+2283,دُرِّىّ,dur~iY~,1,Adjective
+2284,دُسُر,dusur,1,Noun
+2285,دَعّ,daE~,1,Noun
+2286,دِفْء,difo',1,Noun
+2287,دَكَّآء,dak~aA^',1,Noun
+2288,دَكَّة,dak~ap,1,Noun
+2289,دَلْو,dalow,1,Noun
+2290,دُلُوك,duluwk,1,Noun
+2291,دَلِيل,daliyl,1,Noun
+2292,دِهَاق,dihaAq,1,Adjective
+2293,دِّهَان,d~ihaAn,1,Noun
+2294,دُّهْن,d~uhon,1,Noun
+2295,دَّوَآئِر,d~awaA^}ir,1,Noun
+2296,دُولَة,duwlap,1,Noun
+2297,دَيَّار,day~aAr,1,Noun
+2298,دِينَار,diynaAr,1,Noun
+2299,ذَّٰرِيَٰت,*~a`riya`t,1,Noun
+2300,ذَّٰكِرَٰت,*~a`kira`t,1,Noun
+2301,ذَٰنِك,*a`nik,1,Demonstrative pronoun
+2302,ذَاهِب,*aAhib,1,Noun
+2303,ذِبْح,*iboH,1,Noun
+2304,ذَرْو,*arow,1,Noun
+2305,ذُلُل,*ulul,1,Noun
+2306,ذَهَاب,*ahaAb,1,Noun
+2307,رَآدِّى,raA^d~iY,1,Noun
+2308,رَّابِي,r~aAbiy,1,Noun
+2309,رَّابِيَة,r~aAbiyap,1,Adjective
+2310,رَّاجِفَة,r~aAjifap,1,Noun
+2311,رَّادِفَة,r~aAdifap,1,Noun
+2312,رَّٰشِدُون,r~a`$iduwn,1,Noun
+2313,رَافِع,raAfiE,1,Noun
+2314,رَّافِعَة,r~aAfiEap,1,Noun
+2315,رَاق,raAq,1,Noun
+2316,رِّب,r~ib,1,Noun
+2317,رُّب,r~ub,1,Noun
+2318,رَبَٰٓئِب,raba`^}ib,1,Noun
+2319,رِّبَاط,r~ibaAT,1,Noun
+2320,رِبِّيُّون,rib~iy~uwn,1,Noun
+2321,رَتْق,ratoq,1,Noun
+2322,رَجّ,raj~,1,Noun
+2323,رُّجْز,r~ujoz,1,Noun
+2324,رُّجْعَىٰٓ,r~ujoEaY`^,1,Noun
+2325,رَجِل,rajil,1,Noun
+2326,رَجْم,rajom,1,Noun
+2327,رُجُوم,rujuwm,1,Noun
+2328,رِحْلَة,riHolap,1,Noun
+2329,رُحْم,ruHom,1,Noun
+2330,رَّحِيق,r~aHiyq,1,Noun
+2331,رُخَآء,ruxaA^',1,Noun
+2332,رَدْم,radom,1,Noun
+2333,رِدْء,rido',1,Noun
+2334,رَّزَّاق,r~az~aAq,1,Noun
+2335,رَضِيّ,raDiy~,1,Noun
+2336,رُطَب,ruTab,1,Noun
+2337,رَطْب,raTob,1,Noun
+2338,رِّعَآء,r~iEaA^',1,Noun
+2339,رِعَايَت,riEaAyat,1,Noun
+2340,رَغَب,ragab,1,Noun
+2341,رِّفْد,r~ifod,1,Noun
+2342,رَفْرَف,raforaf,1,Noun
+2343,رَفِيع,rafiyE,1,Adjective
+2344,رَفِيق,rafiyq,1,Noun
+2345,رَقّ,raq~,1,Noun
+2346,رُقُود,ruquwd,1,Noun
+2347,رُقِيّ,ruqiy~,1,Noun
+2348,رَّقِيم,r~aqiym,1,Noun
+2349,رِكَاب,rikaAb,1,Noun
+2350,رُكَام,rukaAm,1,Noun
+2351,رَّكْب,r~akob,1,Noun
+2352,رُكْبَان,rukobaAn,1,Noun
+2353,رِكْز,rikoz,1,Noun
+2354,رَكُوب,rakuwb,1,Noun
+2355,رِمَاح,rimaAH,1,Noun
+2356,رَمَاد,ramaAd,1,Noun
+2357,رَمْز,ramoz,1,Noun
+2358,رَمَضَان,ramaDaAn,1,Proper noun
+2359,رِهَٰن,riha`n,1,Noun
+2360,رَهَب,rahab,1,Noun
+2361,رَّهْب,r~ahob,1,Noun
+2362,رَهْبَانِيَّة,rahobaAniy~ap,1,Noun
+2363,رَهْبَة,rahobap,1,Noun
+2364,رَهْو,rahow,1,Noun
+2365,رَهِين,rahiyn,1,Noun
+2366,رَهِينَة,rahiynap,1,Noun
+2367,رَوَاح,rawaAH,1,Noun
+2368,رَوَاكِد,rawaAkid,1,Noun
+2369,رَوْضَات,rawoDaAt,1,Noun
+2370,رَوْضَة,rawoDap,1,Noun
+2371,رَّوْع,r~awoE,1,Noun
+2372,رُّوم,r~uwm,1,Proper noun
+2373,رُوَيْد,ruwayod,1,Noun
+2374,رِيبَة,riybap,1,Noun
+2375,رِيش,riy$,1,Noun
+2376,رِيع,riyE,1,Noun
+2377,رِءْي,ri'oy,1,Noun
+2378,زَّٰجِرَٰت,z~a`jira`t,1,Noun
+2379,زَّاد,z~aAd,1,Noun
+2380,زَّٰرِعُون,z~a`riEuwn,1,Noun
+2381,زَّٰهِدِين,z~a`hidiyn,1,Noun
+2382,زَاهِق,zaAhiq,1,Noun
+2383,زَّبَانِيَة,z~abaAniyap,1,Noun
+2384,زُبَر,zubar,1,Noun
+2385,زَجْر,zajor,1,Noun
+2386,زَحْف,zaHof,1,Noun
+2387,زَرَابِىّ,zaraAbiY~,1,Noun
+2388,زُّرَّاع,z~ur~aAE,1,Noun
+2389,زُرْق,zuroq,1,Noun
+2390,زَكِيّ,zakiy~,1,Adjective
+2391,زَكِيَّة,zakiy~ap,1,Noun
+2392,زَلْزَلَة,zalozalap,1,Noun
+2393,زَلَق,zalaq,1,Noun
+2394,زَمْهَرِير,zamohariyr,1,Noun
+2395,زَنجَبِيل,zanjabiyl,1,Noun
+2396,زِّنَىٰٓ,z~inaY`^,1,Noun
+2397,زَنِيم,zaniym,1,Noun
+2398,زَهْرَة,zahorap,1,Noun
+2399,زَهُوق,zahuwq,1,Noun
+2400,زَوَال,zawaAl,1,Noun
+2401,زَيْت,zayot,1,Noun
+2402,زَيْتُونَة,zayotuwnap,1,Noun
+2403,زَيْد,zayod,1,Proper noun
+2404,زَيْغ,zayog,1,Noun
+2405,سَآئِبَة,saA^}ibap,1,Noun
+2406,سَٰٓئِحَٰت,sa`^}iHa`t,1,Adjective
+2407,سَّٰٓئِحُون,s~a`^}iHuwn,1,Noun
+2408,سَآئِق,saA^}iq,1,Noun
+2409,سَّٰبِحَٰت,s~a`biHa`t,1,Noun
+2410,سَٰبِغَٰت,sa`biga`t,1,Noun
+2411,سَّٰبِقَٰت,s~a`biqa`t,1,Noun
+2412,سَاحَت,saAHat,1,Noun
+2413,سَّاحِل,s~aAHil,1,Noun
+2414,سَّٰخِرِين,s~a`xiriyn,1,Noun
+2415,سَارِب,saArib,1,Noun
+2416,سَّارِقَة,s~aAriqap,1,Noun
+2417,سَاقِط,saAqiT,1,Noun
+2418,سَاكِن,saAkin,1,Noun
+2419,سَٰلِمُون,sa`limuwn,1,Noun
+2420,سَٰمِدُون,sa`miduwn,1,Noun
+2421,سَٰمِر,sa`mir,1,Noun
+2422,سَّاهِرَة,s~aAhirap,1,Noun
+2423,سَّبُع,s~abuE,1,Noun
+2424,سَبْق,saboq,1,Noun
+2425,سِتْر,sitor,1,Noun
+2426,سِتِّين,sit~iyn,1,Noun
+2427,سِّجِلّ,s~ijil~,1,Noun
+2428,سَحَّار,saH~aAr,1,Noun
+2429,سُحْق,suHoq,1,Noun
+2430,سَحِيق,saHiyq,1,Adjective
+2431,سُخْرِيّ,suxoriy~,1,Noun
+2432,سَخَط,saxaT,1,Noun
+2433,سُدًى,sudFY,1,Noun
+2434,سَّرَآئِر,s~araA^}ir,1,Noun
+2435,سُرَادِق,suraAdiq,1,Noun
+2436,سَرَب,sarab,1,Noun
+2437,سَّرْد,s~arod,1,Noun
+2438,سُرُور,suruwr,1,Noun
+2439,سَرِيّ,sariy~,1,Noun
+2440,سَعِيد,saEiyd,1,Noun
+2441,سَفَرَة,safarap,1,Noun
+2442,سُّفْلَىٰ,s~ufolaY`,1,Noun
+2443,سَفَه,safah,1,Noun
+2444,سُقْيَٰ,suqoya`,1,Noun
+2445,سَكَر,sakar,1,Noun
+2446,سِكِّين,sik~iyn,1,Noun
+2447,سَلْسَبِيل,salosabiyl,1,Proper noun
+2448,سَلَف,salaf,1,Noun
+2449,سِّلْم,s~ilom,1,Proper noun
+2450,سَمّ,sam~,1,Noun
+2451,سَمْك,samok,1,Noun
+2452,سَنَا,sanaA,1,Noun
+2453,سُنبُل,sunbul,1,Noun
+2454,سِنَة,sinap,1,Noun
+2455,سُهُول,suhuwl,1,Noun
+2456,سُوَاع,suwaAE,1,Proper noun
+2457,سُؤَال,su&aAl,1,Noun
+2458,سُّوٓأَىٰٓ,s~uw^>aY`^,1,Noun
+2459,سُود,suwd,1,Adjective
+2460,سُور,suwr,1,Noun
+2461,سَوْط,sawoT,1,Noun
+2462,سُؤْل,su&ol,1,Noun
+2463,سُوًى,suwFY,1,Adjective
+2464,سِيرَت,siyrat,1,Noun
+2465,سَيْنَآء,sayonaA^',1,Proper noun
+2466,سِينِين,siyniyn,1,Proper noun
+2467,شَٰخِصَة,$a`xiSap,1,Noun
+2468,شَٰطِئ,$a`Ti},1,Noun
+2469,شَاكِلَت,$aAkilat,1,Noun
+2470,شَٰمِخَٰت,$a`mixa`t,1,Adjective
+2471,شَانِئ,$aAni},1,Noun
+2472,شِّتَآء,$~itaA^',1,Noun
+2473,شُحُوم,$uHuwm,1,Noun
+2474,شُرْب,$urob,1,Noun
+2475,شِرْذِمَة,$iro*imap,1,Noun
+2476,شَرَر,$arar,1,Noun
+2477,شُرَّع,$ur~aE,1,Noun
+2478,شِرْعَة,$iroEap,1,Noun
+2479,شَرْقِيّ,$aroqiy~,1,Adjective
+2480,شَرْقِيَّة,$aroqiy~ap,1,Noun
+2481,شَرِيعَة,$ariyEap,1,Noun
+2482,شَطْـٔ,$aTo_#,1,Noun
+2483,شُعَب,$uEab,1,Noun
+2484,شِّعْرَىٰ,$~iEoraY`,1,Proper noun
+2485,شُعُوب,$uEuwb,1,Noun
+2486,شُغُل,$ugul,1,Noun
+2487,شَفَتَيْن,$afatayon,1,Noun
+2488,شَّفْع,$~afoE,1,Noun
+2489,شَّفَق,$~afaq,1,Noun
+2490,شِقّ,$iq~,1,Noun
+2491,شَقّ,$aq~,1,Noun
+2492,شِقْوَت,$iqowat,1,Noun
+2493,شُّقَّة,$~uq~ap,1,Noun
+2494,شُكْر,$ukor,1,Noun
+2495,شَكْل,$akol,1,Noun
+2496,شُهُب,$uhub,1,Noun
+2497,شُوَاظ,$uwaAZ,1,Noun
+2498,شَوْب,$awob,1,Noun
+2499,شُورَىٰ,$uwraY`,1,Noun
+2500,شَّوْكَة,$~awokap,1,Noun
+2501,شَّوَىٰ,$~awaY`,1,Noun
+2502,شِيب,$iyb,1,Noun
+2503,شَيْب,$ayob,1,Noun
+2504,شَيْبَة,$ayobap,1,Noun
+2505,شِيَة,$iyap,1,Noun
+2506,صَّآخَّة,S~aA^x~ap,1,Noun
+2507,صَّآفُّون,S~aA^f~uwn,1,Noun
+2508,صَّٰٓئِمَٰت,S~a`^}ima`t,1,Noun
+2509,صَّٰٓئِمِين,S~a`^}imiyn,1,Noun
+2510,صَّٰبِرَٰت,S~a`bira`t,1,Noun
+2511,صَابِرَة,SaAbirap,1,Adjective
+2512,صَّٰدِقَٰت,S~a`diqa`t,1,Noun
+2513,صَٰرِمِين,Sa`rimiyn,1,Noun
+2514,صَّٰفِنَٰت,S~a`fina`t,1,Noun
+2515,صَال,SaAl,1,Noun
+2516,صَٰمِتُون,Sa`mituwn,1,Noun
+2517,صَبّ,Sab~,1,Noun
+2518,صَبَاح,SabaAH,1,Noun
+2519,صِبْغ,Sibog,1,Noun
+2520,صِحَاف,SiHaAf,1,Noun
+2521,صَّخْر,S~axor,1,Noun
+2522,صَّدْع,S~adoE,1,Noun
+2523,صَّدَفَيْن,S~adafayon,1,Noun
+2524,صَدُقَٰت,Saduqa`t,1,Noun
+2525,صُدُود,Suduwd,1,Noun
+2526,صَدِيد,Sadiyd,1,Adjective
+2527,صِدِّيقَة,Sid~iyqap,1,Noun
+2528,صِرّ,Sir~,1,Noun
+2529,صَرْعَىٰ,SaroEaY`,1,Noun
+2530,صَرْف,Sarof,1,Noun
+2531,صَرِيخ,Sariyx,1,Noun
+2532,صَّرِيم,S~ariym,1,Noun
+2533,صَرَّة,Sar~ap,1,Noun
+2534,صَعَد,SaEad,1,Adjective
+2535,صَعِق,SaEiq,1,Noun
+2536,صَعُود,SaEuwd,1,Noun
+2537,صَغَار,SagaAr,1,Noun
+2538,صَّفَا,S~afaA,1,Proper noun
+2539,صُفْر,Sufor,1,Adjective
+2540,صَفْرَآء,SaforaA^',1,Adjective
+2541,صَفْصَف,SafoSaf,1,Adjective
+2542,صَفْوَان,SafowaAn,1,Noun
+2543,صَلْد,Salod,1,Noun
+2544,صِلِيّ,Siliy~,1,Noun
+2545,صَّمَد,S~amad,1,Noun
+2546,صَنْعَة,SanoEap,1,Noun
+2547,صِهْر,Sihor,1,Noun
+2548,صَوَآفّ,SawaA^f~,1,Noun
+2549,صَوَاب,SawaAb,1,Noun
+2550,صُوَاع,SuwaAE,1,Noun
+2551,صَوَٰمِع,Sawa`miE,1,Noun
+2552,صَوْم,Sawom,1,Noun
+2553,صَيَاصِي,SayaASiy,1,Noun
+2554,صَيِّب,Say~ib,1,Noun
+2555,صَّيْف,S~ayof,1,Noun
+2556,ضَآئِق,DaA^}iq,1,Noun
+2557,ضَاحِك,DaAHik,1,Noun
+2558,ضَاحِكَة,DaAHikap,1,Noun
+2559,ضَامِر,DaAmir,1,Noun
+2560,ضَّأْن,D~a>on,1,Noun
+2561,ضَبْح,DaboH,1,Noun
+2562,ضِدّ,Did~,1,Noun
+2563,ضَّرَر,D~arar,1,Noun
+2564,ضَرِيع,DariyE,1,Noun
+2565,ضِعَٰف,DiEa`f,1,Adjective
+2566,ضَّفَادِع,D~afaAdiE,1,Noun
+2567,ضَنك,Dank,1,Adjective
+2568,ضَنِين,Daniyn,1,Noun
+2569,ضَيْر,Dayor,1,Noun
+2570,ضِيزَىٰٓ,DiyzaY`^,1,Adjective
+2571,طَّآمَّة,T~aA^m~ap,1,Noun
+2572,طَآئِعِين,TaA^}iEiyn,1,Noun
+2573,طَاعِم,TaAEim,1,Noun
+2574,طَّاغِيَة,T~aAgiyap,1,Noun
+2575,طَّالِب,T~aAlib,1,Noun
+2576,طَعْم,TaEom,1,Noun
+2577,طَعْن,TaEon,1,Noun
+2578,طَغْوَىٰ,TagowaY`,1,Noun
+2579,طَلّ,Tal~,1,Noun
+2580,طَلَب,Talab,1,Noun
+2581,طَلْح,TaloH,1,Noun
+2582,طَوَّٰفُون,Taw~a`fuwn,1,Noun
+2583,طُوبَىٰ,TuwbaY`,1,Noun
+2584,طَّوْد,T~awod,1,Noun
+2585,طُول,Tuwl,1,Noun
+2586,طَىّ,TaY~,1,Noun
+2587,ظَّآنِّين,Z~aA^n~iyn,1,Adjective
+2588,ظَعْن,ZaEon,1,Noun
+2589,ظُفُر,Zufur,1,Noun
+2590,ظَمَأ,Zama>,1,Noun
+2591,ظَّمْـَٔان,Z~amo_#aAn,1,Noun
+2592,ظِهْرِيّ,Zihoriy~,1,Noun
+2593,ظَّهِيرَة,Z~ahiyrap,1,Noun
+2594,عَآدِّين,EaA^d~iyn,1,Noun
+2595,عَآئِدُون,EaA^}iduwn,1,Noun
+2596,عَآئِل,EaA^}il,1,Noun
+2597,عَٰبِدَٰت,Ea`bida`t,1,Adjective
+2598,عَابِرِى,EaAbiriY,1,Noun
+2599,عَاتِيَة,EaAtiyap,1,Adjective
+2600,عَٰدِيَٰت,Ea`diya`t,1,Noun
+2601,عَٰصِفَٰت,Ea`Sifa`t,1,Noun
+2602,عَاصِفَة,EaASifap,1,Noun
+2603,عَافِين,EaAfiyn,1,Noun
+2604,عَال,EaAl,1,Noun
+2605,عَامِلَة,EaAmilap,1,Adjective
+2606,عَبَث,Eabav,1,Noun
+2607,عَبْقَرِىّ,EaboqariY~,1,Noun
+2608,عَبُوس,Eabuws,1,Adjective
+2609,عُتُلّ,Eutul~,1,Adjective
+2610,عُجَاب,EujaAb,1,Adjective
+2611,عَجَل,Eajal,1,Noun
+2612,عَجُول,Eajuwl,1,Adjective
+2613,عَدَس,Eadas,1,Noun
+2614,عُدَّة,Eud~ap,1,Noun
+2615,عُرُب,Eurub,1,Adjective
+2616,عُرْجُون,Eurojuwn,1,Noun
+2617,عُرْضَة,EuroDap,1,Noun
+2618,عَرَفَٰت,Earafa`t,1,Proper noun
+2619,عَرِم,Earim,1,Noun
+2620,عَرِيض,EariyD,1,Adjective
+2621,عِزّ,Eiz~,1,Noun
+2622,عُزَيْر,Euzayor,1,Proper noun
+2623,عِزِين,Eiziyn,1,Noun
+2624,عَسِر,Easir,1,Adjective
+2625,عُسْرَىٰ,EusoraY`,1,Noun
+2626,عَسَل,Easal,1,Noun
+2627,عِشَار,Ei$aAr,1,Noun
+2628,عِشْرُون,Ei$oruwn,1,Noun
+2629,عَشِير,Ea$iyr,1,Noun
+2630,عَشِيَّة,Ea$iy~ap,1,Noun
+2631,عَصْر,EaSor,1,Noun
+2632,عَصْف,EaSof2,1,Noun
+2633,عِصَم,EiSam,1,Noun
+2634,عِصْيَان,EiSoyaAn,1,Noun
+2635,عَصِيب,EaSiyb,1,Adjective
+2636,عِضِين,EiDiyn,1,Noun
+2637,عِطْف,EiTof,1,Noun
+2638,عِفْرِيت,Eiforiyt,1,Noun
+2639,عُقْب,Euqob,1,Noun
+2640,عُقُود,Euquwd,1,Noun
+2641,عَلَٰمَٰت,Eala`ma`t,1,Noun
+2642,عَلَق,Ealaq,1,Noun
+2643,عِمَاد,EimaAd,1,Noun
+2644,عِمَارَة,EimaArap,1,Noun
+2645,عَمْر,Eamor,1,Noun
+2646,عَمِيق,Eamiyq,1,Adjective
+2647,عَنَت,Eanat,1,Noun
+2648,عَوَان,EawaAn,1,Noun
+2649,عِيد,Eiyd,1,Noun
+2650,عَيْلَة,Eayolap,1,Noun
+2651,غَآئِبَة,gaA^}ibap,1,Noun
+2652,غَآئِظُون,gaA^}iZuwn,1,Noun
+2653,غَار,gaAr,1,Noun
+2654,غَٰرِمِين,ga`rimiyn,1,Noun
+2655,غَاسِق,gaAsiq,1,Noun
+2656,غَٰفِلَٰت,ga`fila`t,1,Adjective
+2657,غَبَرَة,gabarap,1,Noun
+2658,غَدَآء,gadaA^',1,Noun
+2659,غَدَق,gadaq,1,Adjective
+2660,غَرَابِيب,garaAbiyb,1,Noun
+2661,غَرَام,garaAm,1,Noun
+2662,غَرْبِىّ,garobiY~,1,Adjective
+2663,غَرْبِيَّة,garobiy~ap,1,Noun
+2664,غُرُفَٰت,gurufa`t,1,Noun
+2665,غَرَق,garaq,1,Noun
+2666,غَرْق,garoq,1,Noun
+2667,غَزْل,gazol,1,Noun
+2668,غُزًّى,guz~FY,1,Noun
+2669,غَسَق,gasaq,1,Noun
+2670,غِسْلِين,gisoliyn,1,Noun
+2671,غَصْب,gaSob,1,Noun
+2672,غُصَّة,guS~ap,1,Noun
+2673,غُفْرَان,guforaAn,1,Noun
+2674,غُلْب,gulob,1,Adjective
+2675,غَلَب,galab,1,Noun
+2676,غِلْظَة,giloZap,1,Noun
+2677,غَلْى,galoY,1,Noun
+2678,غَمَرَٰت,gamara`t,1,Noun
+2679,غُمَّة,gum~ap,1,Noun
+2680,غَوَّاص,gaw~aAS,1,Noun
+2681,غَوْل,gawol,1,Noun
+2682,غَوِىّ,gawiY~,1,Noun
+2683,فَا,faA,1,Noun
+2684,فَٰتِحِين,fa`tiHiyn,1,Noun
+2685,فَٰتِنِين,fa`tiniyn,1,Noun
+2686,فَاجِر,faAjir,1,Noun
+2687,فَارِض,faAriD,1,Adjective
+2688,فَٰرِغ,fa`rig,1,Noun
+2689,فَٰرِقَٰت,fa`riqa`t,1,Noun
+2690,فَٰرِهِين,fa`rihiyn,1,Noun
+2691,فَٰصِلِين,fa`Siliyn,1,Noun
+2692,فَاقِرَة,faAqirap,1,Noun
+2693,فَاقِع,faAqiE,1,Adjective
+2694,فَان,faAn,1,Noun
+2695,فَتَّاح,fat~aAH,1,Noun
+2696,فَتْرَة,fatorap,1,Noun
+2697,فُتُون,futuwn,1,Noun
+2698,فَتًى,fatFY,1,Noun
+2699,فَتَيَان,fatayaAn,1,Noun
+2700,فُجُور,fujuwr,1,Noun
+2701,فَجْوَة,fajowap,1,Noun
+2702,فَخَّار,fax~aAr,1,Noun
+2703,فِدَآء,fidaA^',1,Noun
+2704,فَرَاش,faraA$,1,Noun
+2705,فَرْث,farov,1,Noun
+2706,فَرْش,faro$,1,Noun
+2707,فُرُط,furuT,1,Noun
+2708,فَرْع,faroE,1,Noun
+2709,فَرْق,faroq,1,Noun
+2710,فِرْق,firoq,1,Noun
+2711,فِرْقَة,firoqap,1,Noun
+2712,فَرِيّ,fariy~,1,Adjective
+2713,فَصِيلَت,faSiylat,1,Noun
+2714,فِطْرَت,fiTorat,1,Noun
+2715,فُطُور,fuTuwr,1,Noun
+2716,فَظّ,faZ~,1,Noun
+2717,فِعْل,fiEol,1,Noun
+2718,فَعْلَت,faEolat,1,Noun
+2719,فَقْر,faqor,1,Noun
+2720,فَكّ,fak~,1,Noun
+2721,فَكِهِين,fakihiyn,1,Noun
+2722,فُلَان,fulaAn,1,Noun
+2723,فَلَق,falaq,1,Noun
+2724,فَوَاق,fawaAq,1,Noun
+2725,فَوْت,fawot,1,Noun
+2726,فَوْر,fawor,1,Noun
+2727,فُوم,fuwm,1,Noun
+2728,فِئَت,fi}at,1,Noun
+2729,فِيل,fiyl,1,Noun
+2730,قَآئِلُون,qaA^}iluwn,1,Noun
+2731,قَاب,qaAb,1,Noun
+2732,قَابِل,qaAbil,1,Noun
+2733,قَاصِد,qaASid,1,Noun
+2734,قَاصِف,qaASif,1,Noun
+2735,قَاض,qaAD,1,Noun
+2736,قَاضِيَة,qaADiyap,1,Noun
+2737,قَاطِعَة,qaATiEap,1,Noun
+2738,قَاع,qaAE,1,Noun
+2739,قَالِين,qaAliyn,1,Noun
+2740,قَٰنِطِين,qa`niTiyn,1,Noun
+2741,قَانِع,qaAniE,1,Noun
+2742,قَبَآئِل,qabaA^}il,1,Noun
+2743,قَبْض,qaboD,1,Noun
+2744,قَبُول,qabuwl,1,Noun
+2745,قَتَر,qatar,1,Noun
+2746,قَتَرَة,qatarap,1,Noun
+2747,قَتْلَى,qatolaY,1,Noun
+2748,قَتُور,qatuwr,1,Adjective
+2749,قِثَّآئ,qiv~aA^},1,Noun
+2750,قَدْح,qadoH,1,Noun
+2751,قِدَد,qidad,1,Adjective
+2752,قُدُور,quduwr,1,Noun
+2753,قُرُبَٰت,quruba`t,1,Noun
+2754,قُرْبَة,qurobap,1,Noun
+2755,قُرُوٓء,quruw^',1,Noun
+2756,قُرَيْش,qurayo$,1,Proper noun
+2757,قَسْوَرَة,qasowarap,1,Noun
+2758,قَسْوَة,qasowap,1,Noun
+2759,قِسِّيسِين,qis~iysiyn,1,Noun
+2760,قَصْد,qaSod,1,Noun
+2761,قُصْوَىٰ,quSowaY`,1,Adjective
+2762,قَصِيّ,qaSiy~,1,Adjective
+2763,قَضْب,qaDob,1,Noun
+2764,قِطّ,qiT~,1,Noun
+2765,قَطِرَان,qaTiraAn,1,Noun
+2766,قِطْمِير,qiTomiyr,1,Noun
+2767,قَعِيد,qaEiyd,1,Noun
+2768,قَلِيلَة,qaliylap,1,Adjective
+2769,قَمْطَرِير,qamoTariyr,1,Adjective
+2770,قُمَّل,qum~al,1,Noun
+2771,قِنْوَان,qinowaAn,1,Noun
+2772,قَنُوط,qanuwT,1,Noun
+2773,قَوَام,qawaAm,1,Noun
+2774,قَوْسَيْن,qawosayon,1,Noun
+2775,قِيعَة,qiyEap,1,Noun
+2776,قِيَم,qiyam,1,Adjective
+2777,كَادِح,kaAdiH,1,Noun
+2778,كَٰشِفَٰت,ka`$ifa`t,1,Noun
+2779,كَاشِفَة,kaA$ifap,1,Noun
+2780,كَاف,kaAf,1,Noun
+2781,كَافِرَة,kaAfirap,1,Adjective
+2782,كَافُور,kaAfuwr,1,Noun
+2783,كَٰلِحُون,ka`liHuwn,1,Noun
+2784,كَامِلَيْن,kaAmilayon,1,Adjective
+2785,كُبَّار,kub~aAr,1,Adjective
+2786,كَبَد,kabad,1,Noun
+2787,كُبَرَآء,kubaraA^',1,Noun
+2788,كِتَٰبِى,kita`biY,1,Noun
+2789,كَثِيب,kaviyb,1,Noun
+2790,كَدْح,kadoH,1,Noun
+2791,كَسَاد,kasaAd,1,Noun
+2792,كِسْف,kisof,1,Noun
+2793,كَشْف,ka$of,1,Noun
+2794,كَعْبَيْن,kaEobayon,1,Noun
+2795,كِفَات,kifaAt,1,Noun
+2796,كُفْرَان,kuforaAn,1,Noun
+2797,كُفُو,kufuw,1,Noun
+2798,كَفِيل,kafiyl,1,Noun
+2799,كَلّ,kal~,1,Noun
+2800,كِلَا,kilaA,1,Noun
+2801,كِلْتَا,kilotaA,1,Noun
+2802,كُنَّس,kun~as,1,Adjective
+2803,كَنُود,kanuwd,1,Noun
+2804,كَوَاعِب,kawaAEib,1,Noun
+2805,كَوَافِر,kawaAfir,1,Noun
+2806,كَوْثَر,kawovar,1,Noun
+2807,لَآئِم,laA^}im,1,Noun
+2808,لَّٰبِثِين,l~a`biviyn,1,Noun
+2809,لَّازِب,l~aAzib,1,Noun
+2810,لَّٰعِنُون,l~a`Einuwn,1,Noun
+2811,لَٰغِيَة,la`giyap,1,Noun
+2812,لَٰقِي,la`qiy,1,Noun
+2813,لَاهِيَة,laAhiyap,1,Noun
+2814,لِبَد,libad,1,Noun
+2815,لُّبَد,l~ubad,1,Adjective
+2816,لَبْس,labos,1,Noun
+2817,لَبُوس,labuws,1,Noun
+2818,لُّجِّىّ,l~uj~iY~,1,Adjective
+2819,لُجَّة,luj~ap,1,Noun
+2820,لَحْن,laHon,1,Noun
+2821,لِحْيَت,liHoyat,1,Noun
+2822,لُّدّ,l~ud~,1,Adjective
+2823,لَظَىٰ,laZaY`,1,Proper noun
+2824,لَعْن,laEon,1,Noun
+2825,لَفِيف,lafiyf,1,Noun
+2826,لَّمّ,l~am~,1,Adjective
+2827,لُّمَزَة,l~umazap,1,Noun
+2828,لَّمَم,l~amam,1,Noun
+2829,لَوَّاحَة,law~aAHap,1,Noun
+2830,لِوَاذ,liwaA*,1,Noun
+2831,لَوَٰقِح,lawa`qiH,1,Noun
+2832,لَّوَّامَة,l~aw~aAmap,1,Adjective
+2833,لَوْمَة,lawomap,1,Noun
+2834,لَيّ,lay~,1,Noun
+2835,لَّيِّن,l~ay~in,1,Adjective
+2836,لِّينَة,l~iynap,1,Noun
+2837,مَأْتِيٌّ,ma>otiy~N,1,Noun
+2838,مَّارِج,m~aArij,1,Noun
+2839,مَّارِد,m~aArid,1,Noun
+2840,مَٰرُوت,ma`ruwt,1,Proper noun
+2841,مَاعُون,maAEuwn,1,Noun
+2842,مَّأْكُول,m~a>okuwl,1,Adjective
+2843,مَٰلِك,ma`lik2,1,Proper noun
+2844,مَأْمَن,ma>oman,1,Noun
+2845,مَأْمُون,ma>omuwn,1,Noun
+2846,مَّانِعَت,m~aAniEat,1,Noun
+2847,مَٰهِدُون,ma`hiduwn,1,Noun
+2848,مَبْثُوث,mabovuwv,1,Adjective
+2849,مَبْثُوثَة,mabovuwvap,1,Adjective
+2850,مُبْدِي,mubodiy,1,Noun
+2851,مُبَذِّرِين,muba*~iriyn,1,Noun
+2852,مُبْرِمُون,muborimuwn,1,Noun
+2853,مُبَرَّءُون,mubar~a'uwn,1,Noun
+2854,مَبْسُوطَتَان,mabosuwTataAn,1,Noun
+2855,مُبَشِّرَٰت,muba$~ira`t,1,Noun
+2856,مُبْعَدُون,muboEaduwn,1,Noun
+2857,مَبْلَغ,mabolag,1,Noun
+2858,مَّبْنِيَّة,m~aboniy~ap,1,Noun
+2859,مُبَوَّأ,mubaw~a>,1,Noun
+2860,مُتَبَّر,mutab~ar,1,Noun
+2861,مُتَبَرِّجَٰت,mutabar~ija`t,1,Noun
+2862,مُتَجَانِف,mutajaAnif,1,Noun
+2863,مُّتَجَٰوِرَٰت,m~utaja`wira`t,1,Noun
+2864,مُتَحَرِّف,mutaHar~if,1,Noun
+2865,مُتَحَيِّز,mutaHay~iz,1,Noun
+2866,مُّتَرَاكِب,m~utaraAkib,1,Adjective
+2867,مَتْرَبَة,matorabap,1,Noun
+2868,مُتَرَدِّيَة,mutarad~iyap,1,Noun
+2869,مُتَشَٰكِسُون,muta$a`kisuwn,1,Noun
+2870,مُّتَصَدِّع,m~utaSad~iE,1,Noun
+2871,مُتَصَدِّقَٰت,mutaSad~iqa`t,1,Noun
+2872,مُتَطَهِّرِين,mutaTah~iriyn,1,Noun
+2873,مُتَعَال,mutaEaAl,1,Noun
+2874,مُّتَفَرِّقُون,m~utafar~iquwn,1,Noun
+2875,مُّتَفَرِّقَة,m~utafar~iqap,1,Noun
+2876,مُتَقَلَّب,mutaqal~ab,1,Noun
+2877,مُتَكَلِّفِين,mutakal~ifiyn,1,Noun
+2878,مُتَّكَـٔ,mut~aka_#,1,Noun
+2879,مُتَلَقِّيَان,mutalaq~iyaAn,1,Noun
+2880,مُتِمّ,mutim~,1,Noun
+2881,مُتَنَٰفِسُون,mutana`fisuwn,1,Noun
+2882,مُتَوَسِّمِين,mutawas~imiyn,1,Noun
+2883,مُتَوَفِّي,mutawaf~iy,1,Noun
+2884,مَثَابَة,mavaAbap,1,Noun
+2885,مَثْبُور,mavobuwr,1,Noun
+2886,مُثْقَلَة,muvoqalap,1,Noun
+2887,مَثُلَٰت,mavula`t,1,Noun
+2888,مُثْلَىٰ,muvolaY`,1,Adjective
+2889,مَجَٰلِس,maja`lis,1,Noun
+2890,مُّجْتَمِعُون,m~ujotamiEuwn,1,Noun
+2891,مَجْذُوذ,majo*uw*,1,Noun
+2892,مَجْرىٰ,majorY`,1,Noun
+2893,مَجُوس,majuws,1,Proper noun
+2894,مَّحَٰرِيب,m~aHa`riyb,1,Noun
+2895,مِحَال,miHaAl,1,Noun
+2896,مَحَبَّة,maHab~ap,1,Noun
+2897,مُّحْتَضَر,m~uHotaDar,1,Noun
+2898,مُحْتَظِر,muHotaZir,1,Noun
+2899,مَحْجُوبُون,maHojuwbuwn,1,Noun
+2900,مَحْذُور,maHo*uwr,1,Noun
+2901,مُحَرَّر,muHar~ar,1,Noun
+2902,مُحَرَّمَة,muHar~amap,1,Noun
+2903,مُحْسِنَٰت,muHosina`t,1,Noun
+2904,مَّحْسُور,m~aHosuwr,1,Noun
+2905,مَحْشُورَة,maHo$uwrap,1,Noun
+2906,مُّحَصَّنَة,m~uHaS~anap,1,Adjective
+2907,مَحْظُور,maHoZuwr,1,Noun
+2908,مُّحْكَمَٰت,m~uHokama`t,1,Adjective
+2909,مُّحْكَمَة,m~uHokamap,1,Noun
+2910,مُحَلِّقِين,muHal~iqiyn,1,Noun
+2911,مُحِلِّى,muHil~iY,1,Noun
+2912,مَّحْمُود,m~aHomuwd,1,Noun
+2913,مَخَاض,maxaAD,1,Noun
+2914,مُخْبِتِين,muxobitiyn,1,Noun
+2915,مَّخْتُوم,m~axotuwm,1,Adjective
+2916,مَّخْذُول,m~axo*uwl,1,Noun
+2917,مَخْرَج,maxoraj,1,Noun
+2918,مُخْزِى,muxoziY,1,Noun
+2919,مُخْسِرِين,muxosiriyn,1,Noun
+2920,مُخْضَرَّة,muxoDar~ap,1,Noun
+2921,مَّخْضُود,m~axoDuwd,1,Adjective
+2922,مُخْلِف,muxolif,1,Noun
+2923,مِدَاد,midaAd,1,Noun
+2924,مُدَبِّرَٰت,mudab~ira`t,1,Noun
+2925,مُدَّت,mud~at,1,Noun
+2926,مُدَّثِّر,mud~av~ir,1,Noun
+2927,مُدْحَضِين,mudoHaDiyn,1,Noun
+2928,مُدَّخَل,mud~axal,1,Noun
+2929,مَدَد,madad,1,Noun
+2930,مُدْرَكُون,mudorakuwn,1,Noun
+2931,مُدْهَآمَّتَان,mudohaA^m~ataAn,1,Noun
+2932,مُّدْهِنُون,m~udohinuwn,1,Noun
+2933,مُّذَبْذَبِين,m~u*abo*abiyn,1,Noun
+2934,مُذْعِنِين,mu*oEiniyn,1,Noun
+2935,مُذَكِّر,mu*ak~ir,1,Noun
+2936,مَّذْكُور,m~a*okuwr,1,Adjective
+2937,مَذْءُوم,ma*o'uwm,1,Noun
+2938,مَرّ,mar~,1,Noun
+2939,مِرَآء,miraA^',1,Noun
+2940,مَرَّٰت,mar~a`t,1,Noun
+2941,مَرَاضِع,maraADiE,1,Noun
+2942,مُرَٰغَم,mura`gam,1,Noun
+2943,مَرَافِق,maraAfiq,1,Noun
+2944,مُّرْتَاب,m~urotaAb,1,Adjective
+2945,مُّرْتَقِبُون,m~urotaqibuwn,1,Noun
+2946,مُرْجِفُون,murojifuwn,1,Noun
+2947,مَرْجُوّ,marojuw~,1,Noun
+2948,مَرْجُومِين,marojuwmiyn,1,Noun
+2949,مُرْجَوْن,murojawon,1,Noun
+2950,مَرْحَمَة,maroHamap,1,Noun
+2951,مُرْدِفِين,murodifiyn,1,Noun
+2952,مُرْسَلَٰت,murosala`t,1,Noun
+2953,مُرْسِلَة,murosilap,1,Noun
+2954,مُّرْشِد,m~uro$id,1,Adjective
+2955,مَرْصَد,maroSad,1,Noun
+2956,مَّرْصُوص,m~aroSuwS,1,Adjective
+2957,مُرْضِعَة,muroDiEap,1,Noun
+2958,مَرْضِيّ,maroDiy~,1,Noun
+2959,مَّرْضِيَّة,m~aroDiy~ap,1,Noun
+2960,مِّرْفَق,m~irofaq,1,Noun
+2961,مَرْفُود,marofuwd,1,Noun
+2962,مَرْفُوع,marofuwE,1,Noun
+2963,مَّرْقَد,m~aroqad,1,Noun
+2964,مَّرْكُوم,m~arokuwm,1,Noun
+2965,مَرْوَة,marowap,1,Proper noun
+2966,مَّرِيج,m~ariyj,1,Adjective
+2967,مَّرِيٓـٔ,m~ariy^_#,1,Adjective
+2968,مِرَّة,mir~ap,1,Noun
+2969,مُّزْجَىٰة,m~uzojaY`p,1,Noun
+2970,مُزَحْزِح,muzaHoziH,1,Noun
+2971,مُزْدَجَر,muzodajar,1,Noun
+2972,مُزَّمِّل,muz~am~il,1,Noun
+2973,مُزْن,muzon,1,Noun
+2974,مِسَاس,misaAs,1,Imperative verbal noun
+2975,مُسَٰفِحَٰت,musa`fiHa`t,1,Noun
+2976,مَسَاق,masaAq,1,Noun
+2977,مُّسْتَبْشِرَة,m~usotabo$irap,1,Noun
+2978,مُسْتَبْصِرِين,musotaboSiriyn,1,Noun
+2979,مُسْتَبِين,musotabiyn,1,Adjective
+2980,مُسْتَخْف,musotaxof,1,Noun
+2981,مُّسْتَخْلَفِين,m~usotaxolafiyn,1,Noun
+2982,مُسْتَسْلِمُون,musotasolimuwn,1,Noun
+2983,مُّسْتَطَر,m~usotaTar,1,Noun
+2984,مُسْتَطِير,musotaTiyr,1,Noun
+2985,مُسْتَغْفِرِين,musotagofiriyn,1,Noun
+2986,مُّسْتَقْبِل,m~usotaqobil,1,Noun
+2987,مُسْتَقْدِمِين,musotaqodimiyn,1,Noun
+2988,مُسْتَمْسِكُون,musotamosikuwn,1,Noun
+2989,مُّسْتَنفِرَة,m~usotanfirap,1,Adjective
+2990,مَّسْتُور,m~asotuwr,1,Noun
+2991,مُسْتَيْقِنِين,musotayoqiniyn,1,Noun
+2992,مُسْتَـْٔخِرِين,musota_#oxiriyn,1,Noun
+2993,مُسْتَـْٔنِسِين,musota_#onisiyn,1,Noun
+2994,مَسْجُور,masojuwr,1,Noun
+2995,مَسْجُونِين,masojuwniyn,1,Noun
+2996,مَسْح,masoH,1,Noun
+2997,مُسَخَّر,musax~ar,1,Adjective
+2998,مَّسَد,m~asad,1,Noun
+2999,مَسْغَبَة,masogabap,1,Noun
+3000,مُّسْفِرَة,m~usofirap,1,Noun
+3001,مَّسْفُوح,m~asofuwH,1,Adjective
+3002,مِسْك,misok,1,Noun
+3003,مَّسْكُوب,m~asokuwb,1,Noun
+3004,مَسْكُونَة,masokuwnap,1,Noun
+3005,مُّسْلِمَة,m~usolimap,1,Adjective
+3006,مُسْمَع,musomaE,1,Noun
+3007,مُسْمِع,musomiE,1,Noun
+3008,مُّسَنَّدَة,m~usan~adap,1,Adjective
+3009,مُّسْوَدَّة,m~usowad~ap,1,Adjective
+3010,مُسَوِّمِين,musaw~imiyn,1,Noun
+3011,مُسِىٓء,musiY^',1,Noun
+3012,مَّشَّآء,m~a$~aA^',1,Adjective
+3013,مُشْتَبِه,mu$otabih,1,Noun
+3014,مَشْعَر,ma$oEar,1,Noun
+3015,مِشْكَوٰة,mi$okaw`p,1,Noun
+3016,مَّشْهَد,m~a$ohad,1,Noun
+3017,مَشْي,ma$oy,1,Noun
+3018,مَّشِيد,m~a$iyd,1,Noun
+3019,مُّشَيَّدَة,m~u$ay~adap,1,Noun
+3020,مَصَانِع,maSaAniE,1,Noun
+3021,مُصَّدِّقَٰت,muS~ad~iqa`t,1,Noun
+3022,مُصَّدِّقِين,muS~ad~iqiyn,1,Noun
+3023,مَصْرِف,maSorif,1,Noun
+3024,مَصْرُوف,maSoruwf,1,Noun
+3025,مُصْطَفَيْن,muSoTafayon,1,Noun
+3026,مُّصَفًّى,m~uSaf~FY,1,Noun
+3027,مُصَلًّى,muSal~FY,1,Noun
+3028,مُصَوِّر,muSaw~ir,1,Adjective
+3029,مُصِيب,muSiyb,1,Noun
+3030,مُضَآرّ,muDaA^r~,1,Noun
+3031,مُّضَٰعَفَة,m~uDa`Eafap,1,Adjective
+3032,مُضْطَرّ,muDoTar~,1,Noun
+3033,مُضْعِفُون,muDoEifuwn,1,Noun
+3034,مُضِيّ,muDiy~,1,Noun
+3035,مُّطَاع,m~uTaAE,1,Adjective
+3036,مُطَفِّفِين,muTaf~ifiyn,1,Noun
+3037,مَطْلَع,maTolaE,1,Noun
+3038,مَطْلِع,maToliE,1,Noun
+3039,مُّطَّلِعُون,m~uT~aliEuwn,1,Noun
+3040,مَطْلُوب,maToluwb,1,Noun
+3041,مُطَهِّر,muTah~ir,1,Noun
+3042,مُطَهَّرُون,muTah~aruwn,1,Noun
+3043,مُطَّهِّرِين,muT~ah~iriyn,1,Noun
+3044,مُطَّوِّعِين,muT~aw~iEiyn,1,Noun
+3045,مَطْوِيَّٰت,maTowiy~a`t,1,Noun
+3046,مَظْلُوم,maZoluwm,1,Noun
+3047,مَعَاد,maEaAd,1,Noun
+3048,مَعَاذِير,maEaA*iyr,1,Noun
+3049,مَعَاش,maEaA$,1,Noun
+3050,مُعْتَبِين,muEotabiyn,1,Noun
+3051,مُعْتَرّ,muEotar~,1,Noun
+3052,مَّعْدُود,m~aEoduwd,1,Noun
+3053,مُعَذِّرُون,muEa*~iruwn,1,Noun
+3054,مَّعْرُوفَة,m~aEoruwfap,1,Noun
+3055,مَّعَرَّة,m~aEar~ap,1,Noun
+3056,مَعْز,maEoz,1,Noun
+3057,مَعْزِل,maEozil,1,Noun
+3058,مَعْزُولُون,maEozuwluwn,1,Noun
+3059,مِعْشَار,miEo$aAr,1,Noun
+3060,مُعْصِرَٰت,muEoSira`t,1,Noun
+3061,مُّعَطَّلَة,m~uEaT~alap,1,Noun
+3062,مُعَقِّب,muEaq~ib,1,Noun
+3063,مُعَقِّبَٰت,muEaq~iba`t,1,Noun
+3064,مَعْكُوف,maEokuwf,1,Noun
+3065,مُعَلَّقَة,muEal~aqap,1,Noun
+3066,مُعَلَّم,muEal~am,1,Noun
+3067,مُّعَمَّر,m~uEam~ar,1,Noun
+3068,مَعْمُور,maEomuwr,1,Noun
+3069,مُعَوِّقِين,muEaw~iqiyn,1,Noun
+3070,مَغَٰرَٰت,maga`ra`t,1,Noun
+3071,مُغَٰضِب,muga`Dib,1,Noun
+3072,مُغْتَسَل,mugotasal,1,Noun
+3073,مُغْرَمُون,mugoramuwn,1,Noun
+3074,مَغْشِىّ,mago$iY~,1,Noun
+3075,مَغْضُوب,magoDuwb,1,Noun
+3076,مَغْلُوب,magoluwb,1,Noun
+3077,مُغَيِّر,mugay~ir,1,Noun
+3078,مُغِيرَٰت,mugiyra`t,1,Noun
+3079,مَفَاز,mafaAz,1,Noun
+3080,مُّفَتَّحَة,m~ufat~aHap,1,Noun
+3081,مُفْتَر,mufotar,1,Noun
+3082,مُفْتَرَيَٰت,mufotaraya`t,1,Noun
+3083,مَفْتُون,mafotuwn,1,Noun
+3084,مَفَرّ,mafar~,1,Noun
+3085,مُّفْرَطُون,m~uforaTuwn,1,Noun
+3086,مُفَصَّل,mufaS~al,1,Noun
+3087,مُّفَصَّلَٰت,m~ufaS~ala`t,1,Adjective
+3088,مَقَابِر,maqaAbir,1,Noun
+3089,مَّقَٰمِع,m~aqa`miE,1,Noun
+3090,مُقَامَة,muqaAmap,1,Noun
+3091,مَقْبُوحِين,maqobuwHiyn,1,Noun
+3092,مَّقْبُوضَة,m~aqobuwDap,1,Adjective
+3093,مُّقْتَحِم,m~uqotaHim,1,Noun
+3094,مُّقْتَدُون,m~uqotaduwn,1,Noun
+3095,مُقْتِر,muqotir,1,Noun
+3096,مُّقْتَرِفُون,m~uqotarifuwn,1,Noun
+3097,مُقْتَرِنِين,muqotariniyn,1,Noun
+3098,مُقْتَسِمِين,muqotasimiyn,1,Noun
+3099,مُّقْتَصِدَة,m~uqotaSidap,1,Adjective
+3100,مُقَدَّسَة,muqad~asap,1,Adjective
+3101,مَّقْدُور,m~aqoduwr,1,Noun
+3102,مَقْرَبَة,maqorabap,1,Noun
+3103,مُقْرِنِين,muqoriniyn,1,Noun
+3104,مُقَسِّمَٰت,muqas~ima`t,1,Noun
+3105,مَّقْسُوم,m~aqosuwm,1,Noun
+3106,مُقَصِّرِين,muqaS~iriyn,1,Noun
+3107,مَّقْصُورَٰت,m~aqoSuwra`t,1,Noun
+3108,مَقْطُوع,maqoTuwE,1,Noun
+3109,مَقْطُوعَة,maqoTuwEap,1,Noun
+3110,مُّقْمَحُون,m~uqomaHuwn,1,Noun
+3111,مُقَنطَرَة,muqanTarap,1,Adjective
+3112,مُقْنِعِى,muqoniEiY,1,Noun
+3113,مُقْوِين,muqowiyn,1,Noun
+3114,مُّقِيت,m~uqiyt,1,Noun
+3115,مَقِيل,maqiyl,1,Noun
+3116,مُكَآء,mukaA^',1,Noun
+3117,مُكِبّ,mukib~,1,Noun
+3118,مَكْتُوب,makotuwb,1,Noun
+3119,مُكْث,mukov,1,Noun
+3120,مَكْذُوب,mako*uwb,1,Noun
+3121,مُّكْرِم,m~ukorim,1,Noun
+3122,مُّكَرَّمَة,m~ukar~amap,1,Adjective
+3123,مَكْرُوه,makoruwh,1,Noun
+3124,مَكْظُوم,makoZuwm,1,Noun
+3125,مُكَلِّبِين,mukal~ibiyn,1,Noun
+3126,مَكِيدُون,makiyduwn,1,Noun
+3127,مَكَّة,mak~ap,1,Proper noun
+3128,مُلَٰق,mula`q,1,Noun
+3129,مَّلْعُونِين,m~aloEuwniyn,1,Noun
+3130,مَلْعُونَة,maloEuwnap,1,Noun
+3131,مُلْقِيَٰت,muloqiya`t,1,Noun
+3132,مَلْك,malok,1,Noun
+3133,مَلِيّ,maliy~,1,Noun
+3134,مَلِيك,maliyk,1,Noun
+3135,مِّلْء,m~ilo',1,Noun
+3136,مُمِدّ,mumid~,1,Noun
+3137,مُّمَدَّدَة,m~umad~adap,1,Adjective
+3138,مُّمَرَّد,m~umar~ad,1,Noun
+3139,مُمْسِك,mumosik,1,Noun
+3140,مُمْسِكَٰت,mumosika`t,1,Noun
+3141,مُّمْطِر,m~umoTir,1,Noun
+3142,مَّمْلُوك,m~amoluwk,1,Noun
+3143,مَمْنُوعَة,mamonuwEap,1,Noun
+3144,مُنَاد,munaAd,1,Noun
+3145,مُنَادِي,munaAdiy,1,Noun
+3146,مَنَاص,manaAS,1,Noun
+3147,مَنَاكِب,manaAkib,1,Noun
+3148,مُّنبَثّ,m~unbav~,1,Adjective
+3149,مُّنتَشِر,m~unta$ir,1,Adjective
+3150,مُّنتَهُون,m~untahuwn,1,Noun
+3151,مُنْخَنِقَة,munoxaniqap,1,Noun
+3152,مُنَزِّل,munaz~il,1,Noun
+3153,مُنَزَّل,munaz~al,1,Noun
+3154,مِنسَأَت,minsa>at,1,Noun
+3155,مَّنسِيّ,m~ansiy~,1,Noun
+3156,مُنشَرِين,mun$ariyn,1,Noun
+3157,مُّنَشَّرَة,m~una$~arap,1,Adjective
+3158,مُنشَـَٔات,mun$a_#aAt,1,Adjective
+3159,مُنشِـُٔون,mun$i_#uwn,1,Noun
+3160,مَنطِق,manTiq,1,Noun
+3161,مُنفَطِر,munfaTir,1,Noun
+3162,مُنفِقِين,munfiqiyn,1,Noun
+3163,مُنفَكِّين,munfak~iyn,1,Noun
+3164,مَنفُوش,manfuw$,1,Adjective
+3165,مُّنقَعِر,m~unqaEir,1,Noun
+3166,مَنقُوص,manquwS,1,Noun
+3167,مُّنكِرَة,m~unkirap,1,Noun
+3168,مِنْهَاج,minohaAj,1,Noun
+3169,مُّنْهَمِر,m~unohamir,1,Noun
+3170,مَنَوٰة,manaw`p,1,Proper noun
+3171,مَنُوع,manuwE,1,Noun
+3172,مَنُون,manuwn,1,Noun
+3173,مَّنِىّ,m~aniY~,1,Noun
+3174,مُهَٰجِرَٰت,muha`jira`t,1,Noun
+3175,مُهَان,muhaAn,1,Noun
+3176,مُهْتَدِى,muhotadiY,1,Noun
+3177,مَهْجُور,mahojuwr,1,Noun
+3178,مَهْزُوم,mahozuwm,1,Noun
+3179,مُهْلِكِى,muholikiY,1,Noun
+3180,مُهْلَكِين,muholakiyn,1,Noun
+3181,مَهْمَا,mahomaA,1,Conditional particle
+3182,مَّهِيل,m~ahiyl,1,Adjective
+3183,مَوَاطِن,mawaATin,1,Noun
+3184,مَوَٰقِع,mawa`qiE,1,Noun
+3185,مُّوَاقِعُو,m~uwaAqiEuw,1,Noun
+3186,مَوَٰلِي,mawa`liy,1,Noun
+3187,مَّوْبِق,m~awobiq,1,Noun
+3188,مُؤْتُون,mu&otuwn,1,Noun
+3189,مُّؤَجَّل,m~u&aj~al,1,Adjective
+3190,مَوْر,mawor,1,Noun
+3191,مَوْرُود,maworuwd,1,Noun
+3192,مُورِيَٰت,muwriya`t,1,Noun
+3193,مَّوْزُون,m~awozuwn,1,Noun
+3194,مُّوص,m~uwS,1,Noun
+3195,مَّوْضُوعَة,m~awoDuwEap,1,Adjective
+3196,مَّوْضُونَة,m~awoDuwnap,1,Adjective
+3197,مَوْطِئ,mawoTi},1,Noun
+3198,مَّوْعِدَة,m~awoEidap,1,Noun
+3199,مَوْعُود,mawoEuwd,1,Adjective
+3200,مُوَفُّو,muwaf~uw,1,Noun
+3201,مَّوْفُور,m~awofuwr,1,Noun
+3202,مُوفُون,muwfuwn,1,Noun
+3203,مُوقَدَة,muwqadap,1,Adjective
+3204,مَّوْقُوت,m~awoquwt,1,Adjective
+3205,مَوْقُوذَة,mawoquw*ap,1,Noun
+3206,مَوْقُوفُون,mawoquwfuwn,1,Noun
+3207,مُؤَلَّفَة,mu&al~afap,1,Noun
+3208,مُوَلِّي,muwal~iy,1,Noun
+3209,مُوهِن,muwhin,1,Noun
+3210,مَوْئِل,mawo}il,1,Noun
+3211,مَوْءُدَة,mawo'udap,1,Noun
+3212,مَيْسَرَة,mayosarap,1,Noun
+3213,مَّيْسُور,m~ayosuwr,1,Noun
+3214,مِيكَىٰل,miykaY`l,1,Proper noun
+3215,مَّيْلَة,m~ayolap,1,Noun
+3216,مَـَٔارِب,ma_#aArib,1,Noun
+3217,نَاج,naAj,1,Noun
+3218,نَّٰزِعَٰت,n~a`ziEa`t,1,Noun
+3219,نَاسِكُو,naAsikuw,1,Noun
+3220,نَّٰشِرَٰت,n~a`$ira`t,1,Noun
+3221,نَّٰشِطَٰت,n~a`$iTa`t,1,Noun
+3222,نَاشِئَة,naA$i}ap,1,Noun
+3223,نَّاصِبَة,n~aASibap,1,Adjective
+3224,نَّاضِرَة,n~aADirap,1,Noun
+3225,نَّاعِمَة,n~aAEimap,1,Noun
+3226,نَّاقُور,n~aAquwr,1,Noun
+3227,نَٰكِبُون,na`kibuwn,1,Noun
+3228,نَاكِسُوا,naAkisuwA,1,Noun
+3229,نَّاهُون,n~aAhuwn,1,Noun
+3230,نَّجْدَيْن,n~ajodayon,1,Noun
+3231,نَجَس,najas,1,Noun
+3232,نَّجَوٰة,n~ajaw`p,1,Noun
+3233,نُحَاس,nuHaAs,1,Noun
+3234,نَحْب,naHob,1,Noun
+3235,نَحْس,naHos,1,Noun
+3236,نَّحِسَات,n~aHisaAt,1,Adjective
+3237,نَّحْل,n~aHol,1,Noun
+3238,نِحْلَة,niHolap,1,Noun
+3239,نَّخِرَة,n~axirap,1,Adjective
+3240,نَدِيّ,nadiy~,1,Noun
+3241,نُذْر,nu*or,1,Noun
+3242,نُذُور,nu*uwr,1,Noun
+3243,نَزَّاعَة,naz~aAEap,1,Noun
+3244,نَزْلَة,nazolap,1,Noun
+3245,نُسْخَت,nusoxat,1,Noun
+3246,نَسْر,nasor,1,Proper noun
+3247,نَسْي,nasoy,1,Noun
+3248,نَسِيّ,nasiy~,1,Noun
+3249,نَّسِىٓء,n~asiY^',1,Noun
+3250,نَشْر,na$or,1,Noun
+3251,نَشْط,na$oT,1,Noun
+3252,نُصْب,nuSob,1,Noun
+3253,نُصْح,nuSoH,1,Noun
+3254,نَّصُوح,n~aSuwH,1,Adjective
+3255,نَضَّاخَتَان,naD~aAxataAn,1,Adjective
+3256,نَّضِيد,n~aDiyd,1,Adjective
+3257,نَّطِيحَة,n~aTiyHap,1,Noun
+3258,نَظَر,naZar,1,Noun
+3259,نَظِرَة,naZirap,1,Noun
+3260,نَظْرَة,naZorap,1,Noun
+3261,نَعْلَي,naEolay,1,Noun
+3262,نَعْمَآء,naEomaA^',1,Noun
+3263,نَّفَّٰثَٰت,n~af~a`va`t,1,Noun
+3264,نَّفَاد,n~afaAd,1,Noun
+3265,نَفْحَة,nafoHap,1,Noun
+3266,نَفْخَة,nafoxap,1,Noun
+3267,نَفَق,nafaq,1,Noun
+3268,نَفَقَٰت,nafaqa`t,1,Noun
+3269,نَفِير,nafiyr,1,Noun
+3270,نَقْب,naqob,1,Noun
+3271,نَقْع,naqoE,1,Noun
+3272,نَقِيب,naqiyb,1,Noun
+3273,نَكِد,nakid,1,Noun
+3274,نُّكُر,n~ukur,1,Adjective
+3275,نَّكِير,n~akiyr,1,Noun
+3276,نَمَارِق,namaAriq,1,Noun
+3277,نَمْلَة,namolap,1,Noun
+3278,نَمِيم,namiym,1,Noun
+3279,نَّوَٰصِى,n~awa`SiY,1,Noun
+3280,نُّون,n~uwn,1,Noun
+3281,نَّوَىٰ,n~awaY`,1,Noun
+3282,نَّيْل,n~ayol,1,Noun
+3283,هَآؤُم,haA^&um,1,Imperative verbal noun
+3284,هَٰتَيْن,ha`tayon,1,Demonstrative pronoun
+3285,هَٰدِى,ha`diY,1,Noun
+3286,هَار,haAr,1,Noun
+3287,هَٰرُوت,ha`ruwt,1,Proper noun
+3288,هَٰكَذَا,ha`ka*aA,1,Demonstrative pronoun
+3289,هَامِدَة,haAmidap,1,Noun
+3290,هَاوِيَة,haAwiyap,1,Noun
+3291,هَجْر,hajor,1,Noun
+3292,هَدّ,had~,1,Noun
+3293,هُدْهُد,hudohud,1,Noun
+3294,هَرَب,harab,1,Noun
+3295,هَزْل,hazol,1,Noun
+3296,هَضْم,haDom,1,Noun
+3297,هَضِيم,haDiym,1,Adjective
+3298,هَلُوع,haluwE,1,Noun
+3299,هَمَّاز,ham~aAz,1,Adjective
+3300,هَمَزَٰت,hamaza`t,1,Noun
+3301,هُمَزَة,humazap,1,Noun
+3302,هَمْس,hamos,1,Noun
+3303,هَوْن,hawon,1,Noun
+3304,هِيم,hiym,1,Noun
+3305,وَاجِفَة,waAjifap,1,Adjective
+3306,وَادِي,waAdiy,1,Noun
+3307,وَٰعِظِين,wa`EiZiyn,1,Noun
+3308,وَٰعِيَة,wa`Eiyap,1,Adjective
+3309,وَال,waAl,1,Noun
+3310,وَٰلِدَٰت,wa`lida`t,1,Noun
+3311,وَاهِيَة,waAhiyap,1,Noun
+3312,وَبِيل,wabiyl,1,Adjective
+3313,وَتْر,wator,1,Noun
+3314,وَتِين,watiyn,1,Noun
+3315,وُجْد,wujod,1,Noun
+3316,وَجِلُون,wajiluwn,1,Noun
+3317,وَجِلَة,wajilap,1,Adjective
+3318,وِجْهَة,wijohap,1,Noun
+3319,وُحُوش,wuHuw$,1,Noun
+3320,وَحِيد,waHiyd,1,Noun
+3321,وَدّ,wad~,1,Proper noun
+3322,وُدّ,wud~,1,Noun
+3323,وَرْدَة,warodap,1,Noun
+3324,وَرِق,wariq,1,Noun
+3325,وَرَقَة,waraqap,1,Noun
+3326,وَرِيد,wariyd,1,Noun
+3327,وَزَر,wazar,1,Noun
+3328,وَسَط,wasaT,1,Adjective
+3329,وُسْطَىٰ,wusoTaY`,1,Adjective
+3330,وَسْوَاس,wasowaAs,1,Noun
+3331,وَصْف,waSof,1,Noun
+3332,وَصِيد,waSiyd,1,Noun
+3333,وَصِيلَة,waSiylap,1,Noun
+3334,وَطْـٔ,waTo_#,1,Noun
+3335,وِفَاق,wifaAq,1,Adjective
+3336,وَفْد,wafod,1,Noun
+3337,وَقَار,waqaAr,1,Noun
+3338,وِقْر,wiqor,1,Noun
+3339,وَقْعَت,waqoEat,1,Noun
+3340,وَلِيجَة,waliyjap,1,Noun
+3341,وَهَّاج,wah~aAj,1,Adjective
+3342,يَابِس,yaAbis,1,Noun
+3343,يَاقُوت,yaAquwt,1,Noun
+3344,يَبَس,yabas,1,Adjective
+3345,يَثْرِب,yavorib,1,Proper noun
+3346,يَحْمُوم,yaHomuwm,1,Noun
+3347,يَعُوق,yaEuwq,1,Proper noun
+3348,يَغُوث,yaguwv,1,Proper noun
+3349,يَقْطِين,yaqoTiyn,1,Noun
+3350,يَنْع,yanoE,1,Noun
+3351,ءَاسِن,'aAsin,1,Noun
+3352,ءَافِلِين,'aAfiliyn,1,Noun
+3353,ءَامِرُون,'aAmiruwn,1,Noun
+3354,ءَامِنَة,'aAminap,1,Noun
+3355,ءَان,'aAn,1,Noun
+3356,ءَانِف,'aAnif,1,Noun

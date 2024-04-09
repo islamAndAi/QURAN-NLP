@@ -5,6 +5,7 @@ __pycache__/
 *$py.class
 
 **/.DS_Store
+data/hadith/Sanadset 650K Data on Hadith Narrators/sanadset.csv
 
 # C extensions
 *.so
