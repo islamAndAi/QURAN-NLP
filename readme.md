@@ -5,6 +5,12 @@ NLP & AI on the Quran!
 
 # Dataset Structure
 
+> **Canonical layer** — `data/canonical/` holds a cleaned, long-format version of the
+> Quran-side data (one row per `ayah_no_quran`), produced by
+> `python3 scripts/normalize_data.py` and checked by `python3 scripts/validate_data.py`.
+> See [`data/canonical/README.md`](data/canonical/README.md) for the schema and per-source
+> alignment status.
+
 - **data**
   - **quran**
     - **corpus** (190,655)

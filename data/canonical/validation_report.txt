@@ -1,0 +1,61 @@
+QURAN-NLP data normalization report
+============================================================
+
+Translations:
+  yusuf_ali        rows= 6251 mapped= 6236 missing=   0 complete=True  (verse text + footnotes split)
+  asad             rows= 6427 mapped=    0 missing= n/a complete=False  (own verse division; footnotes split out)
+  pickthall        rows= 6236 mapped= 6236 missing=   0 complete=True  (complete)
+  arberry          rows= 6236 mapped= 6236 missing=   0 complete=True  (complete)
+  lings            rows= 4303 mapped=    0 missing= n/a complete=False  (fragment compilation, not a complete translation)
+  tahir_ul_qadri   rows= 6236 mapped= 6236 missing=   0 complete=True  (complete)
+  ibrahim_walk     rows= 5896 mapped=    0 missing= n/a complete=False  (truncation with internal offsets — needs content alignment)
+  royal_aal_al_bayt rows= 6186 mapped=    0 missing= n/a complete=False  (truncation with internal offsets — needs content alignment)
+  quran_dataset    rows= 6236 mapped= 6236 missing=   0 complete=True  (complete; separate schema (ayah_en))
+
+Tafaseer (6236 rows each, positional ayah_no_quran):
+  jalalayn   per_ayah=True  normalized_arabic_match= 4880 (78.3%)
+  ibn_abbas  per_ayah=True  normalized_arabic_match= 4876 (78.2%)
+  kashani    per_ayah=False normalized_arabic_match=  827 (13.3%)
+  qushairi   per_ayah=False normalized_arabic_match=  178 (2.9%)
+
+Arabic hadith:
+  Maliks Muwatta                 records=  1594 paired=True
+  Musnad Ahmad ibn Hanbal        records= 26363 paired=True
+  Sahih Bukhari                  records=  7008 paired=True
+  Sahih Muslim                   records=  5362 paired=True
+  Sunan Abu Dawud                records=  4590 paired=True
+  Sunan Ibn Maja                 records=  4332 paired=True
+  Sunan al Darami                records=  3367 paired=True
+  Sunan al Tirmidhi              records=  3891 paired=True
+  Sunan al-Nasai                 records=  5662 paired=True
+
+Thaqalayn:
+  AlAmali_TheDictations__ShaykhMuhammadbAlialSaduq.csv    records=1082
+  AlAmali_TheDictations__ShaykhMuhammadbMuhammadalMufid.c records=387
+  AlKafi_TheSufficient_Volume1_ShaykhMuhammadbYaqubalKula records=1452
+  AlKafi_TheSufficient_Volume2_ShaykhMuhammadbYaqubalKula records=2343
+  AlKafi_TheSufficient_Volume3_ShaykhMuhammadbYaqubalKula records=2178
+  AlKafi_TheSufficient_Volume4_ShaykhMuhammadbYaqubalKula records=2190
+  AlKafi_TheSufficient_Volume5_ShaykhMuhammadbYaqubalKula records=2088
+  AlKafi_TheSufficient_Volume6_ShaykhMuhammadbYaqubalKula records=2510
+  AlKafi_TheSufficient_Volume7_ShaykhMuhammadbYaqubalKula records=890
+  AlKafi_TheSufficient_Volume8_ShaykhMuhammadbYaqubalKula records=597
+  AlKhisal_TheBookofCharacteristics__ShaykhMuhammadbAlial records=1282
+  AlTawhid_TheBookofDivineUnity__ShaykhMuhammadbAlialSadu records=575
+  FadailalShia_VirtuesoftheShia__ShaykhMuhammadbAlialSadu records=45
+  KamilalZiyarat_TheCompletePilgrimageGuide__ShaykhJafarb records=750
+  KitabalDuafa_TheWeakenedOnes__AbualHusaynAhmadbalHusayn records=226
+  KitabalGhayba_TheBookofOccultation__AbuAbdAllahMuhammad records=468
+  KitabalGhayba_TheBookofOccultation__ShaykhMuhammadbalHa records=774
+  KitabalMumin_TheBookoftheBeliever__HusaynbSaidalAhwazi. records=201
+  KitabalZuhd_TheBookofAsceticism__HusaynbSaidalAhwazi.cs records=290
+  MaanialAkhbar_TheMeaningsofReports__ShaykhMuhammadbAlia records=833
+  MujamalAhadithalMutabara_AComprehensiveCompilationofRel records=555
+  NahjalBalagha_ThePeakofEloquence__alSharifalRadi.csv    records=3075
+  RisalatalHuquq_TreatiseofRights__attributedtoImamZaynal records=52
+  SifatalShia_AttributesoftheShia__ShaykhMuhammadbAlialSa records=71
+  ThawabalAmalwaiqabalAmal_TheRewardsPunishmentsofDeeds__ records=1107
+  UyunakhbaralRida_TheSourceofTraditionsonImamalRida_Volu records=347
+  UyunakhbaralRida_TheSourceofTraditionsonImamalRida_Volu records=607
+
+Outputs written to data/canonical/ (185849 rows total)

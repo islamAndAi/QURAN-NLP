@@ -7,6 +7,10 @@ __pycache__/
 **/.DS_Store
 data/hadith/Sanadset 650K Data on Hadith Narrators/sanadset.csv
 
+# Generated consolidated hadith files (large; regenerate with scripts/normalize_data.py)
+data/canonical/hadith_arabic.csv
+data/canonical/hadith_thaqalayn.csv
+
 # C extensions
 *.so
 

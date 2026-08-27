@@ -1,0 +1,212 @@
+{
+  "generated_by": "scripts/normalize_data.py",
+  "canonical_ayahs": 6236,
+  "files": {
+    "quran_meta.csv": {
+      "records": 6236,
+      "description": "canonical per-ayah backbone (Uthmani Arabic + metadata)"
+    },
+    "translations.csv": {
+      "records": 31180,
+      "description": "long-format English translations keyed by ayah_no_quran"
+    },
+    "footnotes.csv": {
+      "records": 11533,
+      "description": "Yusuf Ali / Asad footnotes & commentary split from verse text"
+    },
+    "translations_raw": {
+      "files": {
+        "translations_asad_raw.csv": 6427,
+        "translations_lings_raw.csv": 4303,
+        "translations_ibrahim_walk_raw.csv": 5896,
+        "translations_royal_aal_al_bayt_raw.csv": 6186
+      },
+      "description": "raw (non-aligned) translations: asad = divergent verse division, lings = fragment compilation"
+    },
+    "tafaseer.csv": {
+      "records": 24944,
+      "description": "long-format English tafaseer keyed by ayah_no_quran"
+    },
+    "hadith_arabic.csv": {
+      "records": 62169,
+      "description": "9 Arabic hadith books, tashkeel + plain paired"
+    },
+    "hadith_thaqalayn.csv": {
+      "records": 26975,
+      "description": "consolidated thaqalayn (Shia) hadith"
+    }
+  },
+  "translations": [
+    {
+      "slug": "yusuf_ali",
+      "rows": 6251,
+      "mapped": 6236,
+      "missing_ayahs": 0,
+      "trimmed_commentary": 15,
+      "complete": true,
+      "notes": "verse text + footnotes split"
+    },
+    {
+      "slug": "asad",
+      "rows": 6427,
+      "mapped": 0,
+      "missing_ayahs": null,
+      "complete": false,
+      "numbering": "divergent",
+      "notes": "own verse division; footnotes split out"
+    },
+    {
+      "slug": "pickthall",
+      "rows": 6236,
+      "mapped": 6236,
+      "missing_ayahs": 0,
+      "trimmed_commentary": 0,
+      "complete": true,
+      "notes": "complete"
+    },
+    {
+      "slug": "arberry",
+      "rows": 6236,
+      "mapped": 6236,
+      "missing_ayahs": 0,
+      "trimmed_commentary": 0,
+      "complete": true,
+      "notes": "complete"
+    },
+    {
+      "slug": "lings",
+      "rows": 4303,
+      "mapped": 0,
+      "missing_ayahs": null,
+      "complete": false,
+      "numbering": "raw",
+      "notes": "fragment compilation, not a complete translation"
+    },
+    {
+      "slug": "tahir_ul_qadri",
+      "rows": 6236,
+      "mapped": 6236,
+      "missing_ayahs": 0,
+      "trimmed_commentary": 0,
+      "complete": true,
+      "notes": "complete"
+    },
+    {
+      "slug": "ibrahim_walk",
+      "rows": 5896,
+      "mapped": 0,
+      "missing_ayahs": null,
+      "complete": false,
+      "numbering": "raw",
+      "notes": "truncation with internal offsets — needs content alignment"
+    },
+    {
+      "slug": "royal_aal_al_bayt",
+      "rows": 6186,
+      "mapped": 0,
+      "missing_ayahs": null,
+      "complete": false,
+      "numbering": "raw",
+      "notes": "truncation with internal offsets — needs content alignment"
+    },
+    {
+      "slug": "quran_dataset",
+      "rows": 6236,
+      "mapped": 6236,
+      "missing_ayahs": 0,
+      "complete": true,
+      "notes": "complete; separate schema (ayah_en)"
+    }
+  ],
+  "tafaseer": [
+    {
+      "slug": "jalalayn",
+      "rows": 6236,
+      "per_ayah": true,
+      "normalized_arabic_match": 4880,
+      "match_rate": 0.7826
+    },
+    {
+      "slug": "ibn_abbas",
+      "rows": 6236,
+      "per_ayah": true,
+      "normalized_arabic_match": 4876,
+      "match_rate": 0.7819
+    },
+    {
+      "slug": "kashani",
+      "rows": 6236,
+      "per_ayah": false,
+      "normalized_arabic_match": 827,
+      "match_rate": 0.1326
+    },
+    {
+      "slug": "qushairi",
+      "rows": 6236,
+      "per_ayah": false,
+      "normalized_arabic_match": 178,
+      "match_rate": 0.0285
+    }
+  ],
+  "arabic_hadith": [
+    {
+      "book": "Maliks Muwatta",
+      "records": 1594,
+      "paired": true,
+      "plain_file": "Maliks Muwatta Without_Tashkel.csv"
+    },
+    {
+      "book": "Musnad Ahmad ibn Hanbal",
+      "records": 26363,
+      "paired": true,
+      "plain_file": "Musnad Ahmad ibn Hanbal Without_Tashkel.csv"
+    },
+    {
+      "book": "Sahih Bukhari",
+      "records": 7008,
+      "paired": true,
+      "plain_file": "Sahih Bukhari Without_Tashkel.csv"
+    },
+    {
+      "book": "Sahih Muslim",
+      "records": 5362,
+      "paired": true,
+      "plain_file": "Sahih Muslime Without_Tashkel.csv"
+    },
+    {
+      "book": "Sunan Abu Dawud",
+      "records": 4590,
+      "paired": true,
+      "plain_file": "Sunan Abu Dawud Without_Tashkel.csv"
+    },
+    {
+      "book": "Sunan Ibn Maja",
+      "records": 4332,
+      "paired": true,
+      "plain_file": "Sunan Ibn Maja Without_Tashkel.csv"
+    },
+    {
+      "book": "Sunan al Darami",
+      "records": 3367,
+      "paired": true,
+      "plain_file": "Sunan al Darami Without_Tashkel.csv"
+    },
+    {
+      "book": "Sunan al Tirmidhi",
+      "records": 3891,
+      "paired": true,
+      "plain_file": "Sunan al Tirmidhi Without_Tashkel.csv"
+    },
+    {
+      "book": "Sunan al-Nasai",
+      "records": 5662,
+      "paired": true,
+      "plain_file": "Sunan al-Nasai Without_Tashkel.csv"
+    }
+  ],
+  "thaqalayn": {
+    "files": 27,
+    "total_records": 26975
+  },
+  "license_note": "Code is Apache-2.0. Individual translation/tafsir texts retain their own copyright; see sources.md and clear rights before redistribution beyond research."
+}
