@@ -33,6 +33,29 @@ NLP & AI on the Quran!
   - **main_df.csv** (6,236)
 
 
+## Python package & CLI
+
+Zero-dependency package for loading and searching the canonical dataset:
+
+```bash
+pip install -e .            # installs the `quran-nlp` package + CLI
+quran-nlp search "mercy" --k 5     # English BM25 search
+quran-nlp search "الرحمن الرحيم" --arabic
+quran-nlp ayah 2:255         # show an ayah with all translations + tafaseer
+```
+
+Or in Python:
+
+```python
+from quran_nlp import load_quran, EnglishSearch, search_arabic
+EnglishSearch().search("patience", k=5)
+search_arabic("الرحمن الرحيم", k=5)
+```
+
+Also in `scripts/`:
+- `normalize_data.py` — rebuild `data/canonical/` from the raw sources
+- `validate_data.py` — invariant checks (run in CI)
+
 ## Motivation
 
 I thought about using my knowledge of ML & NLP in the Quran to make something out of it. I have tried to

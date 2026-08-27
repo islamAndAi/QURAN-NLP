@@ -13,10 +13,10 @@ Translations:
   quran_dataset    rows= 6236 mapped= 6236 missing=   0 complete=True  (complete; separate schema (ayah_en))
 
 Tafaseer (6236 rows each, positional ayah_no_quran):
-  jalalayn   per_ayah=True  normalized_arabic_match= 4880 (78.3%)
-  ibn_abbas  per_ayah=True  normalized_arabic_match= 4876 (78.2%)
-  kashani    per_ayah=False normalized_arabic_match=  827 (13.3%)
-  qushairi   per_ayah=False normalized_arabic_match=  178 (2.9%)
+  jalalayn   per_ayah=True  normalized_arabic_match= 4948 (79.3%)
+  ibn_abbas  per_ayah=True  normalized_arabic_match= 4944 (79.3%)
+  kashani    per_ayah=False normalized_arabic_match=  848 (13.6%)
+  qushairi   per_ayah=False normalized_arabic_match=  179 (2.9%)
 
 Arabic hadith:
   Maliks Muwatta                 records=  1594 paired=True

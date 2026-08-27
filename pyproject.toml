@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quran-nlp"
+version = "0.1.0"
+description = "Clean data loaders and search for the QURAN-NLP dataset (Quran, translations, tafaseer, hadith)."
+readme = "readme.md"
+requires-python = ">=3.8"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Islam & AI", email = "opensource@islamandai.com" }]
+keywords = ["quran", "nlp", "islam", "hadith", "search", "arabic"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.scripts]
+quran-nlp = "quran_nlp.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+quran_nlp = ["py.typed"]

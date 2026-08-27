@@ -42,6 +42,7 @@ def normalize_arabic(text):
         return ""
     s = text
     s = s.replace("\u0640", "")            # tatweel / kashida
+    s = s.replace("\u0649\u0670", "\u0649")  # alef-maqsura + superscript-alef -> alef-maqsura
     for ch in _ALEF_VARIANTS:
         s = s.replace(ch, "\u0627")        # every alef variant -> plain alef
     s = _STRIP_RE.sub("", s)               # harakat + annotation marks

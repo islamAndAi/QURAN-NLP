@@ -123,29 +123,29 @@
       "slug": "jalalayn",
       "rows": 6236,
       "per_ayah": true,
-      "normalized_arabic_match": 4880,
-      "match_rate": 0.7826
+      "normalized_arabic_match": 4948,
+      "match_rate": 0.7935
     },
     {
       "slug": "ibn_abbas",
       "rows": 6236,
       "per_ayah": true,
-      "normalized_arabic_match": 4876,
-      "match_rate": 0.7819
+      "normalized_arabic_match": 4944,
+      "match_rate": 0.7928
     },
     {
       "slug": "kashani",
       "rows": 6236,
       "per_ayah": false,
-      "normalized_arabic_match": 827,
-      "match_rate": 0.1326
+      "normalized_arabic_match": 848,
+      "match_rate": 0.136
     },
     {
       "slug": "qushairi",
       "rows": 6236,
       "per_ayah": false,
-      "normalized_arabic_match": 178,
-      "match_rate": 0.0285
+      "normalized_arabic_match": 179,
+      "match_rate": 0.0287
     }
   ],
   "arabic_hadith": [
