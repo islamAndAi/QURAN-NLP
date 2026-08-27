@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/islamAndAi/QURAN-NLP/discussions
+    about: Ask questions, share research ideas, and discuss the project.
+  - name: 🌐 islamandai.com
+    url: https://islamandai.com
+    about: The Islam & AI website.

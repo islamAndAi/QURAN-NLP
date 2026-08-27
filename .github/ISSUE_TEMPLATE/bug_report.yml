@@ -1,0 +1,50 @@
+name: 🐛 Bug report
+description: Report a bug in the code, data, or search results.
+title: "[bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report a bug! Please fill in as much detail as you can.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug, and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: |
+        Minimal steps or code to reproduce. For example:
+        ```python
+        from quran_nlp import EnglishSearch
+        EnglishSearch().search("...", k=5)
+        ```
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Commit hash or `quran_nlp.__version__`, plus your Python version.
+      placeholder: "e.g. Python 3.11, commit 83e7d10"
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Data (translations/tafaseer/hadith)
+        - Search (BM25 / Arabic / semantic)
+        - Python package / CLI
+        - Scripts / CI
+        - Documentation
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Logs, screenshots, or anything else that helps.

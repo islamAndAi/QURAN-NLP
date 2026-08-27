@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset or toolkit in your research, please cite it as below."
+title: "QURAN-NLP: NLP & AI on the Qur'an"
+type: software
+authors:
+  - name: "Islam & AI"
+    website: "https://islamandai.com"
+year: 2023
+abstract: >-
+  An open-source dataset and toolkit for machine learning and natural-language
+  processing on the Qur'an, including the Arabic text, a full morphological
+  corpus, multiple English translations and tafaseer, and hundreds of thousands
+  of hadiths, plus a zero-dependency Python package for loading and searching
+  the data.
+keywords:
+  - quran
+  - nlp
+  - arabic
+  - islam
+  - hadith
+  - machine-learning
+  - semantic-search
+license: Apache-2.0
+repository-code: "https://github.com/islamAndAi/QURAN-NLP"
+url: "https://github.com/islamAndAi/QURAN-NLP"

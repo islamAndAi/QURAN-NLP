@@ -1,136 +1,157 @@
-# QURAN NLP
+# QURAN‑NLP
 
-NLP & AI on the Quran!
+**NLP & AI on the Qur'an — open data, tools, and search for Islamic knowledge.**
 
+[![CI](https://github.com/islamAndAi/QURAN-NLP/actions/workflows/ci.yml/badge.svg)](https://github.com/islamAndAi/QURAN-NLP/actions/workflows/ci.yml)
+[![Stars](https://img.shields.io/github/stars/islamAndAi/QURAN-NLP?style=social)](https://github.com/islamAndAi/QURAN-NLP/stargazers)
+[![Forks](https://img.shields.io/github/forks/islamAndAi/QURAN-NLP?style=social)](https://github.com/islamAndAi/QURAN-NLP/forks)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.MD)
+[![Kaggle](https://img.shields.io/badge/dataset-Kaggle-20BEFF.svg)](https://www.kaggle.com/datasets/alizahidraja/quran-nlp)
 
-# Dataset Structure
+QURAN‑NLP is an open-source dataset and toolkit for doing machine learning and
+natural-language processing on the Qur'an — and, increasingly, on Hadith. It
+brings together the Arabic text, a full morphological corpus, multiple English
+translations and tafaseer, and hundreds of thousands of hadiths into one
+**clean, versioned, well-documented** collection, then ships a zero-dependency
+Python package for loading and searching it.
 
-> **Canonical layer** — `data/canonical/` holds a cleaned, long-format version of the
-> Quran-side data (one row per `ayah_no_quran`), produced by
-> `python3 scripts/normalize_data.py` and checked by `python3 scripts/validate_data.py`.
-> See [`data/canonical/README.md`](data/canonical/README.md) for the schema and per-source
-> alignment status.
+---
 
-- **data**
-  - **quran**
-    - **corpus** (190,655)
-      - **dictionary** (53,924)
-      - **morphology** (128,219)
-      - **verbs** (1,475)
-      - **lemmas** (3,680)
-      - **lemmas (grouped)** (3,357)
-    - **quran.csv** (6,236)
-  - **hadith** (700,000+ hadiths!)
-    - **Sanadset** (650,000 hadith) (Note that this data crosses the limit set by github, you can download it from Kaggle)
-    - **arabichadith** (62,169 hadith)
-    - **thaqalayn** (26,975 hadith)
-    - **kaggle_hadith_clean.csv** (34,410 hadith)
-    - **kaggle_rawis.csv** (24,028 rawis)
-  - **namesofallah** (99)
-  - **surah** (114)
-  - **tafseer** (4 * 6,236)
-  - **translation** (9 * 6,236)
-  - **main_df.csv** (6,236)
+## ✨ What you can do with it
 
+- **Search the Qur'an semantically** — in English *and* Arabic — with BM25,
+  embeddings, or diacritic-insensitive lexical matching.
+- **Load any ayah** with its Uthmani Arabic, every English translation, and
+  multiple tafaseer side by side.
+- **Analyze the corpus** — word-by-word morphology, roots, lemmas, and verbs.
+- **Work with Hadith** — the canonical collections, Shia sources, and a
+  24,000‑narrator genealogy graph for isnad analysis.
 
-## Python package & CLI
+---
 
-Zero-dependency package for loading and searching the canonical dataset:
+## 🚀 Quickstart
 
 ```bash
-pip install -e .            # installs the `quran-nlp` package + CLI
-quran-nlp search "mercy" --k 5     # English BM25 search
-quran-nlp search "الرحمن الرحيم" --arabic
-quran-nlp ayah 2:255         # show an ayah with all translations + tafaseer
+git clone https://github.com/islamAndAi/QURAN-NLP.git
+cd QURAN-NLP
+pip install -e .
+
+# Search (English BM25)
+quran-nlp search "mercy" --k 5
+
+# Show an ayah with all translations + tafaseer
+quran-nlp ayah 2:255
 ```
 
-**Semantic search** (optional `[semantic]` extra — sentence-transformers):
+**Semantic search** (optional):
 
 ```bash
 pip install -e ".[semantic]"
-python scripts/build_embeddings.py        # precompute embeddings (offline)
-quran-nlp search "forgiveness" --semantic
-quran-nlp search "الصبر" --semantic       # Arabic auto-detected
+python scripts/build_embeddings.py          # precompute embeddings (offline, ~1 min)
+quran-nlp search "forgiveness" --semantic   # English, auto-detected
+quran-nlp search "الصبر" --semantic         # Arabic, auto-detected
 ```
 
-Embeddings use `intfloat/multilingual-e5-small` by default (good Arabic+English;
-configurable via `--model`). Note: off-the-shelf multilingual models are weaker on
-classical Quranic Arabic than on English — for exact Arabic word lookups prefer
-`--arabic` (diacritic-insensitive lexical search).
+---
 
-Or in Python:
+## 📚 Dataset
+
+The repository ships a **canonical, long-format** layer in
+[`data/canonical/`](data/canonical/README.md) — every Quranic row keyed by a
+stable `ayah_no_quran` (1–6236) — produced from the raw sources by
+`scripts/normalize_data.py` and checked by `scripts/validate_data.py`.
+
+| Area | Contents |
+|------|----------|
+| **Qur'an** | 6,236 ayahs (Uthmani Arabic + word list) |
+| **Corpus** | morphology (128k), dictionary (54k), lemmas (3.7k), verbs (1.5k) |
+| **Translations** | 9 English (5 complete & ayah-aligned; 4 flagged) |
+| **Tafaseer** | 4 English (Jalalayn, Ibn Abbas, Kashani, Qushairi) |
+| **Hadith** | 700,000+ (Sanadset 650k, kaggle 34k, arabic 62k, thaqalayn 27k) |
+| **Narrators** | 24,028 with teacher/student genealogy |
+| **Names of Allah** | 99, richly annotated |
+| **Surah info** | 114 (name, verses, rukus, revelation place) |
+
+**Alignment status** (honest per-source): ✅ complete & verified — Yusuf Ali,
+Pickthall, Arberry, Tahir‑ul‑Qadri, Quran Dataset. ⚠️ kept raw — Asad (own verse
+division), Lings (fragments), Royal Aal al‑Bayt & Ibrahim Walk (internal
+offsets). See [`data/canonical/README.md`](data/canonical/README.md).
+
+---
+
+## 🧰 Python package
 
 ```python
-from quran_nlp import load_quran, EnglishSearch, search_arabic
-EnglishSearch().search("patience", k=5)
-search_arabic("الرحمن الرحيم", k=5)
+from quran_nlp import load_quran, load_translations, load_tafaseer
+from quran_nlp import EnglishSearch, search_arabic
 
-from quran_nlp.embeddings import SemanticSearch  # requires [semantic]
+quran = load_quran()                  # 6,236 dicts
+EnglishSearch().search("patience", k=5)
+search_arabic("الرحمن الرحيم", k=5)   # diacritic-insensitive
+
+from quran_nlp.embeddings import SemanticSearch   # needs [semantic]
 SemanticSearch().search("forgiveness", k=5)
 ```
 
-Also in `scripts/`:
-- `normalize_data.py` — rebuild `data/canonical/` from the raw sources
-- `validate_data.py` — invariant checks (run in CI)
-- `build_embeddings.py` — precompute semantic-search embeddings
+**Search modes**
 
-## Motivation
+| Mode | Method | Best for |
+|------|--------|----------|
+| `EnglishSearch` | Okapi BM25 | fast, exact keyword + phrase |
+| `search_arabic` | normalized lexical | precise Arabic word/root lookup |
+| `SemanticSearch` | multilingual embeddings | meaning-based queries, both languages |
 
-I thought about using my knowledge of ML & NLP in the Quran to make something out of it. I have tried to
-get a summary of the Verses and Tafasir, getting the sentiment analysis, I have made a Search Engine so that 
-any query can be searched as easily as a person does on Google
+---
 
-This is an open source project and I am trying to host it somewhere so people can use it and make the most out of it.
+## 🔬 Research & notebooks
 
-Collaborations are HIGHLY welcome! If anyone can help with the code or help fact-check the search results or summaries 
-that would be a HUGE help!
+The `notebooks/` folder contains the original explorations (word frequency,
+sentiment, summarization, the original USE-based search engine) and
+`webscrapers/` holds the scrapers for Altafsir, QuranCorpus, and Thaqalayn.
 
-Looking forward to doing something great with the Quran & NLP
+## 🗺️ Roadmap
 
-![Search Engine](images/searchengine.png)
+See [`REVIVAL_PLAN.md`](REVIVAL_PLAN.md) for the full plan. Highlights:
 
-## Work till now
+- [x] Clean, versioned dataset + validation
+- [x] Zero-dependency Python package + search
+- [x] Semantic search (Arabic + English)
+- [ ] Knowledge graph (ayah ↔ root ↔ lemma ↔ hadith ↔ narrator)
+- [ ] Quranic Arabic language model (fine-tuned)
+- [ ] Hadith authentication (isnad-graph analysis)
+- [ ] Hosted search API + demo
 
-1. Notebook to scrape data from the website: https://www.altafsir.com/
-2. Provided English translation and Tafseer of Quran in easy-to-use CSV format
-3. Used NLP to get the top 1000 words used in the Quran
-4. Used sentiment analysis for the Quran each surah
-5. Text Summarization for the Quran & each Surah
-6. Search Engine for Quran using Google USE (Universal Sentence Encoder)
-7. Similarity Index of Translation & Tafseer
-8. Notebook to scrape data from https://thaqalayn.net/ which is a Comprehensive Shia Hadith Library 
-9. Notebook to scrape https://corpus.quran.com/ which contains corpus of Quran, including dictionary, verbs, lemmas, morphology
-   
+## 🤝 Contributing
 
-![Top 100 most common words](images/topmost.png)
+Contributions are **highly welcome** — code, data, fact-checking, and
+scholarly review. Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and the
+[Code of Conduct](CODE_OF_CONDUCT.md). Newcomers should start with
+[`GOOD_FIRST_ISSUES.md`](GOOD_FIRST_ISSUES.md).
 
+## 📄 License & sources
 
+- **Code:** [Apache 2.0](LICENSE.MD)
+- **Data:** individual translations and tafaseer retain their own copyrights —
+  see [`sources.md`](sources.md) and the per-file attribution in
+  `data/canonical/dataset_manifest.json`. Always clear rights before
+  redistributing beyond research use.
 
-![Similarity Index](images/textrelation.png)
+## 🔗 Community
 
-## Future Goals
+- Dataset on [Kaggle](https://www.kaggle.com/datasets/alizahidraja/quran-nlp)
+- Website: [islamandai.com](https://islamandai.com)
 
-1. Add more Data!
-2. Add more Tafaseer and translation to better train the NLP model for Search Engine & Analysis
-3. Make an end-to-end application so that everyone can benefit from the newly trained models
-4. Find insightful things from the Quran
-5. Make an Arabic NLP model capable of understanding the Quran
-6. Make a single graph database encompassing Islamic knowledge
-7. Making an AI tool to authenticate Hadith
+## 📖 Citation
 
+```bibtex
+@misc{quran_nlp,
+  title        = {QURAN-NLP: NLP \& AI on the Qur'an},
+  author       = {{Islam \& AI}},
+  year         = {2023},
+  howpublished = {\url{https://github.com/islamAndAi/QURAN-NLP}},
+}
+```
 
-## Important Note
+---
 
-If you find any type of error or mistake in the translation please correct me. If you find the work interesting feel free to build more on it!
-
-
-## How To Contribute
-
-Feel free to make notebooks on the current data, add more data (authentic and with sources) and have a look at the current data to make sure it is authentic and up-to-date!
-
-Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-nlp 
-You can use Kaggle to work on it online too!
-
-Project started: March 1, 2023
-
-![Islam & AI](images/islam_ai.png)
+*Project started March 1, 2023.*

@@ -1,0 +1,42 @@
+name: ✨ Feature request
+description: Suggest a new feature or improvement.
+title: "[feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for the suggestion! We'd love to hear what would make the project better.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your request related to a problem?
+      description: A clear description of what the problem is.
+      placeholder: "e.g. I want to search by Arabic root but there's no way to..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: What should the feature do? Any API/CLI you have in mind?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any other approaches you've thought about.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Data
+        - Search
+        - Python package / CLI
+        - Knowledge graph
+        - Arabic NLP / language model
+        - Hadith / isnad
+        - Documentation
+    validations:
+      required: true
