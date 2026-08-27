@@ -11,6 +11,9 @@ data/hadith/Sanadset 650K Data on Hadith Narrators/sanadset.csv
 data/canonical/hadith_arabic.csv
 data/canonical/hadith_thaqalayn.csv
 
+# Precomputed embeddings (large; regenerate with scripts/build_embeddings.py)
+data/embeddings/
+
 # C extensions
 *.so
 

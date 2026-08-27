@@ -14,7 +14,20 @@ from .search import EnglishSearch, search_arabic
 
 
 def _cmd_search(args):
-    if args.arabic:
+    if args.semantic:
+        try:
+            from .embeddings import SemanticSearch
+        except ImportError as e:
+            print(f"Semantic search unavailable: {e}\n"
+                  "Install it with: pip install -e \".[semantic]\"", file=sys.stderr)
+            return 1
+        try:
+            ss = SemanticSearch(model_name=args.model)
+            results = ss.search(args.query, k=args.k)
+        except FileNotFoundError as e:
+            print(f"{e}\nRun: python scripts/build_embeddings.py", file=sys.stderr)
+            return 1
+    elif args.arabic:
         results = search_arabic(args.query, k=args.k)
     else:
         results = EnglishSearch().search(args.query, k=args.k)
@@ -69,9 +82,11 @@ def main(argv=None):
     parser = argparse.ArgumentParser(prog="quran-nlp", description="Search and explore QURAN-NLP data")
     sub = parser.add_subparsers(dest="command", required=True)
 
-    p = sub.add_parser("search", help="search the Quran (English BM25 or Arabic)")
+    p = sub.add_parser("search", help="search the Quran (BM25, semantic, or Arabic)")
     p.add_argument("query")
     p.add_argument("--arabic", action="store_true", help="Arabic search (diacritic-insensitive)")
+    p.add_argument("--semantic", action="store_true", help="semantic (embedding) search")
+    p.add_argument("--model", default=None, help="embedding model (semantic only)")
     p.add_argument("--k", type=int, default=10)
     p.set_defaults(func=_cmd_search)
 

@@ -44,17 +44,35 @@ quran-nlp search "الرحمن الرحيم" --arabic
 quran-nlp ayah 2:255         # show an ayah with all translations + tafaseer
 ```
 
+**Semantic search** (optional `[semantic]` extra — sentence-transformers):
+
+```bash
+pip install -e ".[semantic]"
+python scripts/build_embeddings.py        # precompute embeddings (offline)
+quran-nlp search "forgiveness" --semantic
+quran-nlp search "الصبر" --semantic       # Arabic auto-detected
+```
+
+Embeddings use `intfloat/multilingual-e5-small` by default (good Arabic+English;
+configurable via `--model`). Note: off-the-shelf multilingual models are weaker on
+classical Quranic Arabic than on English — for exact Arabic word lookups prefer
+`--arabic` (diacritic-insensitive lexical search).
+
 Or in Python:
 
 ```python
 from quran_nlp import load_quran, EnglishSearch, search_arabic
 EnglishSearch().search("patience", k=5)
 search_arabic("الرحمن الرحيم", k=5)
+
+from quran_nlp.embeddings import SemanticSearch  # requires [semantic]
+SemanticSearch().search("forgiveness", k=5)
 ```
 
 Also in `scripts/`:
 - `normalize_data.py` — rebuild `data/canonical/` from the raw sources
 - `validate_data.py` — invariant checks (run in CI)
+- `build_embeddings.py` — precompute semantic-search embeddings
 
 ## Motivation
 

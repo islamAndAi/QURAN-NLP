@@ -20,6 +20,12 @@ classifiers = [
 [project.scripts]
 quran-nlp = "quran_nlp.cli:main"
 
+[project.optional-dependencies]
+semantic = [
+    "sentence-transformers>=2.2",
+    "numpy>=1.20",
+]
+
 [tool.setuptools.packages.find]
 where = ["src"]
 
