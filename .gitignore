@@ -13,6 +13,8 @@ data/canonical/hadith_thaqalayn.csv
 
 # Precomputed embeddings (large; regenerate with scripts/build_embeddings.py)
 data/embeddings/
+# Generated knowledge-graph dump (large; regenerate with scripts/build_graph.py)
+data/graph/
 
 # C extensions
 *.so

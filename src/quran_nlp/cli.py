@@ -13,6 +13,7 @@ from .data import load_quran, load_translations, load_tafaseer
 from .search import EnglishSearch, search_arabic
 
 
+
 def _cmd_search(args):
     if args.semantic:
         try:
@@ -78,6 +79,27 @@ def _cmd_ayah(args):
     return 0
 
 
+def _cmd_graph(args):
+    from .graph import build_graph
+
+    if args.graph_command == "build":
+        g = build_graph()
+        g.export(args.out)
+        print(f"Exported knowledge graph to {args.out}")
+        return 0
+    if args.graph_command == "stats":
+        g = build_graph()
+        stats = g.stats()
+        for label, n in sorted(stats["nodes"].items()):
+            print(f"{label:<9} {n}")
+        for type_, n in sorted(stats["edges"].items()):
+            print(f"{type_:<12} {n}")
+        print(f"unresolved_chain_ids: {stats['unresolved_chain_ids']}")
+        print(f"chainless_hadiths:   {stats['chainless_hadiths']}")
+        return 0
+    return 1
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(prog="quran-nlp", description="Search and explore QURAN-NLP data")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -93,6 +115,14 @@ def main(argv=None):
     p = sub.add_parser("ayah", help="show an ayah with all translations and tafaseer")
     p.add_argument("ref", help="surah:ayah, e.g. 2:255")
     p.set_defaults(func=_cmd_ayah)
+
+    p = sub.add_parser("graph", help="build and inspect the knowledge graph")
+    gsub = p.add_subparsers(dest="graph_command", required=True)
+    gb = gsub.add_parser("build", help="build and export the graph")
+    gb.add_argument("--out", default="data/graph")
+    gb.set_defaults(func=_cmd_graph)
+    gs = gsub.add_parser("stats", help="print graph node/edge counts")
+    gs.set_defaults(func=_cmd_graph)
 
     args = parser.parse_args(argv)
     return args.func(args)

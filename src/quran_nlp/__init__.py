@@ -13,6 +13,7 @@ from .data import (
     load_footnotes,
 )
 from .search import EnglishSearch, search_arabic, search, SearchResult
+from .graph import KnowledgeGraph, build_graph, buckwalter_to_arabic
 
 __version__ = "0.1.0"
 
@@ -27,4 +28,7 @@ __all__ = [
     "search",
     "SearchResult",
     "__version__",
+    "KnowledgeGraph",
+    "build_graph",
+    "buckwalter_to_arabic",
 ]
